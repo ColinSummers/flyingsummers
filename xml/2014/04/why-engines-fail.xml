@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Why Engines Fail</title>
+    <link>http://flyingsummers.com/2014/04/24/why-engines-fail/</link>
+    <pubDate>Fri, 25 Apr 2014 04:29:51 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=1880</guid>
+    <description />
+    <content:encoded>&lt;p class="p1"&gt;&lt;span class="s1"&gt;As mentioned in many other posts, I fly along &lt;a href="http://flyingsummers.com/2006/07/19/engineout/"&gt;waiting for my engine to fail&lt;/a&gt;. That was an integral part of my training: always have an emergency landing location picked out. The whole way from airport to airport. (And, subsequently, I plan my routes to fly over enough airports that there is a real runway within gliding distance most of the time.)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;I felt much better after being up at the Lake one summer and watching Rudy running a little ten horsepower outboard motor that my brother got started after it had sat inactive for nearly twenty years. The thing (very similar technology to the tractor engine in the front of my plane) just hummed along. &lt;/span&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;&lt;a href="https://www.savvymx.com/" target="_blank"&gt;Savvy Aircraft Maintenance&lt;/a&gt; is now responsible for managing the maintenance on our plane. One of the recent annuals was starting to get complex and my brother mentioned their service and I checked it out. On that first annual that they oversaw they saved me three thousand dollars. That pays for four years instantly. Since then they have provided incredibly valuable insight.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt; Mike Busch, who started Savvy, writes a lot about engines in aircraft. Really fascinating stuff and down into the minutia. Reading this article made me feel even better about my engine:&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1" style="padding-left:30px;"&gt;&lt;span class="s1"&gt;&lt;a href="http://blog.aopa.org/opinionleaders/2014/04/09/how-do-piston-aircraft-engines-fail/" target="_blank"&gt;How Do Piston Aircraft Engines Fail&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;It seems like it is pretty unlikely that I would have a catastrophic failure in N971RD, since I do regular maintenance, send the oil off to a laboratory for analysis, fly the plane often, and have digital engine monitors. (I am 1,600 hours toward a 2,000 recommended Time Before Overhaul (TBO), something Savvy does &lt;em&gt;not&lt;/em&gt; recommend doing.)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;I still wouldn’t mind a second engine at some point.&lt;/span&gt;&lt;/p&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>1880</wp:post_id>
+    <wp:post_date>2014-04-24 21:29:51</wp:post_date>
+    <wp:post_date_gmt>2014-04-25 04:29:51</wp:post_date_gmt>
+    <wp:post_modified>2015-03-15 16:23:22</wp:post_modified>
+    <wp:post_modified_gmt>2015-03-15 23:23:22</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>why-engines-fail</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="safety">safety</category>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_latitude</wp:meta_key>
+      <wp:meta_value>0.000000</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_longitude</wp:meta_key>
+      <wp:meta_value>0.000000</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_accuracy</wp:meta_key>
+      <wp:meta_value>0</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wpas_skip_google_plus</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wpas_skip_tumblr</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wpas_skip_path</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

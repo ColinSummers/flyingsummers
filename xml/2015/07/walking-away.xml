@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Walking Away</title>
+    <link>http://flyingsummers.com/2015/07/20/walking-away/</link>
+    <pubDate>Mon, 20 Jul 2015 21:01:24 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=2166</guid>
+    <description />
+    <content:encoded>[caption id="attachment_2167" align="aligncenter" width="620"]&lt;a href="https://flyingsummers.com/wp-content/uploads/2015/07/centennial-plane.jpg"&gt;&lt;img class="size-full wp-image-2167" src="https://flyingsummers.com/wp-content/uploads/2015/07/centennial-plane.jpg" alt="Hard Landing" width="620" height="349" /&gt;&lt;/a&gt; Hard Landing[/caption]
+
+Who knows how long the article will stay up, but &lt;a href="http://denver.cbslocal.com/2015/07/18/2-onboard-small-plane-that-made-hard-landing-able-to-walk-away/"&gt;CBS Denver is reporting&lt;/a&gt; that a two seat version of our plane had engine trouble and wasn't able to make it all the way back to the runway at Centenniel airport in Denver. Instead it landed hard in a grassy field just short of the runway.
+
+The two people got out and walked away. That's what I like to hear. (Dexter and I flew into that very airport two summers ago, with thunderstorms nearby and darkening skies. I was very glad to be on the ground.)</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>2166</wp:post_id>
+    <wp:post_date>2015-07-20 14:01:24</wp:post_date>
+    <wp:post_date_gmt>2015-07-20 21:01:24</wp:post_date_gmt>
+    <wp:post_modified>2015-07-20 14:01:24</wp:post_modified>
+    <wp:post_modified_gmt>2015-07-20 21:01:24</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>walking-away</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>0</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>12917771841</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

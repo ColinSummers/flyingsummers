@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Wheeeee.</title>
+    <link>http://flyingsummers.com/2005/11/12/wheeeee/</link>
+    <pubDate>Sat, 12 Nov 2005 08:00:00 +0000</pubDate>
+    <dc:creator>stingraydoctor</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=6</guid>
+    <description />
+    <content:encoded>The weather is nearly perfect and tomorrow I am going flying. Mom and Alex are being very good sports about the new obsession. When they land from their commercial flight they are making me (and a few guests) a nice dinner then trundling off to get enough sleep to head out to Catalina for breakfast and Santa Maria for lunch. Friends have a house up in &lt;em&gt;Sideways&lt;/em&gt; country and they will meet us at the airport and head to a vineyard with us for a picnic. I feel like a jet setter. Then next weekend I am taking them to the Grand Canyon for Saturday and Sunday. Yippeee.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>376</wp:post_id>
+    <wp:post_date>2005-11-12 00:00:00</wp:post_date>
+    <wp:post_date_gmt>2005-11-12 08:00:00</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 20:57:58</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 03:57:58</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>wheeeee</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>6</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>6</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

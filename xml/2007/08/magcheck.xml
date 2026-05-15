@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Mag Check</title>
+    <link>http://flyingsummers.com/2007/08/01/magcheck/</link>
+    <pubDate>Wed, 01 Aug 2007 16:08:10 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2007/08/01/magcheck/</guid>
+    <description />
+    <content:encoded>The engine in a piston-powered airplane is not like the engine in your automobile. It is much more primitive. Until fairly recently they still had carburetors. In fact, when you rent planes you are sometimes climbing into a thirty year old plane and it will still have a carburetor. Ours has fuel injection. (That’s good, since there are quite a few accidents caused by improper application of carburetor heat, usually not enough so the carburetor inlet fills with ice and the engine dies.) Ours also has a lot of monitors so we can get a decent picture of what is happening in the cylinders, but for the most part the engine is technology they use in tractor engines. Or did use in tractor engines until the early sixties. Our ancient engine technology includes magnetos.&lt;!--more--&gt;
+
+&lt;a href="http://en.wikipedia.org/wiki/Magneto_%28electrical%29"&gt;Wikpedia&lt;/a&gt; tells us that
+&lt;blockquote&gt;Magnetos were also used on most cars up until about 1918 in both low voltage (that would create voltage for secondary coils to fire the spark plugs) and high voltage magnetos that fire the spark plug directly serving a similar function as the coil-type ignition system found in automobiles. In these cases the magneto advantage is in its compact nature and simple reliable function.
+
+They are used in most small aircraft, some racing automobiles and in older tractors.&lt;/blockquote&gt;
+The cylinders each have two spark plugs. The spark plugs are energized by magnetos, set up so that four spark plugs are on one magneto and four are on the other. That way if a magneto fails, one spark plug in each cylinder is still firing.
+
+You test for this on the ground during the run up. You test each time you start up the engine and get ready to fly. There’s usually a spot near the end of the runway for run up. You taxi over, hold the brakes, bring the throttle up so that the engine is humming at 2,000 revolutions per minute, then you turn off the right magneto to see what happens. The loss of hal the spark plugs does reduce the power in the engine, but only by a bit. It will drop the RPMs eight to a hundred twenty. In falight, that would not be critical number at all. So you switch it back so that moth magnetos are on, and turn off the left magneto and observe the drop. In this way you have tested the redundancy of the ignition system.
+
+Yesterday I did a run up before I left Santa Monica. I always do it a little more thoroughly and carefully when I am departing into the clouds because it would be so much more exciting to try to return to the airport without being able to see it. I flew down to Torrance and picked up Adam. No run up necessary after such a short stop, so we took off and landed at Sedona. At Sedona we did a longer run up because we needed to lean for peak power (the altitude was so high), and everything was fine.
+
+Yet, on the way into Double Eagle, NM (KAEG) the engine seemed less happy (EGT on cylinder #3 spiked, CGTs all remained the same). We stopped for forty-five minutes to rest and stretch, and climbed back in. When I did the run up the left magneto dropped three hundred RPM and sounded very rough. Really rough. We decided to take off and stay in the pattern (near to the airport in case we needed to glide back). It did seem that happy. We decided to divert to KABQ, the main Albuquerque airport, where there would be better mechanics.
+
+[caption id="attachment_1361" align="alignleft" width="112"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2007/08/img_0135.jpg"&gt;&lt;img class="size-thumbnail wp-image-1361" alt="Pieces seem clean..." src="http://flyingsummers.com/wp-content/uploads/2007/08/img_0135.jpg?w=112" width="112" height="150" /&gt;&lt;/a&gt; Pieces seem clean...[/caption]
+
+We spent the night in a nice airport hotel. The airport hotel had a shuttle to collect us at the FBO (Fixed Base Operator, the terminal for little planes). The airport hotel had a dinner place that was serving frozen food entrees for twenty-five bucks a person. Oh, for a Baja Fresh.
+
+In the morning the mechanics are still looking at the plane. It doesn’t look like the mags (they pulled those, checked and cleaned them). It doesn’t look like the plugs (also pulled and cleaned) that points to a spark plug lead, but they are still looking. It looks like it might be dirty plugs. We’ll see.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>172</wp:post_id>
+    <wp:post_date>2007-08-01 09:08:10</wp:post_date>
+    <wp:post_date_gmt>2007-08-01 16:08:10</wp:post_date_gmt>
+    <wp:post_modified>2013-06-21 17:45:17</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-22 00:45:17</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>magcheck</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>172</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>172</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

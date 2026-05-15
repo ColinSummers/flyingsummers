@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>New Skin</title>
+    <link>http://flyingsummers.com/2016/03/21/new-skin/</link>
+    <pubDate>Mon, 21 Mar 2016 21:30:15 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=2576</guid>
+    <description />
+    <content:encoded>&lt;img class="alignnone size-full wp-image-2578" src="https://flyingsummers.com/wp-content/uploads/2016/03/skin1.jpg" alt="skin1" width="2439" height="1766" /&gt;
+
+The plane arrived with these custom decals. While waiting for a passenger on Wednesday I started picking at on that was on the rudder trim panel. That was a small piece, about half an inch wide and twelve inches high. It felt similar to picking at a cuticle, and also sort of dangerous, because where do you stop? I pulled off that one piece, my passenger arrived, and that was that.
+
+&lt;!--more--&gt;But then today I took the plane to the wash rack, because wetting it down, crawling all over it and running a sponge over all the surfaces is an excellent way to become more acquainted with the plane and all of the systems.
+
+After I had cleaned most of it, I noticed that one of the stickers on the wingtip was peeling a little. I decided I didn't need them on &lt;em&gt;both&lt;/em&gt; sides of the plane and in a few minutes had pulled it off. Okay, that seemed silly. Now I had one wingtip and one rudder trim panel clean, which was all asymmetrical, but without any purpose. I went around to the port side and removed the sticker from the other wingtip. That's better.
+
+Then I took off the sticker on all of the rudder trim panels, both sides. As I pulled off the last piece on the panel, it revealed a drain hole and half a cup of water drained out onto the concrete. Oops. That means that the people putting on the stickers had no sense of what was okay and what was not. (A simple bit of work with a razor would have kept that drain hole clear.) So I pulled the sticker off both sides of the rudder and, sure enough, there was another drain hole being hidden and a pint and a half of clear fluid drained out. I'm being vague about it being water because I am not &lt;em&gt;positive&lt;/em&gt; it doesn't have some deicing fluid in there. When the deicing system is pumping, it can run back along the rudder and it could get trapped in the same places that water would.
+
+In any case, pulling the rest of the stickers off reveal a third drain hole, another cup and a half a liquid peed out onto the ramp, and then the plane was all white and clean.
+
+&lt;img class="alignnone  wp-image-2577" src="https://flyingsummers.com/wp-content/uploads/2016/03/skin2.jpg" alt="skin2" width="671" height="503" /&gt;
+
+At the end of August the plane will be at the factory for a month and a half getting its new autopilot and new interior. While it is there, they will put a new set of stripes on that match N971RD's new stripes, gorgeous blue and dark blue waves along the fuselage. And, one hopes, nothing blocking any of the drain holes.
+
+In the meantime, I need to get some more scrubbing tools and a "creeper" to scoot around under the plane to scrub the belly. (Eventually I turned these monthly duties on the Diamondstar over to a company. And I will probably do the same with the Twinstar in time, but for now it's good to get familiar with all the little bits of the plane.)</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>2576</wp:post_id>
+    <wp:post_date>2016-03-21 14:30:15</wp:post_date>
+    <wp:post_date_gmt>2016-03-21 21:30:15</wp:post_date_gmt>
+    <wp:post_modified>2016-03-20 18:50:27</wp:post_modified>
+    <wp:post_modified_gmt>2016-03-21 01:50:27</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>new-skin</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>20991107076</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

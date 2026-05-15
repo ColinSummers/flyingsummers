@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Tiny Things</title>
+    <link>http://flyingsummers.com/2017/02/03/tiny-things/</link>
+    <pubDate>Fri, 03 Feb 2017 22:30:00 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=3886</guid>
+    <description />
+    <content:encoded>[caption id="attachment_3888" align="aligncenter" width="452"]&lt;img class="  wp-image-3888 aligncenter" src="https://flyingsummers.com/wp-content/uploads/2017/02/color-red.jpg" alt="color-red" width="452" height="339" /&gt; Back to Red[/caption]
+
+One of the suggestions of the ferry pilot was to collar the autopilot's circuit breaker on the panel with a red ring. When something goes wrong, you want to be able to disable the autopilot as quickly as possible and yanking the circuit breaker would do that. &lt;em&gt;Finding&lt;/em&gt; the correct circuit breaker might take a few moments, so mark that one, critical one. So I ordered the silly fifty cent plastic ring &lt;a href="https://flyingsummers.com/2016/03/24/hints-for-your-aircraft/"&gt;and installed it&lt;/a&gt;. &lt;!--more--&gt;
+
+Oddly, when it returned from the factory from all of the upgrades, the ring had changed color from red to white. I guess while taking the entire instrument panel apart that item went missing and they used what they had on hand. When I would glance over it would bother me. So I ordered a replacement and installed it. (I also put our new customs decal on the airframe where it is protected by the canopy.
+
+The real subject of the post is this half dozen:
+
+[caption id="attachment_3887" align="aligncenter" width="2460"]&lt;img class=" size-full wp-image-3887 aligncenter" src="https://flyingsummers.com/wp-content/uploads/2017/02/six-pins.jpg" alt="six-pins" width="2460" height="1438" /&gt; Bad Guys[/caption]
+
+Those are from the connector to the Altitude and Heading Reporting System (AHRS), and are part of the ribbon cable responsible for bringing the data from the AHRS into the G1000. Sometime during all of the upgrade work those six were bent. Unfortunately, they were not bent quite enough to register as bad on the diagnostic that is run, nor did the test flight show anything.
+
+The AHRS has behaved perfectly since &lt;a href="http://flyingsummers.com/2016/07/04/one-more-engine-and-a-team-of-mechanics/"&gt;my mechanics&lt;/a&gt; replaced these six fellows. I believe there is still some connector issue with the autopilot, but I haven't been able to capture the behavior yet. It is extremely infrequent, but appears to be some sort of disorientation of the flight director. The operation of such a complex autopilot is actually very simple (press AP, press HDG for heading, monitor progress), but I am still aware that it could be pilot error. So I am waiting before I chase that particular ghost in the machine.
+
+I consider this a good end to &lt;a href="http://flyingsummers.com/2017/01/06/the-real-excitement/"&gt;the exciting flight&lt;/a&gt; and &lt;a href="http://flyingsummers.com/2017/01/13/photographic-trip/"&gt;flight home&lt;/a&gt;: broken part found and replaced, misbehavior has not been seen since. To test the plane I have been doing a few Angel Flight missions here in Southern California, but I hope soon to make a longer trip up to Portland.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>3886</wp:post_id>
+    <wp:post_date>2017-02-03 14:30:00</wp:post_date>
+    <wp:post_date_gmt>2017-02-03 22:30:00</wp:post_date_gmt>
+    <wp:post_modified>2017-02-03 12:53:33</wp:post_modified>
+    <wp:post_modified_gmt>2017-02-03 20:53:33</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>tiny-things</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>1475711605</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

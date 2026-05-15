@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>View from the Little Window</title>
+    <link>http://flyingsummers.com/2005/10/21/view-from-the-little-window/</link>
+    <pubDate>Fri, 21 Oct 2005 17:20:12 +0000</pubDate>
+    <dc:creator>stingraydoctor</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=46</guid>
+    <description />
+    <content:encoded>[caption id="attachment_1974" align="alignleft" width="300"]&lt;a href="https://flyingsummers.com/wp-content/uploads/2005/10/oops-coulda.jpg"&gt;&lt;img class="size-medium wp-image-1974" src="https://flyingsummers.com/wp-content/uploads/2005/10/oops-coulda.jpg?w=300" alt="Could have been Oops" width="300" height="225" /&gt;&lt;/a&gt; Could have been Oops[/caption]
+
+On my way up to Paso Robles to take my flight test I decided to hold the Elph out the little window to circumvent the problem of shooting through scratched plexiglas. A piece of advice: hold very tightly to your camera if you try this. There is a good deal more wind than you might suppose and I nearly lost the camera. That would have been typical.
+
+By way of a short follow up to my previous post on the test: the story of a flight log. My grandfather’s enlistment in the Royal Canadian Flying Corps for the tail end of the First World War was a major source of entertainment for me as a child. There were photos to be examined, letters to be read, and most interesting of all a small yellow book with a leather clasp that contained all his flight data. A log book from the First World War probably only counts as an historical document in my melodramatic mind, but I got a real thrill as I flew up to Paso Robles knowing it was in my pocket. The last time that book left the ground in a single engine airplane, the plane was slow, ungainly, fragile and well armed. I made shooting noises as I flew up. Several planes took damage from my bullets, along with some farm houses and a VOR.
+
+When I passed the test I asked the examiner to sign me off in my grandfather’s log as well as my own. Colin just had the same examiner sign the log for him. Hopefully I will not have to pry the book from his fingers as it is one of my treasured possessions.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>46</wp:post_id>
+    <wp:post_date>2005-10-21 10:20:12</wp:post_date>
+    <wp:post_date_gmt>2005-10-21 17:20:12</wp:post_date_gmt>
+    <wp:post_modified>2015-03-29 16:52:57</wp:post_modified>
+    <wp:post_modified_gmt>2015-03-29 23:52:57</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>view-from-the-little-window</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="flight">Flight</category>
+    <category domain="post_tag" nicename="help">help</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <category domain="category" nicename="training">Training</category>
+    <category domain="category" nicename="trip">Trip</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>46</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>46</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

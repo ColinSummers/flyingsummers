@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Crashing in the Forest for the Trees</title>
+    <link>http://flyingsummers.com/2013/09/11/crashing-in-the-forest-for-the-trees/</link>
+    <pubDate>Wed, 11 Sep 2013 20:56:43 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=1799</guid>
+    <description />
+    <content:encoded>[caption id="attachment_1797" align="aligncenter" width="508"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/09/page1.png"&gt;&lt;img class="size-full wp-image-1797" alt="Front Page" src="http://flyingsummers.com/wp-content/uploads/2013/09/page1.png" width="508" height="365" /&gt;&lt;/a&gt; Front Page[/caption]
+
+&lt;span style="line-height:1.5;"&gt;It always bothers me to see "a miracle" used to describe really excellent engineering and materials selection.&lt;!--more--&gt;The Suqanee couple is alive because the engineers at Diamond Aircraft made the decision to design a plane for a possible crash, rather than just for flying. That's an odd decision since it puts a lot of budget on parts and materials that only get used once, but consistent with modern vehicle design. Mercedes and Volvo design cars to have collisions and eventually they influenced the rest of the market (and the regulators).&lt;/span&gt;
+
+It is always a mistake to look at an accident before the NTSB report is released. I was reading one recently where the pilot had alcohol and marijuana in his blood stream. You could look at the accident for weeks and without that piece of information you wouldn't have been able to guess at the root cause of the accident.
+
+So I don't know how George McCarter flew his wife and their Diamondstar into the trees in a national park's forest. In another report it said he "was looking at the compass." There's no way to know what that means, but apparently he had no idea he was going to run into the mountain until he ran into the mountain.
+
+And there was all that engineering excellence, with the wing tearing off to absorb a bunch of the collision's energy, and the carbon fiber keeping him and his wife safe. They climbed out of the plane with minor bumps and bruises.
+
+[caption id="attachment_1798" align="aligncenter" width="640"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/09/page2.png"&gt;&lt;img class="size-full wp-image-1798" alt="Following Page" src="http://flyingsummers.com/wp-content/uploads/2013/09/page2.png" width="640" height="394" /&gt;&lt;/a&gt; Following Page[/caption]
+
+&amp;nbsp;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>1799</wp:post_id>
+    <wp:post_date>2013-09-11 13:56:43</wp:post_date>
+    <wp:post_date_gmt>2013-09-11 20:56:43</wp:post_date_gmt>
+    <wp:post_modified>2015-03-15 16:23:48</wp:post_modified>
+    <wp:post_modified_gmt>2015-03-15 23:23:48</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>crashing-in-the-forest-for-the-trees</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="crash">crash</category>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

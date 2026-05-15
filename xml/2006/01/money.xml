@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Money</title>
+    <link>http://flyingsummers.com/2006/01/26/money/</link>
+    <pubDate>Thu, 26 Jan 2006 23:02:17 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2006/01/26/money/</guid>
+    <description />
+    <content:encoded>&lt;p&gt;There is an aviation joke: What makes an airplane fly? And the person being asked (usually a student pilot) tosses out all sorts of correct answers about airfoils, the Bernoulli effect, lift, and so on. The joke answer is: Money.&lt;/p&gt;
+&lt;p&gt;I think I’ll try to limit my discussion of aviation and finances to this one entry. The truth is that flying is an expensive hobby. There’s no way around that. When you work out the cost per mile in fuel, flying from one spot to another is about as expensive as driving in our minivan. When you start to look at the cost of the vehicle, the insurance, the cost of training the pilot/driver, and on and on… flying is expensive. It just is. Like collecting art, sending your kids to private school, having more than one car, and pretending that computers and consumer electronics are necessary… these are things we can do because we are fortunate and because Nell has worked hard.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;I obsessively keep track of every penny that we spend on everything. As soon as I started flying I started categories for it. The flying school warned me that it would be expensive, thousands of dollars, to learn to fly. They said it would cost six to seven thousand dollars. Their planes cost a hundred dollars per hour to rent and their instructors cost fifty dollars an hour to have riding along with you. Knowing that you need ten hours of solo time before you take the check ride, that means they expect you to spend forty hours in a plane with an instructor. (Every three hours of pure ground school is an hour of time in the plane with the instructor.)&lt;/p&gt;
+&lt;p&gt;There were a few flights that I took that I didn’t have to. It’s hard to know how those contributed to my training. I flew out to Catalina with the boys. That was a little over five hundred dollars. I might have been able to combine my cross country flights, so I might have spent a couple hundred dollars there which I didn’t have to. I certainly did more ground school with the instructor than I had to; Adam and I could have done all the ground school on our own with the DVDs. We should have. We will for the IFR portion if we continue in that direction.&lt;/p&gt;
+&lt;p&gt;I bought some things like the DVDs for training. Those were three hundred dollars. I’m not sure how those count. I had to buy a set of headphones.&lt;/p&gt;
+&lt;p&gt;It stretched beyond amount the flight school quoted. It was over ten thousand dollars. You shouldn’t need the exact figure because it’s not important, and if you are trying to figure out your own costs they will differ anyway. My suggestions for minimizing the costs are straightforward, but depend a little bit on what sort of student you are: Get the King DVDs, do the ground school and pass the written test on your own. You probably have already gone and taken an introductory flight, which is fine. Just try to fly as little as possible until you have passed the written. A lot of the flying lessons make more sense when you know the material for the written exam. The learning also goes faster because you are familiar with the concepts.&lt;/p&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>72</wp:post_id>
+    <wp:post_date>2006-01-26 15:02:17</wp:post_date>
+    <wp:post_date_gmt>2006-01-26 23:02:17</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 21:15:23</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 04:15:23</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>money</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <category domain="category" nicename="training">Training</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>72</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>72</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

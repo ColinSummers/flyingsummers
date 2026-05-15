@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Oxygen Solution</title>
+    <link>http://flyingsummers.com/2007/08/05/o2/</link>
+    <pubDate>Mon, 06 Aug 2007 00:10:30 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2007/08/05/o2/</guid>
+    <description />
+    <content:encoded>Flying little airplanes with single engines you want to climb up as high as you can. Altitude is safety, since if something goes wrong you have some time to glide toward a good emergency landing spot and some time to diagnose and solve the problem. Thinner air up higher means the airplane faces less drag and you gain some speed. The engine also gets less oxygen, which means it burns less fuel. All in all, higher is better.&lt;!--more--&gt;Except for breathing: there is less oxygen the further up you go. Jet pilots (and pilots of fancier airplanes than ours) don’t worry about this problem because their airplanes are pressurized. Little pumps keep the cabins at the same pressure they would be if they were flying much lower (usually around seven thousand feet above sea level).
+
+For little tiny planes like the Diamondstar pilots generally carry oxygen bottles. When I started flying it, we outfitted it with a system from Mountain High. It has four hoses and a pulse system to conserve the oxygen. I have used it once, as a test, flying up to 16,500 with Adam on the way to Ryan Field, Arizona. It worked perfectly. It was also a bit of a pain to get filled, cost something to fill, and I had to keep track if I had enough for a flight.
+
+It seems like there should be a better solution.
+
+It’s coming. I can feel it.
+
+Oxygen is used all the time in medicine. With our graying population, the health industry will continue to develop oxygen solutions. Patients with emphysema and other lung-performance degradations are put on oxygen. Then they deal with bottles, filling, and so forth. A number of companies have come in to assist with these hassles; one of them is Inogen. They make an oxygen concentrator. It’s a little battery-operated gizmo that pulls the oxygen out of the air around it, and concentrates it for someone breathing through a hose connected to it.
+
+[caption id="attachment_1355" align="alignright" width="112"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2007/08/img_0139.jpg"&gt;&lt;img class="size-thumbnail wp-image-1355" alt="O2 Solution" src="http://flyingsummers.com/wp-content/uploads/2007/08/img_0139.jpg?w=112" width="112" height="150" /&gt;&lt;/a&gt; O2 Solution[/caption]
+
+Perfect for an airplane, really. So Inogen has a new sticker on their device and calls it the Inogen Aviator. It’s not yet on the market, but I got to test a unit on our &lt;a href="http://www.flyingsummers.com/2007/08/05/success/"&gt;cross-the-country trip&lt;/a&gt;.
+
+What we carried:
+&lt;blockquote&gt;The unit itself. It is incredibly light and the size of a gallon of milk (maybe squished a little taller). It’s quiet, a small humming that you can’t possibly hear over the engine. It has a carrying case that has a shoulder strap. The case has pockets for all the other items.
+
+Three batteries, which were good for two hours each. They take about three hours to charge back up. Certainly carrying three meant that we were good for two legs of flying and over five hundred nautical miles of range.
+
+A power adapter for the unit, which means that we could charge a battery in the unit when it is plugged in.
+
+A separate charger for the batteries, so at our stops we could actually charge two of the batteries at a time. We never needed to do that.
+
+A little blue box which allowed us to connect two people to one system. Eventually that will be a piece as cool as the main unit. The one we carried is a prototype.
+
+A fingertip monitor for oxygen level in our blood.&lt;/blockquote&gt;
+We connected to the system with nasal canulas. After a few days it was no fun to have the plastic tube stuffed up our noses and we would take a break. In general, they were comfortable enough that we used the oxygen even at relatively low altitudes. The first day of flying we were on oxygen the entire time. I am certain that it meant we were much less fatigued at the end of a three-hour leg. It is especially good at night, since night vision is the first casualty of even slight oxygen depravation.
+
+The display showed us the time remaining on a battery.
+
+It was so easy to use that there’s not a lot to tell. We would hop in, put on the canulas, turn on the machine and fly. Every now and then I’d check the display to confirm there was battery left. When there was less than half an hour we would set a timer on the G1000 to tell us when it was going to run out.
+
+Optimally, this little unit would sit way in the back with the luggage. It would run off the electrical system of the plane, a trickle charger keeping the battery live and the battery there for keeping the system running if your electrical system stops. There should be a remote portion that is up front, where you can plug all four people in and control the unit (on, off, speed of delivery). But overall it was great.
+
+&lt;a class="imagelink" title="o2.jpg" href="http://www.flyingsummers.com/wp-content/uploads/2007/08/o2.jpg"&gt;
+&lt;/a&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>180</wp:post_id>
+    <wp:post_date>2007-08-05 17:10:30</wp:post_date>
+    <wp:post_date_gmt>2007-08-06 00:10:30</wp:post_date_gmt>
+    <wp:post_modified>2013-06-21 17:37:28</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-22 00:37:28</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>o2</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>180</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>180</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

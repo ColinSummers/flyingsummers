@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Returning from the North</title>
+    <link>http://flyingsummers.com/2017/08/08/returning-from-the-north/</link>
+    <pubDate>Wed, 09 Aug 2017 03:59:49 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=4124</guid>
+    <description />
+    <content:encoded>Dexter spent eight weeks at the &lt;a href="https://fhl.uw.edu/" target="_blank" rel="noopener"&gt;Friday Harbor Marine Laboratories&lt;/a&gt;, studying the mechanical properties of fish skin. At the end of the program he had a huge sleep debt and I flew him back home. We were meant to depart at 7am, but there was unforecast fog blanketing the island when I woke up.
+
+"How's the weather?"
+"Birds are walking."&lt;!--more--&gt;
+
+The rule for commercial flights is that they can't take off unless they have an airport they can land at immediately if something goes wrong. That means a lot of short flights don't take off if the conditions at the departure airport are too low for the instrument approach there.
+
+Like that morning in Friday Harbor, where there was only a quarter mile of visibility and instead of a ceiling for the cloud cover we had "two hundred feet vertical visibility." There's no way you are landing at this little airport. Legally, Part 91 (personal) flights can take off zero-zero. Zero miles of visibility and zero feet from the ground to the clouds. Even in a twin engine plane I am not looking at what is likely to happen, but what would I do if the &lt;em&gt;unlikely&lt;/em&gt; were to happen? And there would be no good options. So although we could legally depart, we remained on the ground, waiting to head home to Nell and Rudy until a little bit after lunch.
+
+It was a beautiful flight with a stop in Santa Rosa for a late Chipotle lunch.
+
+[gallery ids="4101,4102,4103,4104,4123,4106,4107,4108,4113,4110,4118,4116,4111,4112,4122,4120" type="rectangular"]</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>4124</wp:post_id>
+    <wp:post_date>2017-08-08 20:59:49</wp:post_date>
+    <wp:post_date_gmt>2017-08-09 03:59:49</wp:post_date_gmt>
+    <wp:post_modified>2017-08-08 20:59:49</wp:post_modified>
+    <wp:post_modified_gmt>2017-08-09 03:59:49</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>returning-from-the-north</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>8072673395</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

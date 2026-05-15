@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>A Little More Fame</title>
+    <link>http://flyingsummers.com/2007/09/07/adcomment/</link>
+    <pubDate>Sat, 08 Sep 2007 04:17:01 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2007/09/07/adcomment/</guid>
+    <description />
+    <content:encoded>Oh, I have quite a few things to write about, since I've flown both directions across the continent. I've crossed the northern border to our colder brother to the north. I'm working on those entries, but in the meantime, just a little news:
+
+&lt;!--more--&gt;The Federal Aviation Administration controls the maintenance and inspection of all the aircraft in the United States. They get rather detailed about it. When you buy a plane you get a handbook that details the sort of repair and inspection work your craft will need and every page in it is approved by the FAA.
+
+Every now and then they look at accidents and service incidents and determine that you need to do something a little differently than the original instructions. Maybe you need to add a new part, or lubricate an existing part more frequently. These pronouncements are Airworthiness Directives.
+
+When the FAA is going to release a new Airworthiness Directive they post it publicly for comments. I saw one that they were considering for my plane. It was for the nose wheel landing gear leg and they wanted it inspected for cracks. The original intention was that it be done &lt;em&gt;immediately&lt;/em&gt;. I wrote them a comment explaining that the incident that prompted the AD was in a training airplane that operated out of grass strips. The &lt;em&gt;vast&lt;/em&gt; majority of the fleet was on paved runways and this inspection could be done at the next mandatory annual service.
+
+The FAA agreed, changed their Airworthiness Directive and mentioned me by name. (You can search &lt;a href="http://a257.g.akamaitech.net/7/257/2422/01jan20071800/edocket.access.gpo.gov/2007/E7-16098.htm"&gt;this web page&lt;/a&gt; for Colin and I pop up.) This is better than &lt;a href="http://www.flyingsummers.com/2006/02/02/fame/"&gt;the last time&lt;/a&gt; I came to the attention of the FAA.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>182</wp:post_id>
+    <wp:post_date>2007-09-07 21:17:01</wp:post_date>
+    <wp:post_date_gmt>2007-09-08 04:17:01</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 21:49:12</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 04:49:12</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>adcomment</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>182</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>182</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

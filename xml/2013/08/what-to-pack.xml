@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>What to Pack</title>
+    <link>http://flyingsummers.com/2013/08/02/what-to-pack/</link>
+    <pubDate>Fri, 02 Aug 2013 21:05:16 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=1626</guid>
+    <description />
+    <content:encoded>&lt;blockquote&gt;This post is part of the five pieces that make up 2013’s &lt;a href="http://flyingsummers.com/2013/08/01/how-to-cross-the-country/"&gt;How To Fly Across&lt;/a&gt;.&lt;/blockquote&gt;
+I made a very detailed post about &lt;a href="http://flyingsummers.com/2008/04/03/carried/"&gt;the items we packed&lt;/a&gt; into the plane on the first flight across. The list has not changed &lt;em&gt;that&lt;/em&gt; much, but I understand a few things better now. We are not going to be aloft for days at a time and packing the snack box like we are going to live out of it is unnecessary. Now that I have &lt;a href="http://flyingsummers.com/2010/04/30/efb/"&gt;an electronic flight bag&lt;/a&gt; I no longer need to carry all of the approach plates in paper form. That was a huge relief. I used to have to ask Rudy to pass forward particular states and stow others. Now each airport is just a tap away. (As backup, we have several iPads on board and they all have the same software on them. If all iPads are out of commission I actually have ForeFlight loaded on my iPhone and I could use &lt;em&gt;that&lt;/em&gt; to bring up an approach.) The EFB also eliminates the IFR atlases I was dragging around. &lt;!--more--&gt;
+
+The laptop I had packed is no longer necessary. The boys both carry their own machinery. An absurd amount (I am trying to get my own load of computational mass down an order of magnitude or so), but it is theirs to carry. I also used to have a CD carrier loaded with DVDs for them, and that’s just not how movies work anymore.
+
+I wish the oxygen generator turned out to be a better thing. In fact, I wish one twice that size (it would work for four people) was built into the plane. Sadly, the company that makes that little unit lives on money from the Medicare system, so their product remains priced artificially high. For now we have a Mountain High oxygen bottle and it has worked really well on the occasions that we have needed it.
+
+Along with the little round sunscreens I now carry custom-made curtains for the plane (which black things out entirely in the rear seats for the boys and block out particular areas up front so that Nell can see her screen when she needs to work). Those deserve a post all to themselves, since they are now on their second iteration.
+
+I only carry one quart of oil. If I need to put in more than that something has gone very wrong and I shouldn’t be getting back into the plane in any case.
+
+In general, I believe that when I started out I pictured being isolated along the way, in very remote places where I couldn’t get a bottle of water or an Advil. In practice, I haven’t found this to be true. I had enough flat tires that I put together an entire set of tools, a jack, a spare tube and instructions for how to change one of the main tires if it went flat. Since I put the kit into the plane I have paid more attention to keeping the proper pressure in the tires and have not had another flat. If I do, I do not expect to be changing it myself. So the heaviest parts of the kit remain at home in my garage now.
+
+I don’t bring the picnic blanket, either. We’ve eaten seated at tables on all of the trips, even the one where we landed out on Martha Vineyard’s long grass strip and walked to the beach. We’re not as rustic as I thought.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>1626</wp:post_id>
+    <wp:post_date>2013-08-02 14:05:16</wp:post_date>
+    <wp:post_date_gmt>2013-08-02 21:05:16</wp:post_date_gmt>
+    <wp:post_modified>2013-08-07 10:15:09</wp:post_modified>
+    <wp:post_modified_gmt>2013-08-07 17:15:09</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>what-to-pack</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>0</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

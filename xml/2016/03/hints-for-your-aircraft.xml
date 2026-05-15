@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Hints for your Aircraft</title>
+    <link>http://flyingsummers.com/2016/03/24/hints-for-your-aircraft/</link>
+    <pubDate>Thu, 24 Mar 2016 21:30:56 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=2640</guid>
+    <description />
+    <content:encoded>[caption id="attachment_2641" align="alignnone" width="3264"]&lt;img class="alignnone size-full wp-image-2641" src="https://flyingsummers.com/wp-content/uploads/2016/03/red-collar.jpg" alt="red-collar" width="3264" height="2448" /&gt; Trouble maker: red collar[/caption]
+
+The fellow that dropped off the plane, Dick Filbey, had two good pieces of advice. Actually, he had more than that, but I am cataloging them slowly. Both can be used by other pilots, so they should be documented here.
+
+&lt;!--more--&gt;The first is that among the field of circuit breakers there is &lt;strong&gt;one&lt;/strong&gt; that you are going to want to grab in an emergency. That's the autopilot. When you are in IMC, stuck inside a cloud, following the complex set of steps to get the plane on the ground, and the plane suddenly veers left it means the autopilot has gone haywire. You are looking at close to forty individual circuit breakers and there is &lt;strong&gt;one&lt;/strong&gt; that will stop the mad autopilot from turning the plane upside down. Filbey said, "put a red collar on it, you'll see it right away."
+
+Thirty cents later, taken care of.
+
+The other is even more clever, although might apply to fewer pilots.
+
+[caption id="attachment_2642" align="alignright" width="283"]&lt;img class="  wp-image-2642 alignright" src="https://flyingsummers.com/wp-content/uploads/2016/03/sticker.jpg" alt="sticker" width="283" height="377" /&gt; Hidden like it is contraband[/caption]
+
+I fly across the border once a year. Twice if I'm lucky. The government insists that we have a sticker on the vessel to identify it. It is keyed to all of my information. I have had some unpleasant experiences at the border and they have all been returning to my own country.
+
+The government has a suggested location just below the window on the pilot's side, but Filbey pointed out that when you put the sticker on the outside of the plane, someone can (carefully) lift the sticker off your plane. "I'm from the government and I'm here to help." Where they want the sticker it is in the sun, fading, out in the weather getting torn to bits. I'd never really thought about it. My canopy was open and Filbey tapped the frame and said, "They require the sticker be visible when they are interviewing the pilot. If you are talking to them, the canopy is open, so I put the sticker right here.
+
+We paid the extra $6 so that the sticker arrived today.
+
+Get ready, Canada, we're coming for you.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>2640</wp:post_id>
+    <wp:post_date>2016-03-24 14:30:56</wp:post_date>
+    <wp:post_date_gmt>2016-03-24 21:30:56</wp:post_date_gmt>
+    <wp:post_modified>2017-01-22 15:44:54</wp:post_modified>
+    <wp:post_modified_gmt>2017-01-22 23:44:54</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>hints-for-your-aircraft</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_done_external</wp:meta_key>
+      <wp:meta_value>a:1:{s:8:"facebook";a:1:{i:13978481;s:38:"https://facebook.com/10102937676808925";}}</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value>2641</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>21097967596</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_done_14057349</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wpas_done_13978481</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

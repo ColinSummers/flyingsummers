@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Photo Crossing, Beta</title>
+    <link>http://flyingsummers.com/2016/09/05/photo-crossing-beta/</link>
+    <pubDate>Mon, 05 Sep 2016 19:25:18 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=3444</guid>
+    <description />
+    <content:encoded>I appear to have lost the "blog roll" portion of my sidebar. I'll have to fix that eventually. But one of the blogs over there is &lt;a href="http://warrior481.blogspot.com/" target="_blank"&gt;Photographic Logbook&lt;/a&gt;, which always seems clever to me because you want to snap some photographs anyway, your logbook does not include enough description and the pictures are worth thousands of words, and getting an entry up should be a little less work.
+
+&lt;img class="alignnone size-full wp-image-3442" src="https://flyingsummers.com/wp-content/uploads/2009/04/2016-aug-east.png" alt="2016-aug-east" width="1137" height="320" /&gt;
+
+&lt;!--more--&gt;In that vein, this is my last crossing of the country, already add to the &lt;a href="http://flyingsummers.com/crossing-the-country/"&gt;Crossing the Country&lt;/a&gt; page. Romeo Delta has now crossed the country three times for the summer, which is more than we've done before. All three of them have been solo, which is also very unusual, but the boys were busy for the summer and Nell needed to be in Los Angeles. I wanted the plane on the east coast for our trip to New Hampshire. Then I wanted to have the plane home so that I could drop Rudy at college in Portland and collect Dexter from Friday Harbor where he was for the summer. So I flew it west. &lt;em&gt;Then&lt;/em&gt; it needed to be dropped at the factory at the end of August (and I wanted to be able to use it to get up to the lake in Ontario). So here I was flying it back east.
+
+Fortunately, with the oxygen and the new plane, it is an entirely different proposition. Not getting vibrated by the large-displacement cylinders directly in front of the firewall is a big difference. With the fuel capacity (no passengers, minimal luggage) giving me a 7.5 hour range (over eleven hundred nautical miles), I have more options for where to land next. My first leg was just to Flagstaff, where it was difficult to keep from jumping right back in the plane. That meant I could skip any other high-altitude landings and, in fact, I made it all the way to Mid-Continent Airport, where Lindbergh suggested that flights crossing the continent stop for the night. I ignored his advice and pressed on to Indianapolis. That left me a 4.5 hour flight to Bedford in the morning, and I hopped in an Uber to Cambridge, MA to see Dexter's dorm and help move him in.
+
+This post is marked "beta" because I didn't think I was trying to "write" a post with photographs. Next flight I will try to keep it in mind.
+
+[gallery ids="3462,3463,3465,3464,3466,3458,3459,3460,3456,3461,3457" type="rectangular"]</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>3444</wp:post_id>
+    <wp:post_date>2016-09-05 12:25:18</wp:post_date>
+    <wp:post_date_gmt>2016-09-05 19:25:18</wp:post_date_gmt>
+    <wp:post_modified>2016-09-05 12:27:53</wp:post_modified>
+    <wp:post_modified_gmt>2016-09-05 19:27:53</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>photo-crossing-beta</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>26517724573</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

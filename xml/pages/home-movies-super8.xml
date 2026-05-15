@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Home Movies: Super8</title>
+    <link>http://flyingsummers.com/home-movies-super8/</link>
+    <pubDate>Thu, 05 Sep 2024 19:48:53 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">https://flyingsummers.com/?page_id=5120</guid>
+    <description />
+    <content:encoded>&lt;!-- wp:group {"metadata":{"name":"Page Title"},"align":"full","style":{"spacing":{"padding":{"top":"calc( 0.5 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))","bottom":"calc( 0.5 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))","left":"var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-left, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal))","right":"var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal))"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","justifyContent":"center"}} --&gt;
+&lt;div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:calc( 0.5 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)));padding-right:var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal));padding-bottom:calc( 0.5 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)));padding-left:var(--wp--style--root--padding-left, var(--wp--custom--gap--horizontal))"&gt;&lt;!-- wp:spacer {"height":"var:preset|spacing|20"} --&gt;
+&lt;div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} --&gt;
+&lt;div class="wp-block-columns alignwide"&gt;&lt;!-- wp:column {"width":"50%","style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} --&gt;
+&lt;div class="wp-block-column" style="flex-basis:50%"&gt;&lt;!-- wp:heading --&gt;
+&lt;h2 class="wp-block-heading"&gt;Four Reels&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;
+
+&lt;!-- wp:column {"width":"50%"} --&gt;
+&lt;div class="wp-block-column" style="flex-basis:50%"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Converted 2024, no sound.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;&lt;/div&gt;
+&lt;!-- /wp:columns --&gt;
+
+&lt;!-- wp:spacer {"height":"var:preset|spacing|20"} --&gt;
+&lt;div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:video {"id":5134,"guid":"ViWxtjCX","videoPressClassNames":"wp-block-embed is-type-video is-provider-videopress"} --&gt;
+&lt;figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+https://videopress.com/v/ViWxtjCX?resizeToParent=true&amp;amp;cover=true&amp;amp;preloadContent=metadata&amp;amp;useAverageColor=true
+&lt;/div&gt;&lt;figcaption&gt;1964 Adam Arrives West Orange, NJ&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- /wp:video --&gt;
+
+&lt;!-- wp:video {"id":5133,"guid":"AP7KHUzT","videoPressClassNames":"wp-block-embed is-type-video is-provider-videopress"} --&gt;
+&lt;figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+https://videopress.com/v/AP7KHUzT?resizeToParent=true&amp;amp;cover=true&amp;amp;preloadContent=metadata&amp;amp;useAverageColor=true
+&lt;/div&gt;&lt;figcaption&gt;1967 Adam &amp;amp; Colin WWK, and Bermuda vacation&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- /wp:video --&gt;
+
+&lt;!-- wp:video {"id":5132,"guid":"RT7ftQHM","videoPressClassNames":"wp-block-embed is-type-video is-provider-videopress"} --&gt;
+&lt;figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+https://videopress.com/v/RT7ftQHM?resizeToParent=true&amp;amp;cover=true&amp;amp;preloadContent=metadata&amp;amp;useAverageColor=true
+&lt;/div&gt;&lt;figcaption&gt;1967 1968 Fair Haven, WWK&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- /wp:video --&gt;
+
+&lt;!-- wp:group {"metadata":{"name":"Images"},"align":"full","style":{"spacing":{"padding":{"top":"calc( 0.5 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))","bottom":"calc( 0.5 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))","left":"var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-left, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal))","right":"var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal))"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained","justifyContent":"center"}} --&gt;
+&lt;div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:calc( 0.5 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)));padding-right:var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal));padding-bottom:calc( 0.5 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)));padding-left:var(--wp--style--root--padding-left, var(--wp--custom--gap--horizontal))"&gt;&lt;!-- wp:video {"id":5124,"guid":"RF2sUpHO","videoPressClassNames":"wp-block-embed is-type-video is-provider-videopress"} --&gt;
+&lt;figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+https://videopress.com/v/RF2sUpHO?resizeToParent=true&amp;amp;cover=true&amp;amp;preloadContent=metadata&amp;amp;useAverageColor=true
+&lt;/div&gt;&lt;figcaption&gt;1969 Brett's Arrival Fair Haven&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- /wp:video --&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:video {"id":5149,"poster":"https://videos.files.wordpress.com/cGi93bFn/film20reel20memories_mp4.scrubthumb.jpg","guid":"cGi93bFn","videoPressClassNames":"wp-block-embed is-type-video is-provider-videopress"} --&gt;
+&lt;figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+https://videopress.com/v/cGi93bFn?resizeToParent=true&amp;amp;cover=true&amp;amp;posterUrl=https%3A%2F%2Fvideos.files.wordpress.com%2FcGi93bFn%2Ffilm20reel20memories_mp4.scrubthumb.jpg&amp;amp;preloadContent=metadata&amp;amp;useAverageColor=true
+&lt;/div&gt;&lt;figcaption&gt;1969 Spring Search for Pine Cones&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- /wp:video --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>5120</wp:post_id>
+    <wp:post_date>2024-09-05 12:48:53</wp:post_date>
+    <wp:post_date_gmt>2024-09-05 19:48:53</wp:post_date_gmt>
+    <wp:post_modified>2025-10-08 12:46:55</wp:post_modified>
+    <wp:post_modified_gmt>2025-10-08 19:46:55</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>home-movies-super8</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+      <wp:meta_value>block-editor</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>advanced_seo_description</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>jetpack_seo_html_title</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>jetpack_seo_noindex</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_coblocks_attr</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_coblocks_dimensions</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_coblocks_responsive_height</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_coblocks_accordion_ie_support</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_jetpack_post_was_ever_published</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>reader_suggested_tags</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_starter_page_template</wp:meta_key>
+      <wp:meta_value>gallery-page-description-and-grid</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wpcom_template_layout_category</wp:meta_key>
+      <wp:meta_value>a:1:{i:0;s:8:"featured";}</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>footnotes</wp:meta_key>
+      <wp:meta_value />
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>firehose_sent</wp:meta_key>
+      <wp:meta_value>1725565733</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_elasticsearch_data_sharing_indexed_on</wp:meta_key>
+      <wp:meta_value>2024-09-05 19:48:21</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

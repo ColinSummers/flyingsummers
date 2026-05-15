@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Glory Be</title>
+    <link>http://flyingsummers.com/2019/08/04/glory-be/</link>
+    <pubDate>Mon, 05 Aug 2019 02:24:16 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=4363</guid>
+    <description />
+    <content:encoded>As Nell and I crossed the country (my &lt;a href="http://flyingsummers.com/crossing-the-country/"&gt;thirty-third flight&lt;/a&gt; across in a little plane) we were very lucky with weather and spent almost no time ducking around thunderstorms, which was supremely fortunate for a summer flight.
+
+On our evening descent into Cedar Rapids there were a few moisture-laden clouds still hanging around. With ADS-B and ATC watching me on radar, and with the evening hour dropping the little plane number to just us as far as I could see, we were a little relaxed about the cloud regulations. I will fly through something gauzy in that instance.&lt;!--more--&gt;
+
+&lt;img class="  wp-image-4368 aligncenter" src="https://flyingsummers.com/wp-content/uploads/2019/08/glory.jpg" alt="glory.jpg" width="638" height="425" /&gt;
+
+The sun was setting behind us and as we approached the last filmy curtain of clouds we saw a rainbow target appear on its surface. I couldn't remember the name of this phenomena, but later was able to recall enough to google it. It's called &lt;a href="https://en.wikipedia.org/wiki/Glory_(optical_phenomenon)" target="_blank" rel="noopener"&gt;a glory&lt;/a&gt;. People often capture them from their airliner seat like the one above.
+
+&lt;img class=" size-full wp-image-4370 aligncenter" src="https://flyingsummers.com/wp-content/uploads/2019/08/profile.png" alt="profile.png" width="610" height="156" /&gt;
+
+As we were marveling at the ring of rainbow colors we closed in on it and the magic of our angle of descent matching the angle of the sun meant that for a moment we saw our own silhouette in the center of the glory and then we zoomed through it, to the orange-cast of the sunset-lit city below us. It was an amazing moment.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>4363</wp:post_id>
+    <wp:post_date>2019-08-04 19:24:16</wp:post_date>
+    <wp:post_date_gmt>2019-08-05 02:24:16</wp:post_date_gmt>
+    <wp:post_modified>2019-08-04 19:24:16</wp:post_modified>
+    <wp:post_modified_gmt>2019-08-05 02:24:16</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>glory-be</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>timeline_notification</wp:meta_key>
+      <wp:meta_value>1564971859</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>33659858476</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

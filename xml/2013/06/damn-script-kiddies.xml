@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Damn Script Kiddies</title>
+    <link>http://flyingsummers.com/2013/06/17/damn-script-kiddies/</link>
+    <pubDate>Tue, 18 Jun 2013 04:41:09 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=1048</guid>
+    <description />
+    <content:encoded>&lt;span style="line-height:1.5;"&gt;A few months ago my mother pointed out that the flying blog had gone down. It’s not that she’s the most loyal reader (although it works out that way), she kept it as her home page in her browser because of the randomly rotating images in the header. So she noticed immediately if it went down. Or at least as soon as she opened a new browser window.&lt;/span&gt;
+
+&lt;!--more--&gt;Apparently the Wordpress installation on the server in Australia was hacked. Probably through some SQL-injection vulnerability. I didn’t always keep the Wordpress installation entirely up-to-date.
+
+The real unfortunate part of it is that images were lost. Somehow the hacking reset the host’s passwords and I can no longer log in. There is no customer support with the host, which was free hosting for registering the domain with them a decade or so ago. Dead loss. Somewhere across many computers I have those images. Or most of them. Adam probably has some, too. I will try to put it together entry-by-entry.
+
+My friend David Shaw helped me bring the majority of the text back online. Ilya Brook has been instrumental in the formation of the blog, care of the domain and host and in rescuing it a few other times.
+
+When we travelled westward this past summer (2012), we stopped in Sioux Falls, South Dakota. I was a little buzzed from the flight, since it had some variables (possible diversion for a restroom break for a passenger, impending weather, planning for lunch). Soon after we had landed another Diamondstar pilot landed. After he had checked in I introduced myself as the pilot of the other DA40 on the ramp. He said, “I know. I read your blog. I fly out of Camarillo and my flight instructor gave me a link to your blog when I said I was going to fly across the country. He said your blog had a lot of good information.”
+
+I admit I was a little stunned. Plus I was recovering from the long flight. I should have gotten his name and an email address. I hadn’t really considered this little site a resource, but that was silly. I learned a lot about my plane from &lt;a title="Philip Greenspun" href="http://philip.greenspun.com/" target="_blank"&gt;Philip Greenspun’s&lt;/a&gt; writings about his &lt;a title="DA40 Review" href="http://philip.greenspun.com/flying/diamond-da40" target="_blank"&gt;experiences in his DA40&lt;/a&gt;, so it stands to reason that someone might be doing the same from my writings (and Adam’s).
+
+So the first page I brought back with images was the one about &lt;a title="Crossing the Country" href="http://flyingsummers.com/crossing-the-country/" target="_blank"&gt;crossing the country&lt;/a&gt;. And I will add the other crossings to it before I do any work on the blog entries. I will try to update this entry a little bit as I work.
+
+Update Jun 18 11am: The Crossing the Country page is complete with all the trips and maps for each course from coast to coast. I rescued the two blog entries that were missing from the backup I had.
+
+Update Jun 20 6pm: All 177 posts have been perused and marked "clean" or "help," depending on whether they need images fixed. There are still 69 posts where I need to add the images back to the post. In some cases I need to just edit out the references to the images.
+
+Update Jul 13 4pm: I have 42 posts left to clean up.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>1048</wp:post_id>
+    <wp:post_date>2013-06-17 21:41:09</wp:post_date>
+    <wp:post_date_gmt>2013-06-18 04:41:09</wp:post_date_gmt>
+    <wp:post_modified>2013-07-13 15:44:04</wp:post_modified>
+    <wp:post_modified_gmt>2013-07-13 22:44:04</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>damn-script-kiddies</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>0</wp:meta_value>
+    </wp:postmeta>
+    <wp:comment>
+      <wp:comment_id>24</wp:comment_id>
+      <wp:comment_author>mrxinu</wp:comment_author>
+      <wp:comment_author_email>sklassen@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://gravatar.com/mrxinu</wp:comment_author_url>
+      <wp:comment_author_IP>71.236.192.234</wp:comment_author_IP>
+      <wp:comment_date>2013-06-18 06:23:30</wp:comment_date>
+      <wp:comment_date_gmt>2013-06-18 13:23:30</wp:comment_date_gmt>
+      <wp:comment_content>It's heart-warming isn't it? =)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>0</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_result</wp:meta_key>
+        <wp:meta_value>false</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:4:{s:4:"time";d:1371561811.163444042205810546875;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:6:"mrxinu";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>jabber_published</wp:meta_key>
+        <wp:meta_value>1371568482</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:4:{s:4:"time";d:1371568482.9674890041351318359375;s:7:"message";s:51:"colinsummers changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:12:"colinsummers";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+        <wp:meta_value>2013-06-18 13:23:30</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+  </item>
+</wordpress-item>

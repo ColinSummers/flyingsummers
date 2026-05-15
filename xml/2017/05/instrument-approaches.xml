@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Instrument Approaches</title>
+    <link>http://flyingsummers.com/2017/05/30/instrument-approaches/</link>
+    <pubDate>Tue, 30 May 2017 18:29:25 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=4080</guid>
+    <description />
+    <content:encoded>&lt;p class="p1"&gt;There is the old saw about getting your Private Pilot certificate, that it “is a ticket to learn,” meaning that you’ve just gotten the little slip of paper that lets you learn to be a better pilot. I totally buy that. I didn’t count on forgetting some of the things I learned, though.&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;To get my &lt;a href="https://flyingsummers.com/2006/10/25/cleared/"&gt;ticket to fly in the clouds&lt;/a&gt; I needed to have an encyclopedic knowledge of the types of instrument approaches to bring the plane out of the clouds and onto the runway. In practice, in real life flying, there only seemed to be two that mattered: ILS and VOR approaches. There’s a VOR approach into Santa Monica and a lot of the larger airports I land at have an ILS. Let’s just look at these two types. Well, let’s just mention the least precise sort of approach, so that we have them all here.&lt;/span&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;Non-Directional Beacon (NDB): These are being phased, but they were state of the art way back when. The transmitter on the ground gives some hint about where you are going and some distance measuring equipment (DME) lets you narrow it down a little. I have never flown one and will never fly one. But there area few still out there.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;VHF Omnidirectional Range (VOR): This is really what I fly most often, because it’s the approach into Santa Monica’s little airport. It provides fantastic lateral guidance so you know exactly where you are side to side, and you simply step down point by point on the approach. Some pilots are bothered by the lack of vertical guidance and call them “dive and drive” approaches. Since I know where I am, the set of steps doesn’t concern me. I don’t like that the lack of vertical guidance means they can only bring you within 500 feet of the ground, but if the weather is worse than that I’m usually not flying.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;Instrument Landing System (ILS): These were set up for the airlines. When clouds were closer to the ground they were missing too many landings, so the engineers figured out a way to broadcast a signal that provided vertical guidance to the touchdown zone. These can usually get you down to within 200 feet of the ground. (Eventually these systems were augmented so that very well-equipped aircraft could fly Category III approaches where the plane could fly itself to the runway without any forward or vertical visibility at all, the zero-zero approach.) When I &lt;a href="https://flyingsummers.com/2016/08/23/til/"&gt;land at Indianapolis’ main airport&lt;/a&gt;, I am following an ILS to the runway.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;There are some subtleties. There is a localizer approach where the transmitters for an ILS are used without the vertical guidance. So you have more precise lateral guidance, but steps like with a VOR approach. And there are some non-instrument approaches that instrument-rated pilots are allowed to fly, like the Contact approach (you can see the ground and know your way to the airport, you just can’t see the runway) and the Charted Visual Flight Procedure where they describe the Contact approach with a series of landmarks and turns. I have flown one Contact approach (to my home field) and will never fly a CVFP. (Charter pilots are not allowed to fly Contact approaches and I am not going to pretend I am a better pilot than the average charter pilot.)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;For the first two hundred hours that I flew the new plane, it was a standard instrument flying platform. ILS and VOR approaches with GPS and a moving map to augment my situational awareness. The old plane had &lt;a href="https://flyingsummers.com/2010/05/18/waas/"&gt;the WAAS upgrade&lt;/a&gt; and when N972RD went to the factory for the upgrades they added WAAS (necessary in any case for the mandatory ADS-B upgrade). &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;On my &lt;a href="https://flyingsummers.com/2016/12/22/the-cake/"&gt;flight down to Palm Springs&lt;/a&gt; I just flew the VOR-B to the airport. The ceilings were high enough that I was already in VFR conditions and I didn’t ask any questions when the approach controller assigned me to an approach that had a decision height 1,800 feet above the airport. I remember the tower was a little surprised when I said we could cancel an continue on an visual approach because I’m pretty sure they couldn’t see me from the tower. I could see the runway through the haze and scattered clouds, though, and had no problem flying direct to the numbers. But the VOR approach brought me in on a course of 292 for a runway that was lined up for a heading of 310. &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;When I looked at the other approaches they had large lettering: “AUTHORIZATION REQUIRED.” Yes, in all caps. In the cockpit, descending out of the clouds of ice, it wasn’t worth more research into the RNAV (RNP) Y RWY 31L approach. I called my friend Mossy from &lt;a href="https://www.youtube.com/user/FlyingLikeThePros" target="_blank" rel="noopener noreferrer"&gt;Fly Like the Pros&lt;/a&gt; and asked him about the RNAV. After twenty minutes of him explaining to me the &lt;strong&gt;very&lt;/strong&gt; few airplanes that can fly RNP (“Did you trade in your Falcon 7? G650 in the shop?”), I came to the slow realization that the Palm Springs airport is useless to General Aviation flights if the ceiling is below 1,800 feet. That’s sort of amazing. It has to do with the way the airport is nestled in against the terrain and how the usual ways of guiding a plane to the airport require you to be lined up with the runway several miles away from the airport. (Several miles away from the airport if you are lined up with the runway you are inside the mountain.)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;That’s sad because the RNAV (RNP) approaches are both beautiful. The RNAV to runway 13R is striking, with a free-form curve to bring planes in around the mountains to line up for the runway.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt; &lt;img class="  wp-image-4081 aligncenter" src="https://flyingsummers.com/wp-content/uploads/2017/05/rnav-13r.png" alt="rnav-13r" width="465" height="670" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;It looks like for Palm Springs flights you want to keep Thermal airport as your alternate. An RNAV (GPS) approach will get you within 374 feet of the ground there. (The plane carrying President Obama and his family had to land at San Bernardino in January 2017 because they were not equipped to fly this approach and Thermal didn't have a long enough runway for them.)&lt;/span&gt;&lt;/p&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>4080</wp:post_id>
+    <wp:post_date>2017-05-30 11:29:25</wp:post_date>
+    <wp:post_date_gmt>2017-05-30 18:29:25</wp:post_date_gmt>
+    <wp:post_modified>2017-05-30 11:29:25</wp:post_modified>
+    <wp:post_modified_gmt>2017-05-30 18:29:25</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>instrument-approaches</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>5602518944</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

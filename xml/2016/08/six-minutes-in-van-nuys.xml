@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Six minutes in Van Nuys</title>
+    <link>http://flyingsummers.com/2016/08/09/six-minutes-in-van-nuys/</link>
+    <pubDate>Tue, 09 Aug 2016 18:05:47 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=3273</guid>
+    <description />
+    <content:encoded>&lt;p class="p1"&gt;Yesterday in an Uber which was dropping me at the Santa Monica Airport, the driver said, "Did you see that pilot who crashed in Van Nuys?" He said it with the usual hook of discussing current events: this is something interesting to talk about. I said, "Yes, that was &lt;a href="https://flyingsummers.com/2006/12/12/art/"&gt;my friend Art&lt;/a&gt;." He became immediately somber and said, "I'm sorry." So am I.&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;After a dozen years of flying, Art is my first pilot friend that died while flying. I have gone through the details exhaustively, to understand (for myself, really) what happened. In aviation we try very hard to learn from other pilots’ mistakes, especially when they can no longer learn from them. &lt;/span&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;&lt;b&gt;Art’s Fatal Accident&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;Art Newman was seventy-eight when he died in his light sport aircraft.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;N341AL was Art’s plane, an &lt;a href="http://www.flylightning.net/ls-1.html"&gt;Airon Lightning&lt;/a&gt; light sport airplane. “Light sport” means: it is not allowed to fly faster than 120kts, it has to land at slower than 45kts, it can only carry two people, and it cannot fly in instrument conditions.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;I listened to the audio archive of the air traffic frequency that Art was on for the last minutes of his life. &lt;/span&gt;&lt;span class="s1"&gt;It is so rare to have someone’s last words recorded, especially a friend, although probably more common in aviation than any other pursuits. I can’t think of another situation where this is &lt;em&gt;always&lt;/em&gt; the case.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;First, a &lt;/span&gt;&lt;span class="s1"&gt;little history about Art and his plane.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;img class="  wp-image-3278 alignleft" src="https://flyingsummers.com/wp-content/uploads/2016/08/kcma-n341al.jpg" alt="kcma-n341AL" width="496" height="372" /&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;In Spring 2016, Art landed hard at Camarillo. Hard enough to break the nose gear of the plane, disabling from further flying. O&lt;/span&gt;&lt;span class="s1"&gt;ne of the many plane spotters took a photograph while it was waiting to be repaired. You can see the plane sits low enough that the propeller struck the runway on landing. This wasn't the first time Art had landed poorly in the plane. A few months before he had the identical accident in Hawthorne. Even beat up, it is a sleek, pretty plane. A week after this photo it was repaired and flying again. A pilot who read about the accident said that he had considered building a Lightning, but he did more research and read that it was an unforgiving plane. &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;Which brings us to Art's final flight. &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;According to people at the airport, Art had been scheduled for an FAA 709 ride. That would be related to the &lt;a href="https://www.law.cornell.edu/uscode/text/49/44709" target="_blank"&gt;49 ESC 44709&lt;/a&gt; which describes how a pilot’s certificate to fly might be revoked. Although he had told me that he was no longer flying by himself, Art flew over to Van Nuys solo. He would have been worried that he couldn’t pass the check ride, and he was right to worry. Chances are that a Designated Pilot Examiner would have made him do a bunch of different landings, since he had the accident at Camarillo. (I am unsure whether they knew about the similar incident at the Hawthorne airport.)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;After downloading the file I cleaned up a bunch of the static, removed a bunch of long gaps, and transcribed the portions that included Art. My audio is here: &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;[audio src="https://flyingsummers.com/wp-content/uploads/2016/08/newman6.mp3"][/audio]&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;and that’s what my transcript timestamps will match.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span class="s1"&gt;His first check in on the radio is as he’s coming through the Sepulveda Pass from Santa Monica. &lt;/span&gt;&lt;/p&gt;
+
+
+[caption id="attachment_3274" align="alignleft" width="255"]&lt;img class="  wp-image-3274 alignleft" src="https://flyingsummers.com/wp-content/uploads/2016/08/check-in.png" alt="check-in" width="255" height="654" /&gt; Likely path[/caption]
+&lt;blockquote&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Art: Van Nuys Tower, Lightsport 341 Alpha Lima I’m just coming over the hill for a full stop landing on runway one six left.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Tower: Lightsport 341 Alpha Lima, stay east of the 405 freeway for now and make left traffic runway one six left. &lt;/span&gt;&lt;span class="s3"&gt; 00:00:21&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;One of the things that Art and I talked about while hangar flying (sitting around talking flying) was radio work. How do you speak on the radio to get the best service from Air Traffic Control, what are the best practices and how do you sound the most professional? The simple rule for a radio call is to state the following: who you are calling, who you are, where you are, and what you want. Already on the audio he sounds a little behind. The proper radio call would have been, “Van Nuys Tower, Lightsport 341 Alpa Lima in the Sepulveda Pass, two thousand feet, inbound with the ATIS for touch and go landings on one six left.”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;My red line shows the approximate path that the plane would fly. Along the 405 Freeway heading north, parallel to the runways, and then make a left turn (“…make left traffic…”) and another left to land on the runway one six left. (Runways are numbered for the compass heading you are on when you are lined up to land. Van Nuys has two runways, one six right and one six left. It is the busiest general aviation airport in the country and you can watch the documentary “&lt;a href="http://www.imdb.com/title/tt0475994/?ref_=fn_al_tt_1" target="_blank"&gt;One Six Right&lt;/a&gt;” if you want to know more about it.)&lt;/span&gt;&lt;/p&gt;
+
+
+[caption id="attachment_3280" align="alignright" width="278"]&lt;img class="  wp-image-3280 alignright" src="https://flyingsummers.com/wp-content/uploads/2016/08/smo-vny.png?w=680" alt="smo-vny" width="278" height="360" /&gt; 11nm[/caption]
+&lt;blockquote&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Art: Okay. You want to call my base? I’m sort of unfamiliar with the area. &lt;/span&gt;&lt;span class="s3"&gt;00:00:24&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;The request Art makes is strange. He asks them to call his base turn (that first left of his landing pattern), and tells them he is unfamiliar with the area. The Van Nuys airport is twelve miles from his base airport. He’s been flying this area for a dozen years. In fact, other than Camarillo, I would bet that Van Nuys is the airport he could count the most landings at. He belonged to the Van Nuys chapter of the Quiet Birdmen. Since Santa Monica started charging a landing fee a few years ago most pilots would hop over to Van Nuys to get their landing practice in and save a few bucks. &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;Landings are difficult. For me, the radio work and the landings were the &lt;em&gt;most&lt;/em&gt; difficult parts of learning to fly. I still work hard at both. As a fellow recently explained it: &lt;em&gt;a plane turns from a truck into a bird when you take off, and then when you come back you have to go from a bird back into a truck&lt;/em&gt;. Ideally, that transition comes just as the tires brush the tarmac. A &lt;em&gt;lot&lt;/em&gt; of the training is flying around and around in the traffic pattern at airports. You are learning to judge, as you fly downwind parallel to the runway, when to start your descent, when to make that base turn and when to roll out onto the centerline of the runway and line up for your landing.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;So on the very first landing, Art is ceding this judgment to a guy in the tower. And this is the first place that I’ll point out that most tower controllers are not pilots, so Art's asking for advice from someone who's probably never done it himself. (Controllers &lt;strong&gt;will&lt;/strong&gt; sometimes “call your base,” but they do it to space out the arrivals and departures, not to guide you around the pattern.)&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Tower: Lightsport 1AL, traffic ahead and to your left, a Cherokee altitude unknown, less than a mile.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: What altitude, please? &lt;/span&gt;&lt;span class="s3"&gt;00:00:33&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;The controller already told him that the altitude was unknown. This close to an airport you have to really listen to every radio call closely, even the ones that are not directly for you, because they give you a lot of information. Airport airspace is the most crowded you will fly in during your time in the sky. Be ahead of the airplane and on top of things. Art neglects to say his tail number, even abbreviated, with his transmission.&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Tower: 1AL, altitude unknown, they should be passing off your left now, probably lower. &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: No joy. &lt;/span&gt;&lt;span class="s3"&gt;00:00:45&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;“No joy” is what is known as non-standard phraseology, and it means that you can’t spot the other plane. From talking to controllers, I have come to respect the phraseology, in all of its terse, arcane beauty. The correct response would have been, “One Alpha Lima, searching, negative contact.” The controller just wants to know that you are looking for the other plane and whether you have spotted it yet.&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Tower: Alright, 1AL, they are passing you now. Traffic pattern altitude is one thousand eight hundred. And make left traffic runway one six left, just stay over the freeway.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: Stay over the freeway. You got it. 1AL. &lt;/span&gt;&lt;span class="s3"&gt;00:00:57&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;The controller is nicely pointing out the traffic pattern altitude that Art should be flying around the airport. That means he can see Art is too high. Just above Van Nuy’s airspace is the instrument approach into the Burbank airport, so Van Nuys likes to keep their planes down at 1,800 feet. &lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Tower: Lightsport 1AL, you wanted touch and go’s or… where you parking? &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Art: Uh, yes, if I’m configured for touch and go’s I’d certainly like it. Let’s see how the landings go.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Tower: Lightsport 1AL, roger.&lt;span class="Apple-converted-space"&gt;  &lt;/span&gt;[pause] Lightsport 1AL if you have not already start your descent to traffic pattern altitude one thousand eight hundred.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: One thousand. &lt;/span&gt;&lt;span class="s3"&gt;00:01:41&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;No, the tower said &lt;em&gt;one thousand eight hundred&lt;/em&gt;, but I think we are hearing the results of Art being behind the airplane. Also his initial comment makes no sense. The configuration of the plane would be the same for a full stop landing or a touch-and-go. The controller also gives an additional hint about getting down to 1,800 feet.&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Tower: Lightsport 1AL, number two, follow a Cherokee, just turned base.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: We’re looking, no joy. &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;Again, no tail number in the transmission and non-standard phraseology.&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: Cherokee in sight, 1AL. &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p7"&gt;&lt;span class="s1"&gt;Tower: Lightsport 1AL, number two follow the Cherokee, one six left, cleared for the option. &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: Cleared for the option, one six left, Lightsport 1AL. &lt;/span&gt;&lt;span class="s3"&gt;00:03:08&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;This first touch-and-go apparently went fine. A couple minutes later, he’s been cleared for the option (which means he can either do a full-stop or touch-and-go landing) and Art is back in the air. Immediately, he asks the same controller to help him decide when to turn back toward the airport. &lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: Lightsport 1AL, you want to call my base?&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Tower: Lightsport 1AL, base is your discretion.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt; Art: Uh, not knowing this area, I want to get a short descent into three four … uh, to runway one six left, for a short field touch and go.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt; Tower: Lightsport 1AL, roger. You can turn base now or later, your choice.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: Uh… I’ll go about another thirty seconds. &lt;/span&gt;&lt;span class="s3"&gt;00:04:09&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;The tower correctly tells Art that he’s the one flying the plane and needs to make the decision. Thirty seconds is not a long time in the traffic pattern. It sounds like he doesn't have the patience to be making the decision about where to turn. He forgets the runway number and again says he’s not familiar with the area. But he flies on a little more and turns his base. He’s lined up for the runway, probably a mile or so out from the airport when the tower offers him the longer runway.&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Tower: Lightsport 1AL, would you prefer one six right?&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: (cheerful) No, sir, I would prefer one six left.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Tower: A real pilot, nice.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: (laughing) Your call, pal. &lt;/span&gt;&lt;span class="s3"&gt;00:05:03&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;That’s a nice moment for me to hear. Art really loved flying. He talked on the radio like he was sitting in a diner with the controllers. It was all conversation and we were all in on the joke that this was the best thing going, flying over the heads of all those suckers down there who didn’t know how great it was to pilot a small plane. Also, after essentially being told that they wouldn’t hold his hand for the landings, the controller acknowledged that Art was doing the more difficult thing of landing on the short runway rather than accepting the long runway where he had a greater margin for error. That got a happy laugh out of him.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;A witness said it was a hard landing where the plane dropped onto the runway rather than smoothly descending to the tarmac. The tower, in the chatter after the six minute mark, said the same to a ground unit headed over to check the crash site.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;That hard landing must have bounced Art back into the air. On a short runway students are taught not to try to recover from a bounced landing because you will eat up distance doing what is, essentially, a second landing. Art counted it as a landing, put the power back in, and started his climb away from the runway. But the landing was so hard that the landing gear broke and was separated from the fuselage. In the slipstream of a hundred miles an hour, the landing gear is probably attached by the brake line and is banging against the underside of the aluminum-skinned wing. I once took off with a seatbelt closed in the canopy, which caused it to flap against the outside of the plane until I circled around, landed and fixed it. It was really loud and unnerving. At first I thought the wing was coming off or something catastrophic had happened on takeoff. Fifteen seconds after he was laughing, I imagine Art was now scared.&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: 341AL, I have something banging around. Can you see what it is?&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt; Tower: Lightsport 1AL, your left main gear appears to be dangling, appears to be broke.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: (sarcastic) Great. Uh, what should I do? &lt;/span&gt;&lt;span class="s3"&gt; 00:05:36&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;This is where I wish all tower controllers had to take ten hours of flight instruction and had a refresher course once a year on what it was like to fly small planes and business jets. Every year the National Air Traffic Controllers Association (&lt;a href="http://www.natca.org/" target="_blank"&gt;NATCA&lt;/a&gt;) gives out the Archie award to the controller who has helped a pilot in crisis. Although they are called air traffic controllers, the people on the frequency cannot actually &lt;em&gt;control&lt;/em&gt; anything in the sky. They can only talk to the pilots and wait for the results.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;It’s terrible to second guess in the week after an accident. For all we know the landing gear pierced the underside of the wing, pinched the control rod and made it impossible to control the bank angle of the plane. If that was true there was nothing anyone could have done. But I wish the controller had said, “Lightsport one alpha lima, wings level, add power, climb to one thousand eight hundred straight ahead. Once you have altitude make a shallow left turn back to the downwind. We’ll roll the equipment and get the runway foamed so you can put it down on one six right.” Instead, the controller said:&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Tower: Lightsport 1AL, roger. Do you want to attempt landing here or, uh, it’s, uh, up to your, uh, it’s your discretion.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Art: Uh, yeah, I’ll attempt landing here.&lt;span class="Apple-converted-space"&gt;  &lt;/span&gt;&lt;/span&gt;&lt;span class="s3"&gt;00:05:49&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;In order to land, Art needed to fly the traffic pattern one more time. He needed to make three more right-angle turns. When you are close to the ground you have to be extra careful when turning. The wings generate lift perpendicular to the wing surface, so you get the most vertical lift when the plane is level. In order to turn, you bank the plane, but when you are in the traffic pattern you make those banks very shallow. Unless you are panicked. On the very first turn Art tips the plane nearly on its side, loses all its lift, and immediately nose dives. &lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p class="p4"&gt;&lt;span class="s1"&gt;Pilot: I think that plane went down. I just saw it. I think that plane went down.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt; Tower: Affirmative. &lt;/span&gt;&lt;span class="s3"&gt;00:06:05&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;Twelve seconds. Probably nine, really, from when Art finishes his last transmission and the plane hits to the parking lot next to a commercial building on Hart Street. There’s not really any time for him to panic, to key the mic another time, and the impact was so strong that he certainly didn’t suffer.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p6"&gt;&lt;span class="s1"&gt;In a couple weeks the NTSB will release a preliminary report and months later a final report. I am less thorough, but worked with what I had and what I could find. As a pilot, it is comforting to have this level of certainty of what led to the crash, and as a friend it's nice to know in those last six minutes Art had a good laugh.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h5 class="p1"&gt;&lt;span class="s1"&gt;If you want to listen to the raw recording, go to &lt;a href="http://www.liveatc.net/archive.php" target="_blank"&gt;LiveATC’s archive&lt;/a&gt; you can pick August 2 2016, select the feed for KVNY Tower and the time in Zulu (20:00 for 1pm in Los Angeles that day). When you hit submit you will be presented with a web page where you can listen to the recording for that hour or save it to a file on your computer. Art makes his first call around the fifteen minute mark.&lt;/span&gt;&lt;/h5&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>3273</wp:post_id>
+    <wp:post_date>2016-08-09 11:05:47</wp:post_date>
+    <wp:post_date_gmt>2016-08-09 18:05:47</wp:post_date_gmt>
+    <wp:post_modified>2016-08-09 15:21:38</wp:post_modified>
+    <wp:post_modified_gmt>2016-08-09 22:21:38</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>six-minutes-in-van-nuys</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>enclosure</wp:meta_key>
+      <wp:meta_value>https://flyingsummers.files.wordpress.com/2016/08/newman6.mp3
+11518468
+audio/mpeg
+</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>0</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>11</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>25624012799</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>enclosure</wp:meta_key>
+      <wp:meta_value>https://flyingsummers.files.wordpress.com/2016/08/newman6.mp3
+11518468
+audio/mpeg
+</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>enclosure</wp:meta_key>
+      <wp:meta_value>https://flyingsummers.files.wordpress.com/2016/08/newman6.mp3
+11518468
+audio/mpeg
+</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>enclosure</wp:meta_key>
+      <wp:meta_value>https://flyingsummers.files.wordpress.com/2016/08/newman6.mp3
+11518468
+audio/mpeg
+</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>enclosure</wp:meta_key>
+      <wp:meta_value>https://flyingsummers.files.wordpress.com/2016/08/newman6.mp3
+11518468
+audio/mpeg
+</wp:meta_value>
+    </wp:postmeta>
+    <wp:comment>
+      <wp:comment_id>3306</wp:comment_id>
+      <wp:comment_author>Hugh</wp:comment_author>
+      <wp:comment_author_email>Hugh.carrigg@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url />
+      <wp:comment_author_IP>103.22.187.178</wp:comment_author_IP>
+      <wp:comment_date>2017-02-14 20:44:46</wp:comment_date>
+      <wp:comment_date_gmt>2017-02-15 04:44:46</wp:comment_date_gmt>
+      <wp:comment_content>Sad to hear of the loss of your mate.
+May you come to be at peace in time.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>0</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_queued</wp:meta_key>
+        <wp:meta_value>1487133910</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>jabber_published</wp:meta_key>
+        <wp:meta_value>1487133910</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1487133910.798347949981689453125;s:5:"event";s:15:"status-approved";s:4:"user";s:12:"colinsummers";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_jobid</wp:meta_key>
+        <wp:meta_value>1871930675</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_result</wp:meta_key>
+        <wp:meta_value>false</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:2:{s:4:"time";d:1487133887.4775950908660888671875;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>3175</wp:comment_id>
+      <wp:comment_author>JK Scheinberg</wp:comment_author>
+      <wp:comment_author_email>jzk@panix.com</wp:comment_author_email>
+      <wp:comment_author_url />
+      <wp:comment_author_IP>76.22.46.30</wp:comment_author_IP>
+      <wp:comment_date>2016-08-09 14:06:14</wp:comment_date>
+      <wp:comment_date_gmt>2016-08-09 21:06:14</wp:comment_date_gmt>
+      <wp:comment_content>Nice writeup about a friend, sad story.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>0</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_result</wp:meta_key>
+        <wp:meta_value>false</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:2:{s:4:"time";d:1470776775.4833929538726806640625;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_queued</wp:meta_key>
+        <wp:meta_value>1470781069</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>jabber_published</wp:meta_key>
+        <wp:meta_value>1470781069</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1470781070.2455890178680419921875;s:5:"event";s:15:"status-approved";s:4:"user";s:12:"colinsummers";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_jobid</wp:meta_key>
+        <wp:meta_value>25630769593</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:2:{s:4:"time";d:1470780569.606462955474853515625;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>3308</wp:comment_id>
+      <wp:comment_author>marezydoats</wp:comment_author>
+      <wp:comment_author_email>marezydoats@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://newyarn.wordpress.com</wp:comment_author_url>
+      <wp:comment_author_IP>24.176.115.46</wp:comment_author_IP>
+      <wp:comment_date>2017-02-21 10:39:30</wp:comment_date>
+      <wp:comment_date_gmt>2017-02-21 18:39:30</wp:comment_date_gmt>
+      <wp:comment_content>I'm so sorry on so many levels. Every part of my being wants to deny my own inevitable aging, my own mortality. I have flown, but I don't fly. I have landed, but not in the cockpit. So I've never experienced the thrill that pilots must feel when they're at the controls. We can only hope Mr. Art's final feelings weren't sheer terror. RIP, Mr. Art.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>16257245</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_jobid</wp:meta_key>
+        <wp:meta_value>2105478102</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_queued</wp:meta_key>
+        <wp:meta_value>1487702402</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>jabber_published</wp:meta_key>
+        <wp:meta_value>1487702402</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_result</wp:meta_key>
+        <wp:meta_value>false</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1487702371.1282939910888671875;s:5:"event";s:9:"check-ham";s:4:"user";s:11:"marezydoats";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1487702402.966268062591552734375;s:5:"event";s:15:"status-approved";s:4:"user";s:12:"colinsummers";}</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>3298</wp:comment_id>
+      <wp:comment_author>mikey1900</wp:comment_author>
+      <wp:comment_author_email>rodrig@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://gravatar.com/mikey1900</wp:comment_author_url>
+      <wp:comment_author_IP>50.181.199.163</wp:comment_author_IP>
+      <wp:comment_date>2017-02-05 23:40:04</wp:comment_date>
+      <wp:comment_date_gmt>2017-02-06 07:40:04</wp:comment_date_gmt>
+      <wp:comment_content>Thank you for sharing the story. All the best to you and Art who is now forever flying in the sky.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>53072845</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_jobid</wp:meta_key>
+        <wp:meta_value>1564514176</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_queued</wp:meta_key>
+        <wp:meta_value>1486400668</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1486371619.467876911163330078125;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"mikey1900";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_result</wp:meta_key>
+        <wp:meta_value>false</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1486366804.8420350551605224609375;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"mikey1900";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>jabber_published</wp:meta_key>
+        <wp:meta_value>1486400668</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1486400668.6615889072418212890625;s:5:"event";s:15:"status-approved";s:4:"user";s:12:"colinsummers";}</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>3688</wp:comment_id>
+      <wp:comment_author>Michael DiFede</wp:comment_author>
+      <wp:comment_author_email>difedemichael@yahoo.com</wp:comment_author_email>
+      <wp:comment_author_url />
+      <wp:comment_author_IP>108.64.141.12</wp:comment_author_IP>
+      <wp:comment_date>2019-04-24 19:46:12</wp:comment_date>
+      <wp:comment_date_gmt>2019-04-25 02:46:12</wp:comment_date_gmt>
+      <wp:comment_content>This is a hard question but might you're friend thought that he would lose his license for sure after his latest hard landing?  Could he have made this decision?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>0</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>hc_avatar</wp:meta_key>
+        <wp:meta_value>http://graph.facebook.com/v2.9/10219307819423150/picture?type=large&amp;_md5=6296fe4160df2374913098b30510ceb4</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>hc_foreign_user_id</wp:meta_key>
+        <wp:meta_value>10219307819423150</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_jobid</wp:meta_key>
+        <wp:meta_value>30130014085</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>hc_post_as</wp:meta_key>
+        <wp:meta_value>facebook</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:2:{s:4:"time";d:1556164728.670934;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_queued</wp:meta_key>
+        <wp:meta_value>1556168517</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>jabber_published</wp:meta_key>
+        <wp:meta_value>1556168517</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1556168517.62035;s:5:"event";s:15:"status-approved";s:4:"user";s:12:"colinsummers";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:2:{s:4:"time";d:1556160373.595527;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_result</wp:meta_key>
+        <wp:meta_value>false</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>3689</wp:comment_id>
+      <wp:comment_author>Colin Summers</wp:comment_author>
+      <wp:comment_author_email>colin@mightycheese.com</wp:comment_author_email>
+      <wp:comment_author_url>http://flyingsummers.com</wp:comment_author_url>
+      <wp:comment_author_IP>76.171.210.183</wp:comment_author_IP>
+      <wp:comment_date>2019-04-24 22:02:56</wp:comment_date>
+      <wp:comment_date_gmt>2019-04-25 05:02:56</wp:comment_date_gmt>
+      <wp:comment_content>I think you are asking if Art meant to take his own life. I do not believe that he did. I've listened to the audio and it's not the voice of someone resigned to his fate, or has chosen a time to go. I believe he wanted to continue to live, to fly, to drive. But he made a series of bad decisions about that. </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>3688</wp:comment_parent>
+      <wp:comment_user_id>4268122</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>jabber_published</wp:meta_key>
+        <wp:meta_value>1556168577</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_result</wp:meta_key>
+        <wp:meta_value>false</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1556168577.557992;s:5:"event";s:9:"check-ham";s:4:"user";s:12:"colinsummers";}</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_jobid</wp:meta_key>
+        <wp:meta_value>30130037889</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_queued</wp:meta_key>
+        <wp:meta_value>1556168578</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+  </item>
+</wordpress-item>

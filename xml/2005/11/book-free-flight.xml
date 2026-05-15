@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Book: Free Flight</title>
+    <link>http://flyingsummers.com/2005/11/10/book-free-flight/</link>
+    <pubDate>Fri, 11 Nov 2005 07:50:38 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=41</guid>
+    <description />
+    <content:encoded>[caption id="attachment_1131" align="alignleft" width="199"]&lt;a href="http://www.amazon.com/Free-Flight-Inventing-Future-Travel/dp/1586481401"&gt;&lt;img class="size-medium wp-image-1131" alt="Click to Buy" src="http://flyingsummers.com/wp-content/uploads/2005/11/freeflight.png?w=199" width="199" height="300" /&gt;&lt;/a&gt; Click to Buy[/caption]
+
+I should have kept a blog as I was reading these books, but I didn’t know how long my interest in aviation was going to last and certainly didn’t know that I might want to share my musings about it with an audience larger than Adam. Free Flight is the story of two airplanes and the system that NASA and the FAA envisions allowing the population at large to fly them. James Fallows is an easy, clear writer and none of the book is difficult to get through. Although there’s some technical information presented he somehow keeps it light.
+
+The best two chapters, both of which I asked Nell to read before we took our first flight together, were the first and last. Fallows flew across the country with his college-aged son and his wife. They went from the bay area to the Boston area to drop his son at college. His descriptions of the flight are entrancing. Somehow, during a rather pedestrian activity, he ties all of the wonder of flight, all of the magic of knowing how to fly, into the string of anecdotes which connect the Palo Alto airport and one near Boston’s Back Bay.&lt;!--more--&gt;
+
+Fallows writes about two planes, the SR20 from Cirrus and the Eclipse 500 VLJ (Very Light Jet). Both are fascinating to me, although I will probably never be in an Eclipse. They represent a sea change in General Aviation, and certainly a change for the way planes are manufactured and flown in the United States. He wrote his book a few years back, and the revolution that he foretold is still gathering momentum. (September 11 had a real chilling effect on a lot of general aviation.)
+
+There are two pieces to his revolution, but the part we will see as pilots is the glass cockpit.
+
+I learned to fly in a thirty year old Piper Cherokee airplane made of aluminum. The important gauges in the Cherokee are run by a vacuum pump and by the pitot-static system. The vacuum pump spins a few gyroscopes which are used to display the artificial horizon, a directional indicator (because a compass is too bouncy to easily follow a heading) and the turn indicator. The pitot-static system, where air from outside the plane and air from the front edge of the wing, is used to display the airspeed, altitude, and vertical speed (how fast the plane is climbing or descending). Each of these gauges is a black dial with a white needle spinning over white numbers. As soon as you climb in you feel like you are in a WW2 serial, about to head over the English Channel in your Spitfire.
+
+Where is the computer revolution? Why does a student pilot or general aviation pilot have to look at all these little dials? Surely in this day and age there is a better way to present this information. There is.
+
+The Cirrus, described by Fallows, and the DA40, which I flew to Las Vegas, have two large LCD displays. (There’s a picture of the Diamond’s instrument panel.)
+
+The screen in front of the pilot (the Primary Function Display, PDF) combines all of the information found in the little dials in my training Cherokee. It is what was once seen only by fighter pilots in a heads-up display projected inside their goggles. The entire display is an artificial horizon, so that bottom is brown and the top is blue. The directional gyroscope is a small circle at the bottom, but the important part (heading) is at the top edge of that circle, clearly in the center of the display. The airspeed is a “tape” on the left side and the altitude is a tape on the right. The turn indicator, bank angle and turn rate are all grouped in icons and graphic marks right around the center.
+
+With a standard set of instruments the pilot develops a scan, looking at the artificial horizon, then the airspeed, altitude and vertical speed indicators. Then a glance at the radio navigation gauges. In a glass cockpit all of these things are on a single screen and by watching it, the pilot has all of the information. It’s a stunning difference to move from one to the other.
+
+The screen in front of the right seat (the Multi-Function Display) is a moving map. It is listening to the satellites and knows exactly where the plane is. It has the world, in digital form, loaded in. There is a lot of work which goes into communicating the right information in the best way. The MFD displays the map (so you can see the nearest airports), the terrain (so you know which portions of the surrounding hills are above you), navigation (your course is a purple line on the G1000 I flew), traffic (you see other planes), and weather (you can see the rain clouds).
+
+It gives you a total situational awareness as you fly. It is as if they went through the accident database, figuring out what it was that took planes from the sky, and built a system that allowed the pilot to avoid those difficulties.
+
+Flying around the Long Beach practice area on Thursday I could see all of the other airplanes on the MFD. (When Adam and I were flying our airport-hopping trip we head the air traffic controller tell another aircraft, “You have traffic at your eleven o’clock in three miles, opposite direction.” The pilot answered, “I’ve got him on the fish finder and we’re looking.”) For me, developing “aviator’s eyes” has been one of the harder parts of flying. Today from a JetBlue window, looking past Nell into the same training area, I saw a Cessna above the container ships. It was a speck and it took a while to point it out to Nell. Spotting a plane flying the opposite direction against haze or landscape is really hard. The fish finder doesn’t eliminate the task, but it helps a significant amount.
+
+So, no midair collisions. And when you know which parts of the map are above you, it’s harder to run into something. (That’s CFIT in the accident database. Controlled Flight into Terrain. Stunningly popular.) When you know where you are going it is harder to wander lost and run out of fuel. (It’s also harder to run out of fuel because the system draws a green range circle around your plane on the map, so you know how far you can fly.) In an emergency you press one button and the system shows you the closest airports, the distance to each one, and the heading to fly to it.
+
+Ultimately, there are synthetic vision systems, which could show the pilot the airfield and terrain even when the airplane itself is in a cloud or a fog bank. If these images were projected on the windscreen the pilot could land the plane even if a cloud was sitting on the runway. (The huge jets are able to do this, they have auto-land systems that allow them to fly the plane right onto the runway without seeing anything outside. It would be astounding to see technology that advanced show up in a little single-engine piston plane.)
+
+I am glad that I learned to fly on steam gauges (which is what the older gauges are now called), because if your fancy electronics fail it’s a good idea not to panic and to be able to fly with the old dials. When I am in the Diamond, though, I just cannot believe the ease that is instantly a part of flying, the confidence that you can spend a little more time enjoying being in the sky because the plane keeps you aware of the situation around you.
+
+I guess that was more about glass cockpits than about the book. Sorry, Mr. Fallows. It’s a good book. If you are interested in what is changing general aviation, you should read it. The story of the Klapmeier brothers building the Cirrus plane and the company building the Eclipse jet are both well told and are interesting stories.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>41</wp:post_id>
+    <wp:post_date>2005-11-10 23:50:38</wp:post_date>
+    <wp:post_date_gmt>2005-11-11 07:50:38</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 20:56:07</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 03:56:07</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>book-free-flight</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="reading">Reading</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>41</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>41</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

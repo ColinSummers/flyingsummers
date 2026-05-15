@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Ahhhh.</title>
+    <link>http://flyingsummers.com/2005/11/10/ahhhh/</link>
+    <pubDate>Thu, 10 Nov 2005 08:00:00 +0000</pubDate>
+    <dc:creator>stingraydoctor</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=5</guid>
+    <description />
+    <content:encoded>I played hooky today. I was supposed to work on the kitchen, putting in the moldings, end cap for the dishwasher, kickplate all around, and other really rewarding tasks. These are the worst sort of home improvements because they take a really long time and no one notices unless you screw them up. It was gray until 10am and I pottered on the computer until it looked sunny enough to go to the plywood place and get a sheet of red birch. The sun broke out for real as I learned the new one hundred fifty dollar minimum policy at the yard. So, I headed over to Torrance to fly. I need a checkout in order to rent a Cessna to fly mom and Alex around while they are here. Today was the perfect day for it. The folks at Benbow rustled up an instructor (Enrst) for the checkout and we headed out. A turn around the pattern so Ernst could be a happy fellow as we headed to the sloped Catalina runway. The landing went well, so I firewalled the throttle and headed out over the Pacific.
+
+Clouds were still hanging around inland, but the flight to the island was spectacular. Clear air, no wind and one hundred eighty horsepower engine make the odd little Catalina landing strip a piece of cake. The perspective is strange since the strip is up on top of a hill, and there is the hump in the middle of the runway means you can't see the end when you land. If you fail to remember that it really is three thousand feet long you could get a bit panicky about how close the end looks when you touch down. We parked, I left the key in the plane, and we headed in to pay the twenty dollar landing fee. Then I decided we had time for a burger so I treated my new friend Ernst and ate my first hundred dollar hamburger.
+
+The ride home was uneventful and I am now allowed to rent from Benbow. It's a great feeling and I got flight time. I'll be able to make it to the weekend.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>375</wp:post_id>
+    <wp:post_date>2005-11-10 00:00:00</wp:post_date>
+    <wp:post_date_gmt>2005-11-10 08:00:00</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 20:53:50</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 03:53:50</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>ahhhh</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="flight">Flight</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>5</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>5</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

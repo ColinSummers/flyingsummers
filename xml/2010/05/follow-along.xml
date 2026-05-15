@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Follow Along</title>
+    <link>http://flyingsummers.com/2010/05/03/follow-along/</link>
+    <pubDate>Tue, 04 May 2010 04:31:48 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=722</guid>
+    <description />
+    <content:encoded>This is about as cool as technology gets. For now, I guess.
+
+One of the people that I took flying with me was the father of a friend of mine. Tom flies a lot of interesting planes just sitting in the right seat. Antique warbirds and Civil Air Patrol planes. One of the things he said when I was about to taxi out onto the runway was, “Do you mind if I follow along?” That’s apparently a standard procedure: he just holds the controls lightly so he can really feel what I am doing as I take off, land, or do a barrel roll. (I rarely do barrel rolls.) Now everyone can follow along. It’s a tiny plane, so stay seated in front of your computer. I’ll explain.
+&lt;!--more--&gt;
+The plane has a lot of technology in it. The two big screens are just the most visible part of a system that is all grouped as “the G1000.” Garmin makes all the pieces. One of the great things about the plane having a computer network (several computers, connected via redundant Ethernet, a little flying LAN in the sky) is that the software can be upgraded without too much trouble. That’s how I gained a fuel pressure display. The sensor and information was always coming from the engine and one of the software updates made a new gauge appear on the screen under fuel flow. Now I know if the fuel pressure is a little low.
+
+The most recent software update had a whole slew of cool features. Some of the new features were even on a wish list I sent Garmin a couple years ago. Development for avionics must be excruciating because you face a certification process and a maze of lawyers over the liability issues. But Garmin piled a slew of new things into the last .22 release for the G1000.
+
+One of the additions was logging. Ten times a second the system will now write to an SD card inserted in the G1000. It will record a whole bunch of parameters. The position reported by the GPS, the altitude and airspeed, the manifold pressure, number of revolutions per minute that the engine is turning, the temperature of each individual cylinder and the exhaust gasses they are spitting out. More information than you might suspect is useful. Certainly more information than I can take &lt;em&gt;in&lt;/em&gt; ten times a second.
+
+This logging is new to Garmin’s fancy system, but their simpler systems have had it for a while. And the Cirrus airplanes have had a logging system which wrote similar files. So a fellow out on the Internet wrote a web application where you could download your files from the SD card and take a look at the data graphically. Who doesn’t want to see their hottest cylinder graphed against their altitude? Exactly.
+
+Of course, it is cooler than that. You can go to this page:
+&lt;blockquote&gt;&lt;a href="http://cirrusreports.com/flights/N971RD/" target="_self"&gt;http://cirrusreports.com/flights/N971RD/&lt;/a&gt;&lt;/blockquote&gt;
+and see the flights which I have logged for our plane. (You can still go to &lt;a href="http://www.flyingsummers.com/2006/05/trackme/" target="_self"&gt;FlightAware&lt;/a&gt; and peruse flights tracked by ATC, but that’s not all of the flights and the data is not nearly as complete. I wrote about that &lt;a href="http://www.flyingsummers.com/2006/05/trackme/" target="_self"&gt;before&lt;/a&gt;.)
+
+[caption id="attachment_1311" align="alignleft" width="154"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2010/05/stored.png"&gt;&lt;img class="size-medium wp-image-1311" alt="Stored Flights" src="http://flyingsummers.com/wp-content/uploads/2010/05/stored.png?w=154" width="154" height="300" /&gt;&lt;/a&gt; Stored Flights[/caption]
+
+But best of all, there is a link, just above the map and to the right, called Cockpit View. If you download and install Google Earth and then click that link, you will download a file which will animate the entire flight as if you are sitting in the plane with me.
+
+This will also serve as a rudimentary black box. If something were to go wrong on a flight there will be a detailed record of what happened. If I added a little voice recorder to the intercom, then there would be a very complete picture after any incident (provided those electronics survived, it’s not like they are made of that magic black box material).
+
+On a slightly more practical front, the engine parameters are all recorded, so I could show my mechanic if there was something I was worried about.
+
+Now I need to get some sort panoramic video camera so you can feel like you can look around while we are up there.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>722</wp:post_id>
+    <wp:post_date>2010-05-03 21:31:48</wp:post_date>
+    <wp:post_date_gmt>2010-05-04 04:31:48</wp:post_date_gmt>
+    <wp:post_modified>2013-06-20 17:57:17</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-21 00:57:17</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>follow-along</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>722</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>722</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_oembed_7a2e23518372cf611584f5b32f096281</wp:meta_key>
+      <wp:meta_value>{{unknown}}</wp:meta_value>
+    </wp:postmeta>
+    <wp:comment>
+      <wp:comment_id>6</wp:comment_id>
+      <wp:comment_author>jdkullmann</wp:comment_author>
+      <wp:comment_author_email>jzk@panix.com</wp:comment_author_email>
+      <wp:comment_author_url />
+      <wp:comment_author_IP>66.65.191.170</wp:comment_author_IP>
+      <wp:comment_date>2010-05-09 11:24:14</wp:comment_date>
+      <wp:comment_date_gmt>2010-05-09 19:24:14</wp:comment_date_gmt>
+      <wp:comment_content>Holy Crap. Following that on google earth was stupid cool. Wow. Seems so obvious to be able to setup once it's done (of course).</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>0</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+        <wp:meta_value>2010-05-09 19:24:14</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+  </item>
+</wordpress-item>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Book: Flight of Passage</title>
+    <link>http://flyingsummers.com/2005/10/24/untitled-post-9/</link>
+    <pubDate>Mon, 24 Oct 2005 21:14:00 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=17</guid>
+    <description />
+    <content:encoded>[caption id="attachment_1090" align="alignleft" width="155"]&lt;a href="http://www.amazon.com/books/dp/0786883154"&gt;&lt;img class="size-full wp-image-1090" alt="Click to Buy" src="http://flyingsummers.com/wp-content/uploads/2005/10/passage.png" width="155" height="258" /&gt;&lt;/a&gt; Click to Buy[/caption]
+
+by Rinker Buck
+
+I am not sure yet how these book reviews will work. I feel a little silly writing things here that I know are easily found with a few clicks on Amazon.Com. Nonetheless: Rinker Buck is fifteen years old and his brother Kern is seventeen years old. It is 1966 and they fly across the country in a Piper Cub. That's an old tail dragger airplane, without a radio or GPS or lights of any sort.
+
+Some of his writing about flying is perfect and exactly what I would have said. He is not the pilot his brother is, and as long as Adam retains his fifty-landing lead in our logbooks, I will feel the same way. (Adam has also done spins and spin recovery, landed on unpaved air strips and other more advanced flying.) The book is a memoir about brotherhood, but also about adventure. The technical details of flying aren't picked apart too much, and there is quite a bit about Rinker's relationship with his father. The more aviation books I read, the more I try to figure out what I might want to write. I am sure a lot of my writing will be here in the blog first, and some of it will be aloud, with Adam in the cockpit listening to my rants. (I always figure if you edit a rant down, slip some narrative in there and punch it up with a little character humor... why there's a book right there waiting to be published.)</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>17</wp:post_id>
+    <wp:post_date>2005-10-24 14:14:00</wp:post_date>
+    <wp:post_date_gmt>2005-10-24 21:14:00</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 20:27:08</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 03:27:08</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>untitled-post-9</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="reading">Reading</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>17</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>17</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

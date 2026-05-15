@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>WAAS the Big Deal?</title>
+    <link>http://flyingsummers.com/2010/05/18/waas/</link>
+    <pubDate>Wed, 19 May 2010 04:23:43 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=734</guid>
+    <description />
+    <content:encoded>[caption id="attachment_1471" align="alignright" width="150"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/07/g1000nav.png"&gt;&lt;img class="size-thumbnail wp-image-1471" alt="Garmin Magic" src="http://flyingsummers.com/wp-content/uploads/2013/07/g1000nav.png?w=150" width="150" height="92" /&gt;&lt;/a&gt; Garmin Magic[/caption]
+
+This is technical, about the avionics in the airplane. Avionics are the electronic instruments in the plane, some of which sample air pressure in the pitot-static system, or sense the earth's electromagnetic field. The very first airplanes only had a compass mounted on the panel and a spring-loaded device to suggest the airspeed. N971RD is loaded with more electronics and computer power than went to the moon. Actually, it is probably more computing power than was in the lunar mission &lt;em&gt;or&lt;/em&gt; back on earth in Houston.
+
+&lt;!--more--&gt;
+Does it need more?
+
+[caption id="attachment_1470" align="alignleft" width="150"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/07/steam.jpg"&gt;&lt;img class="size-thumbnail wp-image-1470" alt="Steam Gauges" src="http://flyingsummers.com/wp-content/uploads/2013/07/steam.jpg?w=150" width="150" height="112" /&gt;&lt;/a&gt; Steam Gauges[/caption]
+
+There is a question about how much equipment is necessary, what makes a plane safe? The very first airmail pilots (the first long distance flyers) flew without an artificial horizon at the beginning. Of course, they also wore parachutes, so when they became lost in the clouds they could jump out. (Lindbergh was famous for having survived three exits of his Mail plane.) Many, many airplanes on any particular airfield today have what is called "a basic six pack." These are just simple round gauges. A turn coordinator, a skid-slip indicator, an artificial horizon, a directional gyro (that shows the course of the plane's flight), an altimeter, an airspeed indicator and a few engine instruments with a single VOR for navigation. Can these planes fly an instrument approach down through the clouds to get to an airport? Sure. Are they safe? Absolutely, as long as the pilot is aware of the limitations of the equipment and has been trained appropriately. The pilot should also be an expert navigator, since they will need to fly with a chart in their lap.
+
+Our plane has electronics and backup electronics, and analog backups in case the electronics fail. The moving map uses the GPS information to show where the plane is, and shades the surrounding terrain appropriately. It shows traffic, significant obstacles (like transmitter towers), weather, airports, and a vast amount of data from the surroundings. It is excellent for helping the pilot maintain "situational awareness," which is a key ingredient in safety. A large number of the entries in the NTSB database can trace the beginnings of their troubles to a loss of situational awareness.
+
+I am all about trying to stay out of the NTSB database.
+
+The best thing is to get an instrument rating, since the training is all about developing a method for gathering situational awareness and understanding what to do when you lose some of your instruments. And, really, the training  – which allows you to fly down and land when your destination airport is hidden by clouds – is invaluable.
+
+When you are making an instrument approach there are two basic types: precision and non-precision. When they were first set up, there were only non-precision approaches. You followed a radio beam toward the airport, which provided lateral guidance. By using a timer, or other navigation aid, you knew how far you were along the approach and there were safe altitudes to pass each point on the approach. The only instrument approach into Santa Monica’s airport is one of these leftover non-precision approaches. You cross BEVEY (a point over Beverly Hills) at 2,600 feet above sea level, then drop to 1,120 feet until you cross CULVE, a point over Culver City. Then you can drop to 680 feet, which is 500 feet above the runway (which is at 177 feet). The whole time you are following the 212° radial, a radio beam from the Santa Monica (SMO) VOR.
+
+All of these things can have errors. The radio beam might have some atmospheric interference, maybe the equipment itself has an error. Your altimeter might have a pitot-static system connected to it with an insect stuck in there. Who knows. These errors are all calculated, and the approach is designed so that if you are the victim of a few compounded errors you still won’t fly into a building or a mountain. Ideally, though, you would have more guidance.
+
+That’s the ILS, the instrument landing system. They first started research and design in the nineteen thirties and installed the first working system in 1941. It provides much higher accuracy and allows the plane to get within two hundred fifty feet of the runway, instead of the five hundred for the non-precision approach.
+
+My plane is equipped to fly an ILS, to show a little green diamond representing the ideal glide to touchdown (next to the tape showing my altitude), and I have happily flown many of them. There is a real jump in confidence knowing that you have lateral &lt;em&gt;and&lt;/em&gt; vertical guidance.
+
+In general, though, ILS approaches are at larger airports (or lucky training airports). They are expensive to install and maintain, and require a lot of real estate for the antennae. Santa Monica has ruled out installing one. In fact, the FAA says they are not going to install any more of them at all in the country.
+
+Enter WAAS.
+
+The Global Positioning System (GPS) was a huge help to en route navigation for small planes (and, for that matter, cars both big AND small). Being able to fly directly to another small airport, without meandering from VOR to VOR to get there, has saved many hours of flight. Years if you add it all up. It is now standard equipment in most new small planes. It can be used for instrument approaches, but only in a similar way that the VORs can, which means that it only provides lateral navigation and it is non-precision. Your GPS position is only accurate to within fifty feet laterally and not much use at all vertically.
+
+A few years ago they worked out a way to augment the GPS signals. They would create stations on the ground to transmit additional data about the satellite signals received in the area. Essentially, the ground stations provide correction information for the signals slipping through the atmosphere. Now the position reported is accurate to ten feet, and it provides accurate enough data about the altitude that a plane equipped with the right equipment can fly an approach with vertical guidance.
+
+This system of augmentation is provided over a wide area. So it is a Wide Area Augmentation System. WAAS.It’s pronounced with a Z.
+
+All new GPS systems use WAAS. Even the little handheld systems that provide the turn-by-turn navigation in cars. In planes, the avionics manufacturers have provided “upgrade paths” for most of the installed systems, which is a way of saying they saw an opportunity to squeeze some more money out of their customers.
+
+Is it worth it to upgrade to WAAS?
+
+That’s so hard to say. I discussed it at length on the online community I am a part of. I discussed it with fellow plane owners, pilots, and my brother. It was the flight across the country, particular Kansas and Texas, that convinced me.
+
+We don’t regularly fly instrument approaches. I mean, I do, to keep current as an instrument pilot, but the number of instrument approaches we have flown as a family can probably be counted on two hands. We are fair-weather travelers. Mostly we fly into big airports, especially if we are landing somewhere in poor weather. Those airports all have ILS approaches, so do we need WAAS?
+
+[caption id="attachment_1468" align="alignright" width="100"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/07/badnews.jpg"&gt;&lt;img class="size-thumbnail wp-image-1468" alt="Bad News in the Sky" src="http://flyingsummers.com/wp-content/uploads/2013/07/badnews.jpg?w=100" width="100" height="150" /&gt;&lt;/a&gt; Bad News in the Sky[/caption]
+
+If it only worked on instrument approaches I would probably say we don’t need it. But it is on all the time. Our position on the moving map in the plane is now accurate to within ten feet instead of fifty. That’s a lot of peace of mind when you are descending into the area around the Goodland, Kansas airport, which is dotted with antennae, all of them hundreds of feet tall. As I am coming back down to land, I don’t want to be on the wrong side of knowing where a tower is by fifty feet. That sounds very fatal.
+
+We’ve made one critical WAAS approach. In the Summer of 2009 I flew from Parry Sound, Ontario to Antrim County, Michigan. The forecast for the day in Michigan was all clear skies for the entire day. As we approach Antrim County a set of clouds blew in off Lake Michigan and closed over the airport. They cooled and sunk a little and sat over the airport with a ceiling lower than the non-precision (VOR) approach would allow us to descend to. We requested the WAAS approach and followed our vertical guidance down to drop out of the clouds at five hundred feet above the runway.
+
+[caption id="attachment_1469" align="aligncenter" width="640"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/07/fish.jpg"&gt;&lt;img class="size-large wp-image-1469" alt="So Worth the WAAS" src="http://flyingsummers.com/wp-content/uploads/2013/07/fish.jpg?w=640" width="640" height="853" /&gt;&lt;/a&gt; So Worth the WAAS[/caption]
+&lt;p style="text-align:left;"&gt;It is difficult to make capital investments in the plane, which is already an expensive hobby, mode of travel, vacation entertainment or whatever it should be called. In this case it is clear that with the sort of flying we do, into a lot of little towns we are unfamiliar with, the security of knowing a little more accurately &lt;em&gt;exactly&lt;/em&gt; where you are is worth it.&lt;/p&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>734</wp:post_id>
+    <wp:post_date>2010-05-18 21:23:43</wp:post_date>
+    <wp:post_date_gmt>2010-05-19 04:23:43</wp:post_date_gmt>
+    <wp:post_modified>2013-07-13 15:38:40</wp:post_modified>
+    <wp:post_modified_gmt>2013-07-13 22:38:40</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>waas</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>734</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>734</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>0</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>twitter_cards_summary_img_size</wp:meta_key>
+      <wp:meta_value>a:6:{i:0;i:681;i:1;i:421;i:2;i:3;i:3;s:24:"width="681" height="421"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

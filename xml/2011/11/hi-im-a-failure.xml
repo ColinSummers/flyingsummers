@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Hi, I’m a Failure</title>
+    <link>http://flyingsummers.com/2011/11/13/hi-im-a-failure/</link>
+    <pubDate>Sun, 13 Nov 2011 19:01:40 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=1061</guid>
+    <description />
+    <content:encoded>&lt;span style="line-height:1.5;"&gt;As a pilot, I train constantly. One of the things I loved about learning to fly was that as soon as I was signed off to solo I could go out in the plane and, as long as I focused, I would be a better pilot when I returned. Apparently all of the FAA examiners pause before giving out the certificate allowing you to be a pilot and they say, “Remember, this is just a license to keeping learning.”&lt;/span&gt;
+
+That’s why I try to fly twice a week, both because getting rusty is a life-threatening trap and because as long as I pay attention (rather than just enjoying the ride), I get a little bit better. I learn to land a little more smoothly in a crosswind, I get just a little more concise and professional speaking to the tower controllers, and I get the checklists ingrained a little more deeply in my behavior in the cockpit.
+
+&lt;!--more--&gt;Once or twice a year I go up with an instructor and have someone else keep me focused. The CFII who taught me how to fly in the clouds, Liz deSteffany, is a great instructor. She has mostly stopped teaching “primary” students and I am lucky enough that she’ll still slum occasionally to do my BFR. (That’s Bi-annual Flight Review. The FAA mandates that I get one every other year. I think that would be lax, so I have one once a year instead.) She has me do a bunch of maneuvers like steep turns and stalls and tries to distract me to see if I’ll forget to lean the mixture at altitude, things like that. And we always practice an engine-out where we pull the throttle back to idle and spiral down over an airport, gliding in to land without any engine power at all.
+
+That last one could be a life saver. When reading the NTSB reports on accidents, which I do ever month to remind myself that this aviation stuff is very serious no matter how much fun it is, you often see the first link in the accident chain: engine failure is in there. Since airplanes are all designed to glide without engine power, engine failure alone it not enough to cause an accident. You have to be at the wrong place at the time of the failure or, more often, you have to make some bad decisions. The pilot needs to try to turn around to make it back to the airport, instead of landing straight ahead on the golf course. Or they need to try to stretch the glide to that airport they already were headed toward, instead of just setting the plane down on Highway 101. That’s why so many accidents have as a contributing or primary factor: pilot error. Yes, the engine failed, but the pilot made the error to try to land on the beach instead of in the water. Or the pilot made the error of keeping the engine coughing along, rather than shutting it down to decrease the risk of a fire.
+
+So I practice. Practice, practice, practice and hope that when a failure actually happens, all of the training and practice will pay off.
+
+My friend Susan Dost needed to collect her plane from West Coast Maintenance down at KLGB. We were meant to meet at the Santa Monica airport and I’d fly her down. I was feeling a little behind the plane in the pattern, so I arrived at the airport a little early and planned to do a couple landings while waiting for Susan. I did my pre-flight inspection, fired up, taxied to the run-up area, did my run-up and waited for the oil temperature to reach 100F. As I was waiting I glanced back at my parking area and saw Susan’s car. She’s never early. Shocked, I told the tower I was going to taxi back to parking to collect my passenger.
+
+After taxing over, I shut down the engine and popped the canopy. Susan clambered onto the wing and hopped into the right seat. While I went back through engine start she told me about the work finished on her plane, and we talked about the procedure for flying the mini-route down and back to Long Beach.
+
+The tower read me my clearance for the VFR mini-route over LAX and I was cleared to take off. A right climbing 270, turning at the beach and turning back toward the Santa Monica VOR, I entered LAX’s Class B airspace at 2,500 feet, following the 128 radial off of SMO. Exiting the Class Bravo to the south, Los Angeles tower switched me to Hawthorne tower, who cleared me to continue on to Long Beach.
+
+It’s a short fifteen minute flight. Even with the minimal climb to 2,500 feet to slide over LAX, after Hawthorne’s airspace I am in a descent to get down to pattern altitude for Long Beach. It’s a good exercise in radio work and staying ahead of the plane because at every moment you have to be looking for the next thing to do: grabbing the ATIS for Long Beach, twisting the radio controls to switch to Hawthorne’s tower, or setting the altitude bug for a descent. It’s busy.
+
+And Susan and I are discussing some of it along the way. “Is that the same frequency on the way back up?” “Do you usually lean a little bit even though you’re only at 2,500?” “How do you know where Alondro Park is?”
+
+Long Beach tower had us enter the left downwind for two-five-left, and we crossed over the top of Signal Hill. We were following a Cessna (clearly a training flight, they were doing a touch-and-go on the same runway). I put in half of the flaps, slowed down and made my base turn. I added the second set of flaps, noted that the Cessna was on its climb out already and the tower cleared us to land. (I believe they had &lt;i&gt;already&lt;/i&gt; cleared us to land, as “number two behind the Cessna 150...” but especially at a field with a lot of training the tower will often repeat the landing clearance once the runway has no contention.) I keyed the mike to acknowledge that I had received the clearance and, bzzt, bzzt, there was a fuzz noise instead of my transmission.
+
+In the scant seconds before what happened next I flipped through the possibilities: bad connection from the headset to the audio panel, bad cord, bad batteries in the headset, bad radio in the avionics stack... The last one was the easiest one to eliminate, and I reached toward the panel to put the frequency for the tower into the other radio (the plane has two radios for communication: redundancy is key in flying safely). That’s when the plane had a complete electrical failure and the gorgeous ten inch color LCD screens representing the brains of our very fancy airplane blinked to mute, dumb black.
+
+I wish I had a video camera recording of those few minutes. Susan and I tried to reconstruct some of the details of the flight afterwards and couldn’t be definite enough about some of the details. And the next minute or two happened quickly and then it was all over.
+
+The number one priority in any sort of emergency in the airplane is dreadfully simple: fly the plane. Number two: fly the plane. Fly the plane, fly the plane, fly the plane. Most of the time, it will not fly itself, and if the pilot stops flying it there are only so many moments before something goes badly wrong. Especially close to the ground. Especially slowed down enough to land. So &lt;i&gt;almost&lt;/i&gt; all of my attention was focused on flying the plane.
+
+And one of the great things about the fancy, electronics-laden, carbon-fiber-constructed plane is that deep down it is just a glider. Even more so than some of its compatriots, the Diamondstar was built by a company that started by building gliders.
+
+I didn’t even need to glide. Another solid advantage of the way the fancy plane was designed is that the advanced electronics sit as a layer on top of a very simple, single-engine airplane. So although my plane’s brain (and ears, and mouth) had winked out, the four massive cylinders continued to fire, the fuel continued to flow to the engine, and the propeller continued spinning.
+
+I glanced at the control tower. There are special signals the controllers can use if they believe that you have lost communications. They have a gun-shaped flashlight (a light gun) which they will aim at you and flash red or green signals to tell you it is safe to land, or to go around to try to land again, or that there is danger ahead... all through patterns of blinking or steady red and green. I have a page on my kneeboard which reminds me which signals were which, but I saw no light. I was pretty sure that my last transmission made it out a little bit, and that they were just expecting me to land. In any case, I had been &lt;i&gt;cleared&lt;/i&gt; to land, whether or not I had managed to transmit back I could land without a problem.
+
+So I continued the approach to land, keeping the engine at the same throttle level until I was actually over the beginning of the runway. (The majority of engine failures occur immediately after a change in power. This informs my decision to refrain from touching the engine controls of take off, until I am in a position where I can glide back to the runway or to a safe landing.) Once my landing was assured I reached across Susan and just ran my hands over the circuit breakers. Then I continued the right-to-left motion, looking at the flaps lever, correct, the magneto/ignition key, correct, and then shifting my attention back to the landing. Susan was sitting very still.
+
+I set the plane down on the thousand foot markers, slowed easily and came off the runway to the left, pointing toward our taxiway. I glanced down and continued my pass across the instruments and controls. The master switch in the Diamondstar is two halves, one for running the system on battery and one for running it by the alternator when the engine is spinning. The procedure is to switch on the battery half before starting the engine, and then once the engine is going flip the other half so that the engine is powering the electrical system. In my checklist, which has become a right-to-left “flow” in the cockpit, the way Air Force pilots learn to do their checklists, once the engine is running I check the circuit breakers (sometimes starting the engine can trip one), and flow across right to left checking various lights and switch positions. When I get to the big red Master switch I push up the half for “Alternator,” then continue to the switch for “Avionics” and turn that on. Then I proceed up to various other switches that come on after engine start (position, taxi light).
+
+As I sat there trying to figure out why I had no electrical system, I saw that the Master switch only had half of it switched on, the battery half. Running the full plane worth of avionics on just the battery will drain it in about twenty minutes. I switched the alternator half on and the plane popped out of its coma. I told Long Beach ground that I had lost the radio on short final and I needed to taxi to maintenance. She said the tower controller had not noticed me being unable to communicate and “everything looked good from up here.” In other words, I had exited the runway where they had told me to, even though I didn’t hear them tell me. (Not a surprise, I fly often to Long Beach and I know the drill.)
+
+I taxied over to West Coast and shut down.
+
+Susan and I sat and tried to figure out what might have happened. We came up with a few scenarios, but we weren’t definite about which had happened. It is possible that because I restarted the plane once she climbed in I didn’t follow my usually strict procedure for startup and turned on the avionics without turning on the other half of the Master switch. (This seems really unlikely, since the avionics switch is &lt;i&gt;directly&lt;/i&gt; next to the Master switch, but it &lt;i&gt;is&lt;/i&gt; possible.) It’s also possible that the battery was drained by the two starts (one of which was after quite some time without running the plane, so it was probably hard on the battery), and there are some odd configurations of depleted-battery and full-power on the engine which will pop the circuit breaker for the alternator. And it was possible that in my hurry of checking things on short final, when the failure first occurred, that I flicked that half of the switch off in an attempt to isolate the electrical system to &lt;i&gt;just&lt;/i&gt; the battery, so that if the problem was the alternator I had taken out of the loop.
+
+We could come up with an answer. But I certainly wasn’t flying the plane back home without it getting a thorough checkout by my mechanic, Mike Herbert. He called a couple days later and said they had recharged the battery and couldn’t find anything else wrong. They went through all of the circuit breakers and the starter and alternator and so on... nothing.
+
+As we were putting her plane away in Santa Monica, after flying it back up together, Susan said, “That was amazing. You were just as cool as a cucumber. I was stunned when everything went black and I looked over and you were just flying the plane.”
+
+It’s good to know the training works. A total electrical failure on short final to an airport you are familiar with is probably not as exciting as a catastrophic engine failure (which a friend of mine had at 18,000 feet over Atlantic City and landed beautifully). It is a failure, though, and I was glad I didn’t panic, or feel like it was Game Over. (A lot of accident chains include that: the pilot gives up.)
+
+Here’s to another 1,200 hours in the Diamondstar before the next failure.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>1061</wp:post_id>
+    <wp:post_date>2011-11-13 11:01:40</wp:post_date>
+    <wp:post_date_gmt>2011-11-13 19:01:40</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 21:32:19</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 04:32:19</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>hi-im-a-failure</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>When</title>
+    <link>http://flyingsummers.com/when/</link>
+    <pubDate>Fri, 22 May 2015 20:11:23 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?page_id=2134</guid>
+    <description />
+    <content:encoded>Major dates and milestones.
+
+2005
+
+December 27: Colin takes delivery of their Diamondstar.
+
+&amp;nbsp;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>2134</wp:post_id>
+    <wp:post_date>2015-05-22 13:11:23</wp:post_date>
+    <wp:post_date_gmt>2015-05-22 20:11:23</wp:post_date_gmt>
+    <wp:post_modified>2015-05-22 13:11:23</wp:post_modified>
+    <wp:post_modified_gmt>2015-05-22 20:11:23</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>when</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_page_template</wp:meta_key>
+      <wp:meta_value>default</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>0</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Admiration</title>
+    <link>http://flyingsummers.com/2005/11/16/admiration/</link>
+    <pubDate>Thu, 17 Nov 2005 07:48:22 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=38</guid>
+    <description />
+    <content:encoded>This is the essay my nephew Max wrote for his application to high school. He had to write about the person he admired most and why. I was proud to be chosen and a little surprised, since I don't think of myself as very accomplished.
+&lt;blockquote&gt;My uncle, Colin, is one person whom I really admire, because he is very nice to me and takes me out to places. He is also a very interesting person because he has done a lot of successful things which I couldn’t do and that I wish I could have done. What is very interesting about him is that he just got his flying license to fly a small plane which many people cannot do. He is also an amazing architect (which is his job) and has designed and remodeled the BEST houses I have seen in my life – I wish I could live in them. He is also a really good web designer and has designed some websites that are about his life and career. He designed the coolest houses ever, like Penn Jillette’s (a funny and cool magician in las Vegas) house in Las Vegas which is filled with secret rooms, plus a big, long library, a band room that really looks like an area where a concert can play, and a recording studio which looks as though the Beatles could have recorded songs in it. He had the amazing idea to learn to fly a rental plane at the Santa Monica Airport and he started doing it and practiced for many days until he went to get his license. He passed the flying test to get a license, and I myself am very proud of him for getting it. He designed this website called “tightcircle.com” which is a website where you can create digests to talk to other people by automatically sending emails from a person through the website. Colin has also taken me to Las Vegas, and to an architectural fair called “CA BOOM” and also has let me stop by his office to look at his architectural work. Colin I think is a very positive, kind, enthusiastic, generous person who has a lot of great ideas.&lt;/blockquote&gt;
+I know, it's not really about flying. I haven't been flying recently. But Adam has and he's behind.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>38</wp:post_id>
+    <wp:post_date>2005-11-16 23:48:22</wp:post_date>
+    <wp:post_date_gmt>2005-11-17 07:48:22</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 20:57:33</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 03:57:33</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>admiration</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>38</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>38</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Glossary</title>
+    <link>http://flyingsummers.com/glossary/</link>
+    <pubDate>Sun, 06 Apr 2008 18:57:43 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/glossary/</guid>
+    <description />
+    <content:encoded>Aviation is a bunch of special terms tied together in a way that makes them lighter than air. If there's not an acronym for it, it doesn't have anything to do with flying. There are almost certainly better resources on the web for learning these terms, but perhaps none so convenient to the blog, right?
+
+&lt;strong&gt; AOG&lt;/strong&gt;: &lt;a href="http://www.flyingsummers.com/2007/08/02/aog/"&gt;Airplane On Ground&lt;/a&gt;. A maintenance issue has made it impossible (or inadvisable) for you to fly the plane.&lt;strong&gt;
+&lt;/strong&gt;
+
+&lt;strong&gt;ATC&lt;/strong&gt;: Air Traffic Control. The nice people we talk to who &lt;em&gt;aren't&lt;/em&gt; in the plane and help us get to where we need to go.
+
+&lt;strong&gt;ATIS&lt;/strong&gt;: Automated Terminal Information System. We listen to this to learn about the weather and other important details at a particular airport. Every airport has a frequency to listen to and a recording of the conditions. Sometimes it says things like, "Birds on and near field."
+
+&lt;strong&gt;CFI&lt;/strong&gt;: Certified Flight Instructor. The FAA has allowed this pilot to teach other pilots. I have had a total of about half a dozen different instructors so far. There is a vast range from the gnarly to great.
+
+&lt;strong&gt;CFIT&lt;/strong&gt;: Controlled Flight Into Terrain. One of the ways that flights end, one of the bad ones. The airplane is still under control of the pilot (so it's not like a wing fell off), but the pilot steers into something immovable, like a mountain.
+
+&lt;strong&gt;CFII&lt;/strong&gt;: Certified Flight Instructor, Instruments. An instructor that can teach instrument flying. I had a great one.
+
+&lt;strong&gt;CTAF&lt;/strong&gt;: Common Traffic Advisory Frequency. Not all airfields have towers with controllers in them. And most of the airfields with towers eventually let the controllers go home to sleep. There are also some areas (like those for air work practice, places where a lot of planes might be in the same bit of sky at once) which have a CTAF which are not necessarily air fields. They are easy to use, you just self-announce on them. "Santa Monica traffic, Diamondstar niner seven one romeo delta is entering the left downwind for runway two one. Santa Monica." Announce as often as the frequency allows, so that people just tuning into the frequency get an idea of where your plane is.
+
+&lt;strong&gt;FBO&lt;/strong&gt;: &lt;a href="http://www.flyingsummers.com/2008/04/08/fbo/"&gt;Fixed Base Operator&lt;/a&gt;. A business at an airfield that can provide any number of services, but which we usually patronize for fuel, restrooms, parking, and the arrangement of rental cars. These are the General Aviation (private flying) version of the passenger terminal you walk through to get to you JetBlue flight.
+
+&lt;strong&gt;GPS&lt;/strong&gt;: Global Positioning System. The main way that most small planes now navigate from place to place. It's just like the GPS in your car, but there are no roads you need to stay on. (In an odd turn, the GPS in the plane often includes the depiction of roads, because they are good references for navigation and reporting position. "I'm over the I-10 and there is a lot of traffic...")
+
+&lt;strong&gt;IFR&lt;/strong&gt;: Instrument Flight Rules. The opposite of VFR, flying the airplane by reference to the instruments mounted inside the plane, without reference to anything you can see outside. There are a number of regulations related to this endeavor, the first of which is that you have to be rated for instrument flight; it's a separate course of study and exam.
+
+&lt;strong&gt;IMC&lt;/strong&gt;: Instrument Meteorological Conditions. The weather is bad enough that you can't fly simply by reference to instruments. You should be instrument-rated to be flying in these conditions and flying IFR. If you aren't you are in the largest sector of risk for a fatal accident (continued VFR flight into IMC).
+
+&lt;strong&gt;OAT&lt;/strong&gt;: Outside Air Temperature. How cold is it outside the airplane. Most importantly, is it below freezing and is there visible moisture out there?
+
+&lt;strong&gt;POH:&lt;/strong&gt; Pilot Operating Handbook. The manual for a plane, which includes all of the performance details: how long a runway you need to land, how many pounds of fuel, passenger and luggage the plane can carry, and what sort of performance to expect from the aircraft.
+
+&lt;strong&gt;stall&lt;/strong&gt;. Commonly mistaken for something that happens to the engine, since the same term with automobiles means the engine has died. In an airplane it refers to loss of lift from a lift-inducing surface. The plane goes up (or remains level) because there is air flowing over the wing. If you slow the plane down enough there isn't enough air going over the wing and the airplane stops flying. The key is to push the nose of the airplane down, increase the speed of the plane, which increases the airflow over the wing and it is flying again. The real danger is that if the plane isn't flying perfectly straight one wing stalls and the other keeps flying, throwing the plane into a spin toward the ground. If this happens close enough to the ground there's no chance to recover and the stall-spin accident in the traffic pattern is one of the common ways low-time pilots die.
+
+&lt;strong&gt;TPA&lt;/strong&gt;. Traffic Pattern Altitude. The height above sea level that a pilot should fly the &lt;em&gt;traffic pattern&lt;/em&gt; at a particular airfield. It tends to be a thousand feet above the elevation of the field. Sometimes it is a little higher if the neighborhood around the field is noise sensitive. (Santa Monica's airport is at 177ft and the TPA is 1,400. Camarillo's airport is at 77ft and the TPA is 877.)
+
+&lt;strong&gt;traffic pattern&lt;/strong&gt;. Around an air field there is a rectangular pattern in the sky which planes landing at the field are meant to follow. There is an upwind leg (following the centerline of the runway into the wind), a crosswind leg (left or right after flying upwind), a downwind leg (parallel to the runway, flying with the wind on one side or the other of the runway), base leg (turning ninety degrees from the downwind leg toward the runway), and final leg (lined up on the centerline of the runway).
+
+&lt;strong&gt;VFR&lt;/strong&gt;: Visual Flight Rules. The group of FAA regulations which govern flight of an aircraft in VMC, weather conditions where you can see where you are flying. In southern California, this is most of the time. Your first pilot rating (Private Pilot) only allows VFR flight. The next rating you should get is an instrument rating, which allows flight under IFR (see above).
+
+&lt;strong&gt;VMC&lt;/strong&gt;: Visual Meteorological Conditions. The weather is good enough to see where you are flying (three miles of visibility, a certain separation distance is possible from clouds and the ground).
+
+&lt;strong&gt;VOR&lt;/strong&gt;: Very high frequency (VHF) Omnidirectional Range. This is a navigation aid which, with the proper radio in the plane, can tell you how far you are from the transmitter and which course will take you directly to the transmitter. This turns out to be incredible useful when you can't see the ground, or it's nighttime, or you are a little lost. You can tune in more than one VOR and see which radial you are on from each, and the intersection is where your plane is on the chart.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>207</wp:post_id>
+    <wp:post_date>2008-04-06 10:57:43</wp:post_date>
+    <wp:post_date_gmt>2008-04-06 18:57:43</wp:post_date_gmt>
+    <wp:post_modified>2013-07-23 17:09:31</wp:post_modified>
+    <wp:post_modified_gmt>2013-07-24 00:09:31</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>glossary</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_page_template</wp:meta_key>
+      <wp:meta_value>default</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>207</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>207</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

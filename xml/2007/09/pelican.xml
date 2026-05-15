@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Pelican on my Perch</title>
+    <link>http://flyingsummers.com/2007/09/11/pelican/</link>
+    <pubDate>Tue, 11 Sep 2007 17:58:22 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2007/09/11/pelican/</guid>
+    <description />
+    <content:encoded>I’ve &lt;a href="http://www.flyingsummers.com/2006/07/19/engineout/"&gt;written before&lt;/a&gt; about my anxiety concerning the engine that powers our plane. It’s a very simple internal combustion engine, but because the technology is so old, I am responsible for settings that are totally automatic in my Toyota. I open the throttle (allow air to mix with the fuel), adjust the revolutions per minute, and set the mixture of fuel to air. It doesn’t seem that I should be responsible for these things &lt;strong&gt;and&lt;/strong&gt; for keeping the plane at the right altitude, attitude, airspeed and heading, but I am. Especially in the era of computers, where I fly with more computing power in my plane than they had in the lunar landing module (or back in mission control, for that matter), it seems absurd.
+&lt;!--more--&gt;
+The engine has four massive cylinders and produces one hundred eighty horsepower. It is fuel injected, which is a fairly recent advancement in piston-powered aircraft. At least I don’t have to worry about carburetor heat, which people without fuel injection do. (There is moisture in the air. Even at warmer-than-freezing temperatures, the way the air whistles through the carburetor means that ice can form in the inlet if the conditions are right. When conditions are right, the pilot moves a lever (yet another lever) and heats up the incoming air.)
+
+On such a simple engine part of the complexity is that the amount of air you are mixing with your fuel changes as the airplane climbs to your cruising altitude. The air pressure is decreasing and that means less air pressed against the throttle trying to get into the intake manifold. Subsequently, you need less fuel to mix with (less) air, so you adjust the mixture. You make the mixture “more lean.” On climb out of Santa Monica I might be burning fifteen gallons per hour, but once I have climbed up to my cruising altitude of nine thousand five hundred feet above sea level I can be burning as little as eight gallons per hour. You can burn more fuel, or rather you can have more fuel flow to the engine, but it won’t create any more power and it’s just being wasted. (If there isn’t enough air to ignite with the fuel, the fuel doesn’t burn. It sprays out in the exhaust, untouched but a little warmer for traveling through the engine.)
+
+If this seems a little arcane it is because the knowledge about piston engines has been hidden from people for more than a generation now. Only people who are a little older and continue to work with these engines in real detail can give the proper advice on their operation. They can offer this advice because they have real knowledge of how the engines operate.
+
+[caption id="attachment_2027" align="alignright" width="128"]&lt;a href="https://flyingsummers.com/wp-content/uploads/2007/09/jdeakin.jpg"&gt;&lt;img class="size-full wp-image-2027" src="https://flyingsummers.com/wp-content/uploads/2007/09/jdeakin.jpg" alt="John Deakin" width="128" height="128" /&gt;&lt;/a&gt; John Deakin[/caption]
+
+John Deakin is one of these people.
+
+John writes &lt;a href="http://www.avweb.com/news/pelican/"&gt;an online column&lt;/a&gt; about aviation. He’s &lt;a href="http://www.advancedpilot.com/store.html"&gt;written a book&lt;/a&gt; about his various adventures in a whole bunch of different airplanes. He flew thousands of hours back and forth across the Pacific in 747s for Japan Airlines. Now he flies a Gulfstream, the largest of the corporate jets, and flies a whole bunch of really interesting warplanes for the &lt;a href="http://www.commemorativeairforce.org/gatepage.php"&gt;Commemorative Air Force&lt;/a&gt;.
+
+So he might not only be one of these people who can talk about piston engines in detail, he might be &lt;strong&gt;the&lt;/strong&gt; person.
+
+He wrote a few columns about engine management and the old wives tales that are spread about mixture, cylinder head temperature and what the proper operation of an engine should be. I read them very carefully. I discussed them with my brother and with fellow pilots online. Adam and I experimented with the plane when we were on longer trips.
+
+Here is a bit of the basic idea that I understand: When you have a mixture of fuel and air and you ignite it, it will burn and there will be exhaust gases of a certain temperature (one thousand three hundred degrees Fahrenheit is often seen on my gauges). If you get the mixture exactly right, the exhaust will be &lt;span style="font-style:italic;"&gt;all&lt;/span&gt; burnt gas and the temperature will peak. More gas and you wind up cooling everything down (and cooler, un-burnt fuel vapor comes out in the exhaust), less gas and you starve the process entirely and it is cooler. As the engine is running and as you slide the mixture knob back and forth there is a spot where the combustion is at its peak. This is not a good place to be (so confusing, isn’t it?) because this is where the heat is greatest, and heat is bad for the engine. It is also where pressure from the combustion is greatest and pressure is bad for all the seals on the engine.
+
+So, instead, we moved the mixture to peak and then move it either rich of peak (more fuel) or lean of peak (less fuel) by a certain number of degrees (measured in the temperature of the exhaust gases). Ideally, we would all fly lean-of-peak because it uses less fuel, but engines often run rougher lean-of-peak, for reasons explained below.
+
+John Deakin writes volumes about all of this; graphs and lots of detail fill his columns. I don’t really understand it. Like with the physics of electrons and molecules, it is clear as I am reading it, but the moment I stop reading it fades away.
+
+I wrote him email about it. This was back in May. I said that since A&amp;amp;P mechanics (airframe and power plant) rarely go flying with their customers anymore, and since the vast majority of instructors continue to propagate the old wives tales, did he have a CFI that he knew who would want to go up in my plane with me and play with the mixture lever for me. He wrote, “We're in luck, I've got a few days that will probably be free of all duty.”
+
+Awesome. I was so excited. I wrote to my brother, and &lt;span style="font-style:italic;"&gt;he&lt;/span&gt; was excited, but he was too busy to come with me. That was too bad, because he is better at retaining this sort of information. So the next week I flew up to Camarillo and taxied over to the CAF hanger. John was right there when I hopped out and asked if I wanted the dime tour of the hanger before we went flying. I said a nickel tour would be more appropriate because I love flying, but I don’t really know the details of all the machines that have come before mine. More importantly, I said that I’d come back for another visit with my brother, who knows the different between a Hellcat and a Bearcat. (We did, and we spent over an hour walking around with John and took him to lunch, but Adam will have to write that up.)
+
+We returned to the plane and I took out the Pilot Operating Handbook for John to peruse. He checked the operating limits of the engine and some of the performance characteristics of the airframe. He pointed out that Lycoming recorded that the maximum allowable cylinder head temperature was five hundred degrees. I said I had yet to see over four hundred and he said that was good, that he had no idea how I would get up to five hundred.
+
+When we got in and fired up (with John in the left seat) he said that the good news was that the Lycoming 180hp engine was a “real bulletproof, solid machine.” He said I wouldn’t see any problems with it. He said it was so small and that so little was asked of it, that I didn’t need to worry about being careful.
+
+That was a tremendous relief for me. I read a lot about engine failures and things like cylinders gobbling up the valves that snap off when the engine has been run too hot, and I worry. Apparently I didn’t need to worry.
+
+We took off from the Camarillo airport and climbed in a wide circle over the farmland of Ventura. When we got up to eight thousand five hundred feet John started to mess around with the mixture. He showed me how to do “the big pull” to get the mixture lean of peak. He did a number of little tests where he pulled the mixture leaner and leaner while watching the exhaust gas temperatures. He would explain lean of peak operation and then have the mixture so lean that the engine was popping and barking like it was a go-kart motor filled with kerosene.
+
+Even with a pilot who had thousands of hours and all sorts of experience landing planes with engines out, fires on board, gear still up (or almost)… I was still nervous with the engine coughing. John could tell and said, “There’s nothing I’m doing that is going to make the engine stop. It’s going to complain a little, and it’s not going to sound good, but I’m not hurting it and it will keep spinning.” I felt a little better.
+
+John is an advisor to a company called &lt;a href="http://www.gami.com/"&gt;GAMI&lt;/a&gt;. They make a really clever product. It’s what should be a revolutionary product, but the aviation industry is slow to accept innovation. With a simple aircraft engine on a test stand wired up with way more sensors than it usually has, GAMI fired it up and looked at how combustion was happening in the cylinders.
+
+What they found out wasn’t, in retrospect, very surprising. They found that the exhaust path was different for each cylinder (the cylinder in front has a longer exhaust tube connected to it), and the path the incoming air takes is different for each cylinder. That means that the incoming air fuel mixture is different for each cylinder, and the exhaust gas temperature isn’t necessarily an accurate measurement for every cylinder in the same way (it depends on where the probe sits and how fast the gases get to the probe).
+
+The best idea, GAMI realized, was to custom create each injector for a particular cylinder. Ideally, the injectors would be adjusted so that the fuel burn was totally even on each cylinder. That way, when the fuel flow was adjusted it would stay even across the engine.
+
+When an engine is delivered from the factory, there is a particular cylinder that will run hotter than the rest. That’s just how it ends up with the injectors all the same. This becomes the guiding cylinder, the one you have to watch as you adjust the mixture. Often, it means that you cannot adjust the mixture beyond a certain range so your economy is limited.
+
+John’s plane was the first to fly with GAMI injectors. It meant that he was able to go to lean-of-peak much more easily and the engine was able to run very smoothly lean-of-peak.
+
+As we circled at 8,500 feet John leaned and fiddled and watched the sensor readings. Then we descended to 3,500 feet and he did it all again. He said that it sure seemed like there was an induction leak in the first cylinder, which meant that it slipped lean-of-peak ahead of the other three cylinders and made it impossible get them all lean-of-peak. By the time you were getting the other cylinders lean-of-peak cylinder one was starved for fuel. He felt that a good A&amp;amp;P shop could probably find the induction leak.
+
+He said GAMI injectors might make a difference, but it wouldn’t be a huge difference. The plane only burns nine gallons an hour even when it is leaned by feel rather simply. So it’s not going to get hugely more efficient. But it might be a lot smoother, that’s what I would be hoping for.
+
+(Adam and I have tried to run the GAMI test on two different occasions. We just need to do it again when we aren’t worried about time and I’m not worried about the engine quitting midair. We had great luck running pretty lean as we flew across the country and John’s advice that the engine was bulletproof made me feel much better as we fiddled with it.)
+
+We returned to the Camarillo airport. John did an incredibly smooth landing and as he taxied off the runway I thought of all the planes he had flown, an authentic Japanese Zero (one of the few still in flying condition), Mustangs, various Navy planes, and the huge twin engine tail dragger that he flew as part of Air America. It was fun to give him a ride in a plane he hadn’t been in yet and it was good for my plane to be flown for a little while as someone who understood it in the context of a lot of other planes.
+
+Many thanks to John Deakin for a great morning and a lot of information that I couldn’t have gotten any other way. If you aren’t already reading his column, you should.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>183</wp:post_id>
+    <wp:post_date>2007-09-11 10:58:22</wp:post_date>
+    <wp:post_date_gmt>2007-09-11 17:58:22</wp:post_date_gmt>
+    <wp:post_modified>2015-03-29 18:48:14</wp:post_modified>
+    <wp:post_modified_gmt>2015-03-30 01:48:14</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>pelican</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="help">help</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>183</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>183</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Out of the Killing Zone</title>
+    <link>http://flyingsummers.com/2006/11/28/safer/</link>
+    <pubDate>Tue, 28 Nov 2006 22:38:42 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2006/11/28/safer/</guid>
+    <description />
+    <content:encoded>I’ve been watching my logbook total hours for the past couple weeks, just waiting for this to happen. I finally passed the three hundred fifty hour mark. That’s critical. There’s a book called “The Killing Zone” which is an examination of private pilot accident statistics. The hours between forty and three hundred fifty are markedly different than those to either side. I am now one fifth as likely to have an accident as I was prior to yesterday’s flight. That’s excellent.
+
+On top of that, now that I have an instrument rating and no hesitation to file an instrument flight plan, I am out of the largest group of accidents, which is continued VFR flight into IMC conditions. (That’s usually a VFR pilot (like Corey Lidel) who flies into hazy or marginal conditions and tries to keep pressing on without an instrument rating or instrument flight plan.)
+
+Just &lt;em&gt;having&lt;/em&gt; an instrument rating has cut my chances for having an accident to a third of what it would have been without one. My insurance rates dropped accordingly.
+
+All of this makes m feel better about having the entire family in the plane for weekend jaunts.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>133</wp:post_id>
+    <wp:post_date>2006-11-28 14:38:42</wp:post_date>
+    <wp:post_date_gmt>2006-11-28 22:38:42</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 21:26:27</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 04:26:27</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>safer</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>133</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>133</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

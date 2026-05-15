@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>New Passenger!</title>
+    <link>http://flyingsummers.com/2006/09/22/eel/</link>
+    <pubDate>Sat, 23 Sep 2006 05:20:49 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2006/09/22/eel/</guid>
+    <description />
+    <content:encoded>[caption id="attachment_1291" align="alignleft" width="267"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2006/09/new.jpg"&gt;&lt;img class="size-medium wp-image-1291" alt="Ellie with Uncle" src="http://flyingsummers.com/wp-content/uploads/2006/09/new.jpg?w=267" width="267" height="300" /&gt;&lt;/a&gt; Ellie with Uncle[/caption]&lt;p&gt;Adam hasn't written into the blog in a while, but he has good reason. This is Eleanor Elektra Lehman, his daughter. She already has a headset (well, earmuffs), and has already flown across the continent. In a couple weeks she's going to fly to Hawaii. She's only been around a month, but she's awesome. (Rudy and Dexter adore their new cousin.)&lt;/p&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>116</wp:post_id>
+    <wp:post_date>2006-09-22 22:20:49</wp:post_date>
+    <wp:post_date_gmt>2006-09-23 05:20:49</wp:post_date_gmt>
+    <wp:post_modified>2013-06-20 09:57:06</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 16:57:06</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>eel</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>116</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>116</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

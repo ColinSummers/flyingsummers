@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>True Failure</title>
+    <link>http://flyingsummers.com/2013/08/24/true-failure/</link>
+    <pubDate>Sun, 25 Aug 2013 00:34:07 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=1701</guid>
+    <description />
+    <content:encoded>&lt;span style="line-height:1.5;"&gt;Back in &lt;a href="http://flyingsummers.com/2011/11/13/hi-im-a-failure/"&gt;November 2011&lt;/a&gt; I wrote about having an electrical system failure as I landed at Long Beach Airport with my friend Susan. We never found the cause for the loss of power to the system, and it was likely that it was me forgetting to switch on the main switch for the alternator, or bumping the switch as we were flying down from Santa Monica.&lt;!--more--&gt;&lt;/span&gt;
+
+That was good practice for Monday's flight over Albany. We were coming from Oberlin, Ohio, headed to Lebanon, New Hampshire (our usual summer destination). We needed a fuel stop and Elmira was our first choice. Weather looked like it was wiping out that option, with a lot of storms lined up and headed for Elmira. They weren't there yet, but by the time we got there, and by the time we had a break on the ground, we might get stuck in upstate New York wishing we had flown a little further east.
+
+We were ducking in and out of clouds. At one point I even picked up an instrument clearance to climb up to 10,000 feet to get above the clouds. I spent a lot of time trying to remain VFR because there were thunderstorms in the area and going inside the clouds in a region of thunderstorms is one of the things I avoid doing. There are ways to do it and decrease your risks, but it is just better not to do it. I asked for the instrument clearance since we were close to brushing clouds a few times and I wanted to climb up to 11,500 via a valley between two higher sets of clouds and I figured it would be better to have some closer eyes on me for that.
+
+Once I was above the clouds I canceled IFR and continued VFR.
+
+We were approaching Albany so I started to descend. I picked up the ATIS at the airport and let the approach controller know that I had that. The G1000 bonged and had a annunciator lit up for the volts. I switched to the engine page, figuring that since I had slowed the engine some the alternator was no longer putting out enough energy to keep the electrical system happy. Close. The alternator was not putting out &lt;em&gt;any&lt;/em&gt; energy. I typically see twenty-eight volts coming into the electrical system and instead I was looking at 24.6 and, as I watched, then 24.2.
+
+Instructors and aviation writers discuss how one of the issues with pilots is the Superman complex and the disinclination to confess when something is wrong. There is &lt;a href="http://www.ntsb.gov/doclib/reports/2007/aar0701.pdf"&gt;a crash involving a light jet&lt;/a&gt; where the two brand-new pilots went joy riding in an empty plane (repositioning it to another airport for the next day) and would be alive if they had been willing to admit they had broke the plane. I can't understand that. Even before I explained the situation to Nell I keyed the mike and said, "Albany approach, Diamondstar one romeo delta has a low voltage indicator. If we lose communications we will be landing runway one nine as previously advised." "One romeo delta, roger."
+
+That wasn't hard. I don't know why someone wouldn't do that. I was switched to the tower controller in another ten minutes and I told him, too. Even though I bet he had gotten that detail in the handoff from approach. At that point I had explained to Nell that the alternator powered the electrical system and that when it failed the battery was left to do the job alone. The battery would be exhausted in about twenty minutes of running all our gadgets, like the radio, the GPS, the moving map, the engine monitors and so on. The screens would probably go black, but the engine and the plane's controls were unaffected by the electrical system. We would just continue flying in the silence, with darkened screens. If we were inside the clouds I would have declared an emergency and headed to the nearest VFR conditions and landed at a VFR airport. If we were inside the clouds we would have had the twenty minutes of the full system and then I have an emergency switch to pull to give a secondary AI (attitude indicator) another twenty-five minutes. (I need to look up the procedure, because I suspect that I could have increased our screen time if I had shed a bunch of the load, shutting down Nell's screen, one of the radios, the navigation radios, the backup GPS and so forth. In fact, there is a single switch (ESS BUS) which does exactly that. I'll look it up and practice it with my CFII.)
+
+We landed uneventfully on runway one nine.
+
+[caption id="attachment_1699" align="alignleft" width="112"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/08/alternator.jpg"&gt;&lt;img class="size-thumbnail wp-image-1699" alt="The Tired Alternator That Gave Up" src="http://flyingsummers.com/wp-content/uploads/2013/08/alternator.jpg?w=112" width="112" height="150" /&gt;&lt;/a&gt; The Tired Alternator That Gave Up[/caption]
+
+We had received our taxiing instructions in the air. We rolled out, turned right and were motoring along on taxiway alpha when the red exes started blocking out various instruments on the screens. I switched off the avionics rather than having it drain the battery down to a state where it wouldn't accept a charge. Three minutes later we were waved into a parking spot by Million Air. The boys took off their headsets and Dexter said, "This is just a fuel stop, right?" and I had to admit that the plane was broken.
+
+It was 5pm. The lineman said that there was a shop on the other side of the ramp and he would give me their card so I could call them. We all trooped into the FBO, which is one of the most beautiful spaces I've seen for an FBO and yet one that we spent the least amount of time in. I called and talked to Jamie Hildenbrandt of &lt;a href="http://hildtaviation.com/"&gt;Hildt Aviation&lt;/a&gt;. He said that it was either the alternator or the voltage regulator, and that to call someone out to look at it after hours would be four hours of overtime. I said that wasn't necessary, that they could look at it in the morning. Once they knew what it was (almost certainly the alternator), they could order the part, but it meant they couldn't install it until Wednesday.
+
+I called &lt;a href="http://www.mxdiamond.com/"&gt;my mechanic in California&lt;/a&gt;, since it is three hours earlier. He had an alternator on hand and would FedEx it to Million Air that afternoon. It would be there in the morning. Rudy went out and unpacked the plane for us. We piled into the Million Air van while I continued communicating between the mechanics and the FBO. We got out at the main Albany terminal to rent a car and I gave the van driver the keys to the plane. Minutes later Nell was driving us along little state roads through the mountains toward New Hampshire. Because both mechanics are amazing, I had a tracking number to forward from one to the other before we made it out of Vermont.
+
+Before I went to bed Jamie's mechanic (who had stopped by the airport anyway) reported that there was electricity at the field, which meant it was almost certainly the alternator. I said it would be there in the morning and he promised to give me a call when it was in.
+
+[caption id="attachment_1700" align="alignright" width="112"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/08/terminal.jpg"&gt;&lt;img class="size-thumbnail wp-image-1700" alt="Terminal Destroyed by Arcing" src="http://flyingsummers.com/wp-content/uploads/2013/08/terminal.jpg?w=112" width="112" height="150" /&gt;&lt;/a&gt; Terminal Destroyed by Arcing[/caption]
+
+By noon the next day the alternator was in and they had handled a few little problems (the electric lead was burned through because the terminal was arcing). I jumped back in our rental car, drove back &lt;em&gt;over&lt;/em&gt; the mountains and got in the plane for a real IFR flight to our final destination).
+
+All in all, a fine result from a fairly major component failing.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>1701</wp:post_id>
+    <wp:post_date>2013-08-24 17:34:07</wp:post_date>
+    <wp:post_date_gmt>2013-08-25 00:34:07</wp:post_date_gmt>
+    <wp:post_modified>2013-08-24 17:34:07</wp:post_modified>
+    <wp:post_modified_gmt>2013-08-25 00:34:07</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>true-failure</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Disappointing Flight</title>
+    <link>http://flyingsummers.com/2017/02/09/disappointing-flight/</link>
+    <pubDate>Thu, 09 Feb 2017 20:36:16 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=3983</guid>
+    <description />
+    <content:encoded>[wpvideo 8kjjodEr]
+
+I actually checked in with the Santa Monica tower on my return this morning as, "Disappointed Angel Flight 7866." &lt;!--more--&gt;
+
+I waited for the fog to clear at Santa Monica, kept in touch with the cancer patient awaiting his flight in Santa Barbara, and trusted the weather forecast that said that the fog layer at Santa Barbara would burn off by the time I got there.
+
+Point Mogu approach told me three flights had already tried unsuccessfully to land. One was a SkyWest shuttle. I said it would be another half hour before we got there, so made things would have improved. They handed me off to Santa Barbara approach who said that no, things weren't improving, they were getting worse. They were now no longer reporting a ceiling of clouds, they were just reporting an indefinite ceiling and runway visibility range of 1,200 feet. Down from 2,800 feet about ten minutes prior. What a mess.
+
+The controller talked to another SkyWest flight and they started a series of loops around a navigation fix, trying to spend half an hour in the sky hoping things got a little better and they could land. They asked what I wanted to do. I said we owed it to the patient to give it one try, but they we would head home.
+
+It was not my first approach to minimums, but it was the first time I got down there and there was nothing to see. At 500 feet I saw the ground for an instant, and I had the plane slowed to 90 knots, but at 300 feet (the revised decision height was 276 feet because there was a crane off the end of the runway) there was absolutely nothing but the smooth grey-white, like the inside of a ping pong ball. We flew over the runway (according to the moving map), pulled the gear up, retracted a notch of flaps, and climbed back up into the sun.
+
+That's the first time I wasn't able to bring the patient to their appointment and it was very disappointing. My friend Susan managed to video my landing.
+
+[gallery ids="3996,3997,3998,3999,4000" type="rectangular"]</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>3983</wp:post_id>
+    <wp:post_date>2017-02-09 12:36:16</wp:post_date>
+    <wp:post_date_gmt>2017-02-09 20:36:16</wp:post_date_gmt>
+    <wp:post_modified>2017-02-09 12:36:16</wp:post_modified>
+    <wp:post_modified_gmt>2017-02-09 20:36:16</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>disappointing-flight</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>1685262980</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

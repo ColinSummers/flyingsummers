@@ -1,1 +1,8 @@
 wordpress-2026-05-15-14_20_39/
+videos/
+images/
+covers/*
+!covers/banners/
+_tools/top20.json
+_tools/attachments.json
+r2.md

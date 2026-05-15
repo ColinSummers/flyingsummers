@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>On the Ramp</title>
+    <link>http://flyingsummers.com/2013/08/24/on-the-ramp/</link>
+    <pubDate>Sun, 25 Aug 2013 00:00:54 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=1685</guid>
+    <description />
+    <content:encoded>[caption id="attachment_1684" align="aligncenter" width="640"]&lt;a href="http://flyingsummers.com/wp-content/uploads/2013/08/c130.jpg"&gt;&lt;img class="size-full wp-image-1684" alt="Guppy and Whale" src="http://flyingsummers.com/wp-content/uploads/2013/08/c130.jpg" width="640" height="478" /&gt;&lt;/a&gt; Guppy and Whale[/caption]
+
+&lt;span style="line-height:1.5;"&gt;That's Adam's plane in front of a C-130, a military transport plane. I'm pretty sure the C-130 uses more fuel to taxi to the runway than Adam's plane can hold in the wing tanks.&lt;/span&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>1685</wp:post_id>
+    <wp:post_date>2013-08-24 17:00:54</wp:post_date>
+    <wp:post_date_gmt>2013-08-25 00:00:54</wp:post_date_gmt>
+    <wp:post_modified>2013-08-23 17:02:03</wp:post_modified>
+    <wp:post_modified_gmt>2013-08-24 00:02:03</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>on-the-ramp</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

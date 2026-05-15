@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>One Step Closer</title>
+    <link>http://flyingsummers.com/2006/09/29/written/</link>
+    <pubDate>Sat, 30 Sep 2006 05:25:35 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2006/09/29/written/</guid>
+    <description />
+    <content:encoded>It isn’t really the surly bonds of earth that bother me anymore, it’s the damn clouds. More specifically, the clouds which cover airports and keep the airplanes on the ground. It doesn’t keep all the airplanes on the ground, just those flown by pilots do not yet have instrument ratings.
+
+I want an instrument rating. To be a better pilot, to learn more, to press myself further in a chosen endeavor, but also for the freedom. Here on the west coast there is very little bad weather. Oh, we get some rain and a few wind storms, and the occasional real storm off of the Pacific, but we live in a desert and we just don’t have the sort of constant thunderstorms the east coast sees. I have learned a lot about icing levels and freezing rain, but in general it doesn’t apply to the sort of flying I do.
+
+&lt;!--more--&gt;So the weather here is not the sort of weather that is dangerous to fly into. (Every year, in places with real weather, planes fall out of the sky covered with ice, and a couple even get torn apart by the wind inside thunderstorms.) Here it is just inconvenient: it makes it impossible to see far enough to fly. As soon as I had my Private Pilot certificate I started training to get an instrument rating. It is slow going, but you can see the progress.
+
+One of the requirements for the check ride is that you pass a written exam. It’s multiple guess, no penalty for wrong answers, and it’s from a published pool of a thousand questions. So, technically, you could go through and just memorize a lot of the answers. Adam did that for some of the questions on the Private Pilot written exam, but I don’t have that sort of head. I watch the King Schools DVDs for Instrument Training Written and did a few practice exams and then went down to the airport to take the test.
+
+During the practice test it was really hard to keep doing the test for more than half an hour. The material is not that interesting, and reading the same question (or even very similar question) for the fourth time is mind-numbing. I had the same problem on the written for my Private Pilot. Back then Adam and I promised that we would stay for at least forty-five minutes. I made the same promise to myself for this test. I was deliberate on each question, skipping any which required figures (accompanying illustrations like chart fragments or depictions of instruments) or long calculation. Then I went back and worked through those, knowing I had plenty of time. I used an hour of the two and a half I was allowed.
+
+This sort of testing is all computerized now. I was answering on a machine networked to a bunch of others. After the test I went out to the proctor, who brought up the test results on his own screen. I had 80% correct, and needed only 70% correct to pass. I have a sheet that explains the general areas of the questions I missed.
+
+It was a huge relief. I’m a step closer.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>118</wp:post_id>
+    <wp:post_date>2006-09-29 22:25:35</wp:post_date>
+    <wp:post_date_gmt>2006-09-30 05:25:35</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 21:24:22</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 04:24:22</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>written</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>118</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>118</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>August 2011 Eastbound Crossing</title>
+    <link>http://flyingsummers.com/2013/09/23/august-2011-eastbound-crossing/</link>
+    <pubDate>Mon, 23 Sep 2013 22:34:41 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=1833</guid>
+    <description />
+    <content:encoded>This was a great trip, with our first successful landing in the Chicago area (but we hope not our last), and a stop in Michigan to see the set of &lt;a href="http://www.imdb.com/title/tt1623205/?ref_=fn_al_tt_5" target="_blank"&gt;Oz the Great and Powerful&lt;/a&gt;. I had asked the boys to contribute to the blog, and I recently found Dexter's entries in my email, so they are here:
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="http://flyingsummers.com/2011/08/09/ksmo-klbl-das/"&gt;Santa Monica to Liberal&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://flyingsummers.com/2011/08/10/klbl-kmdt-das/"&gt;Liberal to Chicago&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://flyingsummers.com/2011/08/11/kmdw-kptk-das/"&gt;Chicago to Oakland&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://flyingsummers.com/2011/08/12/kptk-kleb-das/" target="_blank"&gt;Oakland to Lebanon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&amp;nbsp;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>1833</wp:post_id>
+    <wp:post_date>2013-09-23 15:34:41</wp:post_date>
+    <wp:post_date_gmt>2013-09-23 22:34:41</wp:post_date_gmt>
+    <wp:post_modified>2013-09-23 15:34:41</wp:post_modified>
+    <wp:post_modified_gmt>2013-09-23 22:34:41</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>august-2011-eastbound-crossing</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

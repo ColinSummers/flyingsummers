@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Backup for my Backup</title>
+    <link>http://flyingsummers.com/2016/04/11/backup-for-my-backup/</link>
+    <pubDate>Mon, 11 Apr 2016 21:30:44 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?p=2692</guid>
+    <description />
+    <content:encoded>&lt;img class="alignnone size-full wp-image-2703" src="https://flyingsummers.com/wp-content/uploads/2016/04/backup-ai.jpg" alt="backup-ai.jpg" width="1387" height="593" /&gt;During &lt;a href="https://flyingsummers.com/2015/10/25/the-pickup/"&gt;my hardest IFR flight&lt;/a&gt; last summer, I looked at the backup attitude indicator quite often. Possibly because our only real equipment failure in the plane was the alternator, resulting in all of the smoke and mirrors going south at the same time, I like having that backup when I am in the clouds.
+
+&lt;!--more--&gt;The attitude indicator is so simple: blue sky, brown earth, a nice straight horizon line separating the two. If you lose reference to the true horizon outside the airplane you can just look at this little four-inch-diameter instrument and you can keep the plane upright. They vary a little bit in appearance, some have a little silhouette of an airplane you can measure against the horizon. On the very first models sometimes the airplane tilted and sometimes the horizon tilted. Now they all work the same way (the horizon tilts).
+
+If the fellow flying Buddy Holly understood the artificial horizon it seems likely that he and his friends would all still be alive. Or, at least, they would have made it to that next stop on the tour.
+
+One of the scarier passages in "Night Flight," Antoine de Saint-Exupery's book about the mail pilots of South America, he describes flying into a cloud in the days before artificial horizons. In general, you just had to keep the horizon (or the ground) in sight. If you didn't have reference, you couldn't keep the plane upright. Once that possibility was gone, you might as well bailout, which many of them did. The plane was considered expendable, the skilled pilot willing to fly at night over the Andes... that was a rare commodity to be preserved. (Charles Lindbergh flew the mail in North America. He bailed out four times.) de Saint-Exupery describes flying into a cloud and "knowing there was clear air between the mountains below and the cloud" he elected to slow the plane and let it slowly descend out the bottom of the cloud.
+
+You never really know what is below you. And the moment you lose reference to the horizon your body will lie to you about the attitude of the airplane in relation to the earth below. The idea that de Saint-Exupery just put his feet on the floor (so he didn't mess with the rudder), pulled the throttle a little bit, and let the plane descend is horrifying. That he survived is really just chance.
+
+You need that little instrument. (If JFK Jr. had been paying attention to &lt;em&gt;his&lt;/em&gt; he would also still be alive.)
+
+In the Diamondstar the instruments are all electrically powered. So when we lost the alternator over Albany we had twenty minutes to get on the ground before the screens went blank and we lost our big, gorgeous Primary Flight Display and its 10" diagonal artificial horizon. Diamond thought of that and when they engineered the installation of the backup artificial horizon they gave it a set of NiCad batteries. There's a little red safety switch to the left of the backup instruments. When I flip up the cover protecting the switch (clipping a wire to note that it has been used), I can turn on the switch that powers the backup artificial horizon by the batteries instead of the electrical system. That gives me another twenty-five minutes. If you are inside a cloud that &lt;em&gt;should&lt;/em&gt; be enough time to get out the bottom of the cloud.
+
+While in and out of clouds that were thousands of feet thick, somewhere more than a mile over the Appalachian Trail, those twenty-five minutes felt short, although I bet if they were really ticking down for you they'd feel like an eternity. So I wanted another solution. Really, I wanted a backup for my backup.
+
+Enter, the &lt;a href="https://www.appareo.com/aviation/ads-b/stratus/" target="_blank"&gt;Stratus 2s&lt;/a&gt;. The engineers at &lt;a href="https://www.appareo.com/" target="_blank"&gt;Appareo&lt;/a&gt; saw opportunity with the ADS-B mandate (and related transmission of traffic and weather information). I saw the first units, which gave your iPad the ability to display that weather and traffic. Since I have weather on the G1000's MFD, and traffic on the same screen a lot of the time, I wasn't that excited. And then the next generation of the device came out and they included an AHRS (Attitude and Heading Reference System). So when the excrement &lt;em&gt;really&lt;/em&gt; meets the fan blades, you could use your iPad to fly out of it. I ordered one immediately. (I already fly with an iPad, obviously.)
+
+&lt;img class="alignnone size-full wp-image-2696" src="https://flyingsummers.com/wp-content/uploads/2016/04/da40-backups.jpg" alt="da40-backups" width="3264" height="2448" /&gt;When Dexter and I returned from our trip to the east coast, and we were cruising three miles high over Kansas (which is why I am wearing oxygen), I had a complete duplicate of my glass cockpit instruments. If the G1000 had failed, or the alternator conked out again, I would have just shifted my scan six inches to the left and continued flying with the iPad mini.
+
+(The Stratus sets up a WiFi access point. You join that with the iPad. The Stratus will actually support five devices connected to it (I'm not sure why they chose that limit), so my passengers could all be watching us crawl across the map at the same time. Garmin recently announced a similar product and, for reasons I cannot fathom, decided that Bluetooth was the way to connect it to your tablet. So it can only talk to one tablet at a time.)
+
+There are a number of companies that make &lt;a href="https://www.l-3avionics.com/products/trilogy/" target="_blank"&gt;a cute little backup instrument cluster&lt;/a&gt;, and &lt;a href="https://flyingsummers.com/2016/02/24/the-da62/"&gt;the DA62&lt;/a&gt; even has one of these installed. That's an improvement, I think, over trying to scan the three round gauges just under the glare shield, but it only gives you the basic information and you are without a moving map. And then, well, there's the price. They vary company-to-company, but that little three inch screen with a battery backup will set you back $16,000. And no moving map. As of April 2016 the Stratus 2s can be had for $899 and a well-equipped iPad mini is $729.
+
+[caption id="attachment_2697" align="alignleft" width="297"]&lt;img class="  wp-image-2697 alignleft" src="https://flyingsummers.com/wp-content/uploads/2016/04/triology.jpg" alt="triology" width="297" height="192" /&gt; Click to read those details[/caption]
+
+There is some question about how accurate the WAAS GPS in the Stratus is, and how safe it would be to fly around unknown terrain in the clouds while using this pair as your reference. That's not what I would ever do with it. (There's &lt;a href="https://www.youtube.com/watch?v=qHJfqJj5jMU" target="_blank"&gt;a really scary YouTube video&lt;/a&gt; of a pilot in a Bonanza trying to fly through some clouds over the hills north of Van Nuys using a handheld GPS to guide him. How close does he get to the terrain? There is a branch from a bush stuck in the wingtip when he gets back home.) I don't need that sort of accuracy. I want to get to the nearest airport and descend out of the clouds. My system should let me do that with a wide margin.
+
+&amp;nbsp;
+
+The one vulnerability the Stratus-iPad pair has is their rechargeable batteries. The iPad can often last ten hours and the Stratus lasts something close to that. For a flight across the country I would need to bring them into the FBO, plug them in and keep them topped up. With the Stratus in particular I found that I kept it in the plane. A couple times that I wanted to use it the battery had just enough to light it up, but it would shut down after a few minutes.
+
+[caption id="attachment_2698" align="alignnone" width="3264"]&lt;img class="alignnone size-full wp-image-2698" src="https://flyingsummers.com/wp-content/uploads/2016/04/da42-screens.jpg" alt="da42-screens" width="3264" height="2448" /&gt; Backup's Backup in place on the way to Friday Harbor[/caption]
+
+In the new plane I had them place three USB power ports, two back in the luggage and one under the pilot's left knee. So the Stratus 2s now lives in the luggage compartment, plugged into "ships power," and I have a USB cable up front to charge the iPad mini on long trips. (On a recent flight down from Portland this came in very handy for Dexter. He wanted to listen to music but as he was getting into the plane he realized his phone was at 3%. When we landed in Redding it was back up at 90%.)
+
+I worried about plugging in the Stratus to the same electrical system that powers the G1000. After all, it seems like a failure of the electrical system would take out both my primary and my backup (er, my secondary backup). Then I read the Stratus manual carefully and saw that if the USB power is lost while the airspeed is greater than 4 knots the unit would switch to battery power, likely good for another six hours in my case.
+
+So a few more clever engineers engaged to reduce my risks even further. I like it.
+
+(In case you were concerned that the iPad was the fragile part of the equation (you're right), I have Foreflight loaded on my iPhone as well. And I also keep a copy loaded on Nell's iPad. So I actually have a backup for my backup's backup's backup. I almost feel secure enough.)
+
+Never too many backups.
+&lt;blockquote&gt;Update: In Jan 2017 this came in very handy &lt;a href="http://flyingsummers.com/2017/01/06/the-real-excitement/"&gt;when our AHRS failed&lt;/a&gt;.&lt;/blockquote&gt;</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>2692</wp:post_id>
+    <wp:post_date>2016-04-11 14:30:44</wp:post_date>
+    <wp:post_date_gmt>2016-04-11 21:30:44</wp:post_date_gmt>
+    <wp:post_modified>2017-01-16 11:29:01</wp:post_modified>
+    <wp:post_modified_gmt>2017-01-16 19:29:01</wp:post_modified_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>open</wp:ping_status>
+    <wp:post_name>backup-for-my-backup</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized">Uncategorized</category>
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value>2703</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_published</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_rest_api_client_id</wp:meta_key>
+      <wp:meta_value>-1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_job_id</wp:meta_key>
+      <wp:meta_value>21690013259</wp:meta_value>
+    </wp:postmeta>
+    <wp:comment>
+      <wp:comment_id>3094</wp:comment_id>
+      <wp:comment_author>Ron Rapp</wp:comment_author>
+      <wp:comment_author_email>ron@rapp.org</wp:comment_author_email>
+      <wp:comment_author_url>http://www.rapp.org/</wp:comment_author_url>
+      <wp:comment_author_IP>63.119.159.195</wp:comment_author_IP>
+      <wp:comment_date>2016-04-20 21:06:29</wp:comment_date>
+      <wp:comment_date_gmt>2016-04-21 04:06:29</wp:comment_date_gmt>
+      <wp:comment_content>I've seen that Youtube video several times.  Makes my hair (what little I have) stand up on end every. single. time.  Scud running can be done safely -- and even legally (Special VFR, or under IFR, they call it a "contact approach"), but you have to be very knowledgeable and careful about it.  Michael Church tells the story of Duane Cole, who flew airshows all over the country yet, as I recall,  never got an instrument rating.  He managed to get around VFR all those years in his aerobatic airplane.  What they did in that video was just stupid.  I've flown J-3s around under a 500' ceiling and never thought twice about it.  But that's normal for that airplane.  500' is about as high as you ever get.  Flying a fast, high performance airplane visually in formation with a jet in mountainous terrain in IFR conditions is the kind of judgment that kills more pilots than all the mechanical failures put together.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type />
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>287233</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_jobid</wp:meta_key>
+        <wp:meta_value>22000235644</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>email_notification_queued</wp:meta_key>
+        <wp:meta_value>1461211592</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>jabber_published</wp:meta_key>
+        <wp:meta_value>1461211590</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_result</wp:meta_key>
+        <wp:meta_value>false</wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>akismet_history</wp:meta_key>
+        <wp:meta_value>a:3:{s:4:"time";d:1461211591.476663112640380859375;s:5:"event";s:9:"check-ham";s:4:"user";s:7:"ronrapp";}</wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+  </item>
+</wordpress-item>

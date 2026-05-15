@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>First IFR in IMC</title>
+    <link>http://flyingsummers.com/2006/05/16/ifr-in-imc/</link>
+    <pubDate>Tue, 16 May 2006 16:04:37 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/2006/05/16/ifr-in-imc/</guid>
+    <description />
+    <content:encoded>&lt;blockquote&gt;&lt;em&gt;IFR: Instrument Flight Rules. You can fly in the clouds.&lt;/em&gt;
+
+&lt;em&gt;VFR: Visual Flight Rules. A lot simpler, but you can only fly where you can see.&lt;/em&gt;
+
+&lt;em&gt;IMC: Instrument Meteorlogical Conditions. You can't see where you are flying.&lt;/em&gt;&lt;/blockquote&gt;
+Way back on April 12 I made &lt;a title="Flight Aware" href="http://flightaware.com/live/flight/N181EB/history/20060412/1526Z/KSMO/KHND"&gt;my first real IFR flight&lt;/a&gt;, from Santa Monica to Las Vegas (Henderson Executive Airport). It was very exciting, copying the clearance, figuring out the route and putting everything into the Garmin 1000 to help me find my way through imaginary clouds. I flew the whole way "under the hood," with my flight instructor watching for traffic and helping me decipher instructions from Air Traffic Control.
+
+&lt;!--more--&gt;On the way back, I flew under the hood, but we were technically VFR since we didn't file an IFR flight plan. I wanted to simulate what I would really be doing most of the time once I had my instrument rating, which is to fly VFR most of the way, then pickup an instrument clearance into Santa Monica. So over the desert somewhere we asked to be cleared for an instrument approach to Santa Monica and they told us we were cleared to Lake Hughes direct, then we would be on the VOR-A GPS Approach for Santa Monica. As an instrument pilot you carry plates (printed pages) of each approach. There's a geometric representation of your flight path to the field, and below it a profile view of your descent to landing. At each navigation check point there is an altitude that you must stay above, until you are close to the beginning of the runway, then there is a Minimum Decision Altitude (MDA). At Santa Monica there MDA for my size plane is 680 feet, about 500 feet above the field. So in clouds I can fly down to 500 feet, and if I see the field, I can land. Usually the marine layer sits at 800 feet or more, so that's perfect.
+
+“The Hood” (technically a “vision restricting device”) lets me see the instruments, but not outside the plane. So I am flying the aircraft by reference to instruments alone. The truth is that on that first flight (and other times under the hood) there is so much sunlight streaming into the cockpit that by the movement of shadows on the instrument panel you get a feeling for the movement of the plane. That’s not true in real instrument conditions. You are inside a cloud and there isn’t enough sunlight to make distinct shadows. There’s no horizon and you are often being bounced around.
+
+So last week on Tuesday and Wednesday I took my first real instrument flights. I filed a flight plan from Santa Monica airport up to Camarillo airport, which is less than an hour away. Once I made it up there I turned around and we came back. A very simple flight. The marine layer had rolled in (we are apparently in the middle “June Gloom,” even though it is not yet June), so our takeoff and descent were both through a thousand foot layer of cloud. Unlike some of the instrument work that pilots in other parts of the country do, here in Southern California I won’t be facing much bouncing; the clouds are a form of fog, rather than a storm system. So this is exactly the sort of flying I would expect to do. Both airports are clear, but they are under a blanket of clouds that is a thousand feet thick and hovering at a thousand feet off the runway.
+
+The &lt;a title="Flight Aware" target="_blank" href="http://flightaware.com/live/flight/N971RD/history/20060509/1713Z/KSMO/KCMA"&gt;first flight&lt;/a&gt; (the radar traces are often incomplete, I'm not sure why) I was all over the sky. The controller needed to ask me twice to slow down (I think I was on the heels of the flight in front of me), I dropped three hundred feet below my assigned altitude (not the direction you want to make that error, although the assigned altitudes usually have a thousand foot cushion built into them), and I definitely wasn’t doing much engine management. I bounced on the landing. All in all, very disappointing and a little discouraging, but I remembered that I felt that way during some of my training for my private pilot certificate as well.
+
+The &lt;a title="Flight Aware" target="_blank" href="http://flightaware.com/live/flight/N971RD/history/20060509/1757Z/KCMA/KSMO"&gt;flight home&lt;/a&gt; was a little easier, in part because I engaged the autopilot. In practice, I would always have the autopilot engaged in IMC, because there are enough other things to be paying attention to. I still dropped below minimums on the approach, something I read about in the accident database and think, “How could the pilot go lower than you are allowed to go? Just stay higher.” On landing (another bounce bounce bounce down the runway; I am getting tired of my own bad landings), I was drenched in sweat and remembered that during training and the first dozen flights after getting my certificate I needed another shirt with me in the plane, that after a flight I was always soaked with nervous perspiration.
+
+The next day the weather was the same and we just did exactly the same thing again. Once again I flew by hand on &lt;a title="Flight Aware" target="_blank" href="http://flightaware.com/live/flight/N971RD/history/20060510/2049Z/KSMO/KCMA"&gt;the way up&lt;/a&gt; and with the autopilot on &lt;a title="Flight Aware" target="_blank" href="http://flightaware.com/live/flight/N971RD/history/20060510/2123Z/KCMA/KSMO"&gt;the way down&lt;/a&gt;. I was ahead of the plane a lot of the time and much more comfortable inside the clouds. I could see that if I was doing the regularly I wouldn’t have any more apprehension flying an approach at night in IMC than flying the same landing in the light of day.
+
+I have a long way to go, though. I just hope that I am more confident before my instrument check ride than I was before my private pilot. I think I will be, because my new instructor doesn’t spend any time berating me for mistakes. I’d like to get the written exam completed and out of the way.</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>99</wp:post_id>
+    <wp:post_date>2006-05-16 09:04:37</wp:post_date>
+    <wp:post_date_gmt>2006-05-16 16:04:37</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 21:22:12</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 04:22:12</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>ifr-in-imc</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="flight">Flight</category>
+    <category domain="category" nicename="training">Training</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>99</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>99</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

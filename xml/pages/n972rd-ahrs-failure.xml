@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>N972RD AHRS Failure</title>
+    <link>http://flyingsummers.com/n972rd-ahrs-failure/</link>
+    <pubDate>Fri, 13 Jan 2017 22:11:06 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://flyingsummers.com/?page_id=3754</guid>
+    <description />
+    <content:encoded>&lt;strong&gt;2017 Failure of AHRS in N972RD, a Diamond Twinstar DA42.&lt;/strong&gt;
+
+Initial detailed report of the failure, events on January 3 and January 5: &lt;a href="https://flyingsummers.com/wp-content/uploads/2017/01/n972rd-ahrs-failure1.pdf"&gt;n972rd-ahrs-failure&lt;/a&gt; (click the link to download a PDF) and from that report this summary:
+&lt;div class="page" title="Page 1"&gt;
+&lt;div class="section"&gt;
+&lt;div class="layoutArea"&gt;
+&lt;div class="column"&gt;
+&lt;blockquote&gt;Flown first under the registration N510TS and now under N972RD, the plane is a 2007 DA42 Twinstar. Fresh annual in May 2016, it had minor squawks that were addressed in the next two months and has been solid and flawless since.
+
+In September, October, and November of 2016 it was at the Diamond factory in London, Ontario and had major upgrades including installation of ADS-B and GFC-700 autopilot. In the [hours] flown since it has had a few (six?) intermittent failures of the ADS-B unit. We figured that was just getting seated after installation (and not really sure if the ADS-B system in general might be the failure rather than the Garmin unit).&lt;/blockquote&gt;
+The plane was flown for 200hrs before the factory work and there were no hints of these problems. The report of failure forwarded to the Diamond factory, our usual mechanics at MX Aero in Long Beach, and Savvy Maintenance.
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+It sat with Skywest Aviation in Midland, Texas for two days, but all they did was boot it up to see if there were error codes, call Garmin, and report back that Garmin suggested a Garmin shop to do the work.
+
+On January 12 I returned to Midland, Texas to fly the plane home.
+
+Here is a video about two hours into the flight home:
+
+[wpvideo PpOI51sC]
+
+The MFD showed the plane sliding along the GPS track (I was hand flying, our actual track was west). I had the VOR tuned and it showed us a little off that track, but it also showed us on the wrong heading on the HSI.
+
+[gallery ids="3759,3758" type="rectangular"]
+
+1:30pm We took off KODO (Odessa, adjacent to Midland) at 1:30pm.
+
+2:43pm near El Paso, Texas we had the recorded failure. We hand flew.
+
+3:04pm Attitude fail. Complete failure of the AHRS with a red X over the PFD. Slowly reboots
+
+3:15pm Compass is thirty degrees off, steady.
+
+3:53pm System seems to recover and is fine for the remainder of the flight.
+
+Landed Phoenix. Took off 6pm and flew home via Palm Springs and the Banning Pass. No further failures for the 3.5hr flight home.
+
+&amp;nbsp;
+
+&lt;hr /&gt;
+
+&amp;nbsp;
+
+Suggestions from the active Diamond forum online:
+&lt;blockquote&gt;[P]lug-in connections on the backplane (or elsewhere) are the most common failure point for this type of gear. I would remove all of the boxes, clean all of the connectors as well as I could, and then treat them with something like Stabilant 22 (&lt;a class="postlink" href="http://www.stabilant.com/appnt17.php"&gt;http://www.stabilant.com/appnt17.php&lt;/a&gt;). I has a noisy NAV/COM in my aircraft where simply cleaning and replugging the box did not cure the static, but one application of this stuff did (for &amp;gt; 1 year, so far).&lt;/blockquote&gt;
+&lt;blockquote&gt;I had a "progressive" failure actually with similar AHRS data drop out that was down to bad crimps between the GMU and AHRS. The failure was progressive as it was temperature related: the crimps concerned were right on the limit and as the temperatures increased the connections got gradually worse/became more intermittent, so more failures. Found by pulling the cables (gently) at the crimps. So as well as the G 1000 chassis suggest that it may be worth a gentle tug test on the cables.&lt;/blockquote&gt;
+More difficult English (even after a cleanup), but this was interesting to me since it involved wingtip work. N972RD had the lights replaced with LEDs when it was at the factory:
+&lt;blockquote&gt;This is about the AHRS failure you reported.
+
+I had the same problem on my 2005 DA-40, I got a big red X on the screen. A Garmin service center serviced the aircraft and with the supervision of Diamond Service in London, they look at all the connectors clean, retighten some connectors, and the problem remained. They service the AHRS, problem remained...
+
+We are 3 owners in the DA-40. Some pilot do their own thing; I never have the AHRS problem on my flights, but when the 2 other pilots fly they have see issue.... We did so much testing: close the cell phone, iPad, and all other electronic devices like the Diamond Bulletin..... the difference between them and me: they always turn on the navigation light during the day and when i fly during they day, I never turn it on... That was a clue.
+
+The Garmin service center here performed a magnetic field check on the aircraft with the G1000 in board self-testing mode, and they they fail the test, on the right navigation light... So they start to look there, the round collar which holds the strobe light navigation light assembly to the round tubular was the problem. They put rubber tape between the collard and the tube.
+
+Inside the wing you have a long tube for the wing electrical cable, they past behind the AHRS, so they find the tube is now the grounding source or something and the amplified the magnetic field .... they talk to Diamond and they can't really understand....
+
+Doing this can be dangerous if we got lightning strike... for electricity conducting... but they work... and in the end, we choose to put the wingtip LED conversion for the Whelen Orion 600... We saved 5 pound in total and all problems disappear...
+
+With a few searches on the 'net, we saw some people had this problem when they turned the nav light on... and on another airframe... weird.... Hope this can help&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+As per this blog entry, the &lt;a href="http://flyingsummers.com/2017/02/03/tiny-things/"&gt;visit to the shop&lt;/a&gt; did reveal five bent pins, and I am sure those were good to have repaired. But two recent &lt;a href="http://www.angelflightwest.org/" target="_blank"&gt;Angel Flights&lt;/a&gt; revealed the AHRS failures persist.
+
+On Feb 6 2017, departing Santa Monica at 3:01pm we had an hour flight to San Luis Obispo. KSMO – KSBP. The refueling took half an hour &lt;a href="http://flightaware.com/live/flight/N972RD/history/20170207/0043Z/KSBP/KSMO" target="_blank"&gt;and just after takeoff&lt;/a&gt; at 4:45pm the AHRS failed, X'ing out the HDG box and then the AI, but rebooting as we flew downwind and was online until we were landing at 5:40pm, when it lost the synthetic vision, then lost the AI and heading entirely. It rebooted as we were taxiing.
+
+And on Feb 9 2017 we departed Santa Monica at 9:53am. We flew up to Santa Barbara, but were unable to land due to fog. We &lt;a href="http://flightaware.com/live/flight/N972RD/history/20170209/1753Z/KSMO/KSMO" target="_blank"&gt;turned around and headed home&lt;/a&gt;. At 10:53am there was an AHRS failure where the compass spun. 11:08am as we were approaching to land there was an ADS-B failure (yellow warning text).</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>3754</wp:post_id>
+    <wp:post_date>2017-01-13 14:11:06</wp:post_date>
+    <wp:post_date_gmt>2017-01-13 22:11:06</wp:post_date_gmt>
+    <wp:post_modified>2017-02-10 12:45:09</wp:post_modified>
+    <wp:post_modified_gmt>2017-02-10 20:45:09</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>n972rd-ahrs-failure</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_page_template</wp:meta_key>
+      <wp:meta_value>default</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>geo_public</wp:meta_key>
+      <wp:meta_value>0</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>switch_like_status</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>sharing_disabled</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>

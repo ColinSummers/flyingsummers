@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<wordpress-item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <item>
+    <title>Instrument Flying</title>
+    <link>http://flyingsummers.com/2005/11/01/instrument-flying/</link>
+    <pubDate>Wed, 02 Nov 2005 07:52:16 +0000</pubDate>
+    <dc:creator>colinsummers</dc:creator>
+    <guid isPermaLink="false">http://www.flyingsummers.com/?p=44</guid>
+    <description />
+    <content:encoded>There is tremendous satisfaction in flying precisely by instruments. Keeping the altitude at exactly four thousand five hundred feet as you glide along held in the fingertips of the atmosphere is an accomplishment. As it becomes more and more automatic, so that you can both keep the altitude correct and follow a heading while occasionally enjoying the view from above, there is a surge of confidence about being able to fly well.
+
+And it keeps you alive. That’s always a nice bonus.&lt;!--more--&gt;
+
+A lot of flying, for me, is about risk assessment and management. It is dangerous to loop or roll and airplane not rated to loop or roll, so I don’t do it. That keeps that risk (all the accidents of acrobatics performed in a non-acrobatic airplane) off my chart. Eventually, by making sure that I always perform my pre-flight check, by making sure I always fly with full tanks on take-off, I get down to risks that I find acceptable. Really, I deal with risks that I know to be lower than using the freeways around Los Angeles (particularly at night, particularly on a weekend night).
+
+The way I examine the risk is by reading accident reports in the database of the National Traffic and Safety Board, and by looking at the aggregate statistics of those accidents.
+
+One out of nine accidents is a mechanical failure. A control cable snaps; a piece of the cowling flies off and smashes through the windscreen; the fuel line clogs. These are difficult to control, but keeping the plane in good working order is not impossible and, to me, mostly seems like a question of budget.
+
+Then we have pilot error (which will be discussed in a later entry) and weather-related accidents. Seven out of ten weather related accidents are known as “VFR into IMC” or “VFR into IFR conditions.” In short, a pilot rated to fly only in Visual Flight Rules conditions winds up “in weather.” In a cloud, in a fog bank, trapped in haze… just unable to fly the plane by reference to things outside. In these conditions it is very easy to become disoriented, to believe your body instead of the instruments, and to wind up spiraling down to the ground in a steep diving turn. This is known as the death spiral. It is what killed JFK Jr and his two passengers. Before there were instruments, the death spiral killed hundreds of pilots, most of them air mail pilots flying at night.
+
+So seven out of ten planes go down in weather because the pilot is trained only to fly when he can see. It’s not difficult to learn to fly while looking at the flight instruments. It’s not hard to trust them, but you have to learn to do it. While learning VFR you have to do three hours of IFR flying, so that you know what it is about. The basic idea is that they want you to learn enough so that if you fly into a cloud you can turn around and fly back out. JFK Jr had those three hours of training and I guess it just wasn’t enough.
+
+There’s a lot to learn in instrument flying. There is a system in the sky for flying without visual reference. The air traffic controllers keep the planes separated from one another (by three miles horizontally and a couple thousand feet vertically). When you are flying in reference to instruments you give up some freedom, the controllers will tell you where to go, when to turn and when you should descend to land. The tradeoff is that they are protecting you and helping you find your way. All of the commercial jets are flying IFR from the moment they take off to the moment they land. No zooming around in the sky for them.
+
+Additionally, there are instrument approaches to most airports (except the really small ones), and you need to learn the maneuvers for entering and executing these procedures.
+
+I haven’t decided to go all the way through with Instrument Training, but I have started to keep track of the hours I would need to take the practical exam and Adam and I will start doing some hood time (simulated instrument time) whenever we are flying together. A lot of the people that I talk to about flying private planes think it is dangerous. They act like I am crazy for suggesting that Nell and I could fly somewhere for lunch together. I guess the crashes of small planes get a lot of press. The statistics say that Nell and I are safer than if I drove us to the same place. I will continue to decrease our risks with more training.
+
+Into the clouds!</content:encoded>
+    <excerpt:encoded />
+    <wp:post_id>44</wp:post_id>
+    <wp:post_date>2005-11-01 23:52:16</wp:post_date>
+    <wp:post_date_gmt>2005-11-02 07:52:16</wp:post_date_gmt>
+    <wp:post_modified>2013-06-19 20:51:24</wp:post_modified>
+    <wp:post_modified_gmt>2013-06-20 03:51:24</wp:post_modified_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>instrument-flying</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password />
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="post_tag" nicename="clean">clean</category>
+    <category domain="category" nicename="just-words">Just Words</category>
+    <category domain="category" nicename="training">Training</category>
+    <wp:postmeta>
+      <wp:meta_key>_publicize_pending</wp:meta_key>
+      <wp:meta_value>1</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_edit_last</wp:meta_key>
+      <wp:meta_value>4268122</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>original_post_id</wp:meta_key>
+      <wp:meta_value>44</wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key>_wp_old_slug</wp:meta_key>
+      <wp:meta_value>44</wp:meta_value>
+    </wp:postmeta>
+  </item>
+</wordpress-item>
