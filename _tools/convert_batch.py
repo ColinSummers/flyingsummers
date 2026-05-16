@@ -9,15 +9,73 @@ Reads the WordPress export XML and attachment map, generates:
   - images/**          Downloaded post images (with --download-images)
 """
 import xml.etree.ElementTree as ET
-import json, re, os, sys, html, urllib.request, urllib.error
+import json, re, os, sys, html, urllib.request, urllib.error, io
 from pathlib import Path
 from datetime import datetime
+from PIL import Image
 
 BASE = Path(__file__).resolve().parent.parent
-XML_PATH = BASE / 'wordpress-2026-05-15-14_20_39' / 'flyingsummers.wordpress.com.2026-05-15.000.xml'
+XML_PATH = BASE / 'blog-archive-2026-05-15.xml'
 ATTACHMENTS_PATH = BASE / '_tools' / 'attachments.json'
 POSTS_DIR = BASE / 'posts'
 IMAGES_DIR = BASE / 'images'
+R2_BASE = 'https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev'
+IMG_DIMS_CACHE_PATH = BASE / '_tools' / 'image_dims.json'
+_img_dims_cache = {}
+
+
+def load_img_dims_cache():
+    global _img_dims_cache
+    if IMG_DIMS_CACHE_PATH.exists():
+        with open(IMG_DIMS_CACHE_PATH) as f:
+            _img_dims_cache = json.load(f)
+
+
+def save_img_dims_cache():
+    with open(IMG_DIMS_CACHE_PATH, 'w') as f:
+        json.dump(_img_dims_cache, f, indent=1, sort_keys=True)
+
+
+def get_image_dims(url):
+    """Fetch image dimensions from a URL. Returns (width, height) or None."""
+    if url in _img_dims_cache:
+        return tuple(_img_dims_cache[url])
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = resp.read()
+            img = Image.open(io.BytesIO(data))
+            dims = img.size
+            _img_dims_cache[url] = list(dims)
+            return dims
+    except Exception:
+        return None
+
+
+def ensure_img_dims(html_str):
+    """Add width/height to <img> tags that lack them."""
+    def add_dims(m):
+        tag = m.group(0)
+        if 'width=' in tag and 'height=' in tag:
+            return tag
+        src_m = re.search(r'src="([^"]+)"', tag)
+        if not src_m:
+            return tag
+        url = src_m.group(1)
+        if not url.startswith(R2_BASE):
+            return tag
+        dims = get_image_dims(url)
+        if not dims:
+            return tag
+        w, h = dims
+        tag = tag.rstrip(' />')
+        if 'width=' not in tag:
+            tag += f' width="{w}"'
+        if 'height=' not in tag:
+            tag += f' height="{h}"'
+        tag += ' />'
+        return tag
+    return re.sub(r'<img[^>]+/?>', add_dims, html_str)
 
 def load_attachments():
     with open(ATTACHMENTS_PATH) as f:
@@ -77,6 +135,100 @@ def parse_posts(xml_path, count=None):
     return posts
 
 
+SKIP_PAGES = {'atari', 'drone', 'fhr-condo', 'home-movies-super8',
+               '2007-diamond-twinstar-da42-for-sale', '2007-diamond-da42-for-sale',
+               'n972rd', 'n972rd-ahrs-failure', 'what', 'when'}
+
+SIDEBAR_PAGES = [
+    ('The Plane', [
+        ('a-plane-like-none-other', 'A Plane Like None Other'),
+        ('n972rd-ahrs-failure', 'AHRS Failure'),
+    ]),
+    ('Flying', [
+        ('crossing-the-country', 'Crossing the Country'),
+        ('flights-colin', 'Flights'),
+        ('states', 'States'),
+        ('airports-visited-colin', 'Airports'),
+    ]),
+    ('Reference', [
+        ('books', 'Books'),
+        ('glossary', 'Glossary'),
+        ('links', 'Links'),
+    ]),
+]
+
+
+def parse_pages(xml_path):
+    tree = ET.parse(xml_path)
+    root = tree.getroot()
+    ns = {
+        'wp': 'http://wordpress.org/export/1.2/',
+        'content': 'http://purl.org/rss/1.0/modules/content/',
+        'dc': 'http://purl.org/dc/elements/1.1/',
+    }
+    channel = root.find('channel')
+    pages = []
+    for item in channel.findall('item'):
+        pt = item.find('wp:post_type', ns)
+        if pt is None or pt.text != 'page':
+            continue
+        status = item.find('wp:status', ns).text
+        if status != 'publish':
+            continue
+        slug = item.find('wp:post_name', ns).text
+        if slug in SKIP_PAGES:
+            continue
+        title = item.find('title').text or 'Untitled'
+        content = item.find('content:encoded', ns).text or ''
+        pages.append({'slug': slug, 'title': title, 'content': content})
+    return pages
+
+
+def make_nav_links(prefix='', from_pages=False):
+    """Generate the <ul class="nav-links"> with dropdown menus.
+    prefix: path prefix to site root ('' for root, '../' for subdirs).
+    from_pages: True when generating pages in pages/ (links are siblings).
+    """
+    if from_pages:
+        p = ''
+    else:
+        p = f'{prefix}pages/'
+    return f'''<ul class="nav-links">
+        <li><a href="{p}who.html">Who</a></li>
+        <li><a href="{p}where.html">Where</a>
+          <ul class="nav-dropdown">
+            <li><a href="{p}crossing-the-country.html">Crossing the Country</a></li>
+            <li><a href="{p}flights-colin.html">Flights</a></li>
+            <li><a href="{p}states.html">States</a></li>
+            <li><a href="{p}airports-visited-colin.html">Airports</a></li>
+          </ul>
+        </li>
+        <li><a href="{p}why.html">Why</a></li>
+        <li><a href="{p}how.html">How</a>
+          <ul class="nav-dropdown">
+            <li><a href="{p}glossary.html">Glossary</a></li>
+            <li><a href="{p}links.html">Links</a></li>
+            <li><a href="{p}books.html">Books</a></li>
+          </ul>
+        </li>
+        <li><a href="{p}a-plane-like-none-other.html">N972RD</a></li>
+      </ul>
+      <label for="search-toggle" class="search-icon"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/><line x1="15.5" y1="15.5" x2="22" y2="22" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg></label>'''
+
+
+SEARCH_DIALOG = '''  <input type="checkbox" id="search-toggle" class="search-toggle" />
+  <label for="search-toggle" class="search-overlay"></label>
+  <div class="search-dialog">
+    <label for="search-toggle" class="search-close">&times;</label>
+    <h3>Search Flying Summers Brothers</h3>
+    <form action="https://www.google.com/search" method="get">
+      <input type="hidden" name="sitesearch" value="flyingsummers.com" />
+      <input type="text" name="q" placeholder="Search..." />
+      <button type="submit">Go</button>
+    </form>
+  </div>'''
+
+
 def wp_url_to_local(url):
     """Convert a WordPress upload URL to a local images/ path."""
     url = re.sub(r'\?w=\d+(&h=\d+)?', '', url)
@@ -95,8 +247,6 @@ def clean_img_tag(img_tag):
     """Clean WP cruft from an img tag and fix src to local path."""
     img_tag = re.sub(r'src="([^"]+)"', lambda m: f'src="{fix_img_src(m.group(1))}"', img_tag)
     img_tag = re.sub(r'\s*class="[^"]*"', '', img_tag)
-    img_tag = re.sub(r'\s*width="\d+"', '', img_tag)
-    img_tag = re.sub(r'\s*height="\d+"', '', img_tag)
     img_tag = re.sub(r'\s*srcset="[^"]*"', '', img_tag)
     img_tag = re.sub(r'\s*sizes="[^"]*"', '', img_tag)
     img_tag = re.sub(r'\s*data-[a-z-]+="[^"]*"', '', img_tag)
@@ -105,7 +255,51 @@ def clean_img_tag(img_tag):
 
 TYPO_FIXES = {
     'N972RD want to be in that sky': 'N972RD wants to be in that sky',
+    'hope around in the little plane': 'hop around in the little plane',
+    'of Norwood in moment': 'of Norwood in moments',
 }
+
+WPVIDEO_MAP = {
+    '1uetUdsB': 'buffalo.mp4',
+    '8kjjodEr': 'ksmo-n972rd-ldg.mov',
+    'ausAFuPY': 'img_2356.mov',
+    'AZtYpTSX': 'corvalis.mov',
+    'dAIJbgUx': 'ils-kind-nt1.mov',
+    'H1AhWnv1': 'depart-ifr.mov',
+    'h6J2BYkY': 'dynamic-sky.mov',
+    'ifvLLVw3': 'spinning.mov',
+    'mGzWYvRs': 'bridge-video.m4v',
+    'Ncik3loG': 'landing_2_fhr.mov',
+    'PpOI51sC': 'malfunction.mov',
+    'Rtr72EOr': 'ohio.m4v',
+    'T83npYjg': 'landing-klgb.mov',
+    'vExh868d': 'beauty-of-ifr.mov',
+    'voihpRWi': 'icing-video.mp4',
+    'w40aJ7nN': 'img_5228.m4v',
+    'w8xU7VIp': 'landingfhr.mov',
+}
+
+
+def wpautop(text):
+    """Mimic WordPress wpautop: convert double-newlines to <p> tags."""
+    if '<p>' in text or '<p ' in text:
+        return text
+    blocks = re.split(r'\n{2,}', text)
+    result = []
+    for block in blocks:
+        block = block.strip()
+        if not block:
+            continue
+        if re.match(r'^<(?:figure|div|blockquote|ul|ol|h[1-6]|table|pre|hr)', block, re.I):
+            result.append(block)
+        elif re.match(r'^\[(?:caption|gallery|wpvideo|youtube|vimeo|audio)', block):
+            result.append(block)
+        elif re.match(r'^<!--', block):
+            result.append(block)
+        else:
+            block = block.replace('\n', '<br />\n')
+            result.append(f'<p>{block}</p>')
+    return '\n\n'.join(result)
 
 
 def convert_content(content, attachments):
@@ -115,6 +309,9 @@ def convert_content(content, attachments):
 
     # Handle <!--more--> by removing it (full content on post page)
     content = content.replace('<!--more-->', '')
+
+    # Convert double-newline paragraphs to <p> tags (older WP posts)
+    content = wpautop(content)
 
     # Convert Gutenberg YouTube/Vimeo embeds (bare URLs in wp-block-embed wrappers)
     def gutenberg_embed(m):
@@ -164,7 +361,7 @@ def convert_content(content, attachments):
             if url:
                 local = wp_url_to_local(url)
                 if local:
-                    imgs.append(f'<a href="../{local}"><img src="../{local}" alt="" loading="lazy" /></a>')
+                    imgs.append(f'<a href="{R2_BASE}/{local}"><img src="{R2_BASE}/{local}" alt="" loading="lazy" /></a>')
         if imgs:
             return '<div class="gallery">' + '\n'.join(imgs) + '</div>'
         return ''
@@ -172,30 +369,12 @@ def convert_content(content, attachments):
     content = re.sub(r'\[gallery([^\]]*)\]', gallery_replace, content)
 
     # Convert [wpvideo] shortcodes to local <video> elements
-    WPVIDEO_MAP = {
-        'ausAFuPY': 'img_2356.mov',
-        'w8xU7VIp': 'landingfhr.mov',
-        'Ncik3loG': 'landing_2_fhr.mov',
-        'H1AhWnv1': 'buffalo.mp4',
-        'vExh868d': 'buffalo.mp4',
-        'mGzWYvRs': 'corvalis.mov',
-        'T83npYjg': 'dynamic-sky.mov',
-        'w40aJ7nN': 'landing-klgb.mov',
-        '8kjjodEr': 'depart-ifr.mov',
-        'Rtr72EOr': 'ils-kind-nt1.mov',
-        'ifvLLVw3': 'malfunction.mov',
-        'AZtYpTSX': 'icing-video.mp4',
-        'h6J2BYkY': 'beauty-of-ifr.mov',
-        'voihpRWi': 'spinning.mov',
-        'dAIJbgUx': 'gearbox_wng.m4v',
-        '1uetUdsB': 'bridge-video.m4v',
-    }
     def wpvideo_replace(m):
         vid_id = m.group(1)
         filename = WPVIDEO_MAP.get(vid_id)
         if filename:
             poster_name = re.sub(r'\.[^.]+$', '.jpg', filename)
-            return f'<div class="video-embed"><video controls preload="metadata" poster="../videos/posters/{poster_name}"><source src="../videos/{filename}" /></video></div>'
+            return f'<div class="video-embed"><video controls preload="metadata" poster="{R2_BASE}/videos/posters/{poster_name}"><source src="{R2_BASE}/videos/{filename}" /></video></div>'
         return f'<div class="video-embed"><p><em>[Video: {vid_id} — file not mapped]</em></p></div>'
     content = re.sub(r'\[wpvideo\s+(\w+)[^\]]*\]', wpvideo_replace, content)
 
@@ -256,15 +435,18 @@ def convert_content(content, attachments):
     # Remove empty paragraphs
     content = re.sub(r'<p>\s*</p>', '', content)
 
+    # Add width/height to images missing them
+    content = ensure_img_dims(content)
+
     return content.strip()
 
 
 def fix_img_src(url):
-    """Convert a WP image URL to a local path (relative from posts/)."""
+    """Convert a WP image URL to an R2 URL."""
     url = clean_url(url)
     local = wp_url_to_local(url)
     if local:
-        return '../' + local
+        return f'{R2_BASE}/{local}'
     return url
 
 
@@ -273,14 +455,31 @@ def get_excerpt(content, max_chars=300):
     for old, new in TYPO_FIXES.items():
         content = content.replace(old, new)
     if '<!--more-->' in content:
-        text = content.split('<!--more-->')[0]
+        before = content.split('<!--more-->')[0]
+        before_clean = re.sub(r'<[^>]+>', '', re.sub(r'\[/?[^\]]+\]', '', before))
+        if len(before_clean.split()) >= 50:
+            text = before
+        else:
+            text = content
     else:
         text = content
 
+    text = re.sub(r'\[caption[^\]]*\].*?\[/caption\]', '', text, flags=re.DOTALL)
+    text = re.sub(r'\[gallery[^\]]*\]', '', text)
+    text = re.sub(r'<figure[^>]*>.*?</figure>', '', text, flags=re.DOTALL)
+    text = re.sub(r'<figcaption[^>]*>.*?</figcaption>', '', text, flags=re.DOTALL)
     text = re.sub(r'<[^>]+>', '', text)
     text = re.sub(r'\[/?[^\]]+\]', '', text)
     text = html.unescape(text).strip()
-    text = re.sub(r'\s+', ' ', text)
+
+    paras = [re.sub(r'\s+', ' ', p).strip() for p in re.split(r'\n{2,}', text) if p.strip()]
+    text = ''
+    for p in paras:
+        if text:
+            text += ' '
+        text += p
+        if len(text.split()) >= 50:
+            break
 
     if len(text) > max_chars:
         text = text[:max_chars].rsplit(' ', 1)[0] + '...'
@@ -310,6 +509,13 @@ def get_first_image(content, attachments, slug=None):
         local = wp_url_to_local(url)
         if local:
             return local
+    # Check for wpvideo — use the poster image
+    m = re.search(r'\[wpvideo\s+(\w+)', content)
+    if m:
+        filename = WPVIDEO_MAP.get(m.group(1))
+        if filename:
+            poster = re.sub(r'\.[^.]+$', '.jpg', filename)
+            return f'videos/posters/{poster}'
     return None
 
 
@@ -412,10 +618,49 @@ def add_lightbox(content_html, slug, title=''):
     return content_html + '\n' + lightboxes
 
 
+def make_static_page_html(page, attachments):
+    """Generate full HTML for a static page (books, glossary, etc.)."""
+    title = html.escape(page['title'])
+    content_html = convert_content(page['content'], attachments)
+
+    return f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FSB | {title}</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <div class="sky-bg"></div>
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a class="navbar-brand" href="../">Flying Summers Brothers</a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+      <label for="nav-toggle" class="nav-toggle-label"></label>
+      {make_nav_links(from_pages=True)}
+    </div>
+  </nav>
+{SEARCH_DIALOG}
+  <main>
+    <div class="page-content card">
+      <h1>{title}</h1>
+      {content_html}
+    </div>
+  </main>
+  <footer>
+    <p>&copy; Colin &amp; Adam Summers</p>
+  </footer>
+</body>
+</html>
+'''
+
+
 def make_post_html(post, attachments, prev_post=None, next_post=None):
     """Generate full HTML for a single post page."""
     title = html.escape(post['title'])
     date_display = format_date(post['date'])
+    excerpt = html.escape(get_excerpt(post['content']))
     content_html = convert_content(post['content'], attachments)
     content_html = add_lightbox(content_html, post['slug'], post['title'])
     author = post['author']
@@ -480,7 +725,8 @@ def make_post_html(post, attachments, prev_post=None, next_post=None):
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title} | Flying Summers Brothers</title>
+  <title>FSB | {title}</title>
+  <meta name="description" content="{excerpt}" />
   <meta name="author" content="{author_display}" />
   <link rel="stylesheet" href="../style.css" />
 </head>
@@ -491,15 +737,10 @@ def make_post_html(post, attachments, prev_post=None, next_post=None):
       <a class="navbar-brand" href="../">Flying Summers Brothers</a>
       <input type="checkbox" id="nav-toggle" class="nav-toggle" />
       <label for="nav-toggle" class="nav-toggle-label"></label>
-      <ul class="nav-links">
-        <li><a href="../pages/who.html">Who</a></li>
-        <li><a href="../pages/what.html">What</a></li>
-        <li><a href="../pages/where.html">Where</a></li>
-        <li><a href="../pages/why.html">Why</a></li>
-        <li><a href="../pages/how.html">How</a></li>
-      </ul>
+      {make_nav_links(prefix='../')}
     </div>
   </nav>
+{SEARCH_DIALOG}
   <main>
     <article class="post card">
       <header class="post-header">
@@ -535,7 +776,7 @@ def make_post_card(post, attachments, prefix=''):
 
     img_html = ''
     if first_img:
-        img_html = f'<div class="card-image"><a href="{prefix}posts/{post["slug"]}.html"><img src="{prefix}{first_img}" alt="" loading="lazy" /></a></div>'
+        img_html = f'<div class="card-image"><a href="{prefix}posts/{post["slug"]}.html"><img src="{R2_BASE}/{first_img}" alt="" loading="lazy" /></a></div>'
 
     card = f'''    <article class="post-card card">
       <div class="card-header">
@@ -601,27 +842,42 @@ def make_index_html(posts, attachments):
             idx = (pn - 1) * POSTS_PER_PAGE
             return format_date_short(posts[idx]['date'])
 
-        nav_html = ''
-        if total_pages > 1:
-            # [first] [prev] ... [next] [last]
-            # Deduplicate: skip prev if same as first, skip next if same as last
-            visible = []
+        def make_page_nav(css_class='page-nav'):
+            if total_pages <= 1:
+                return ''
+            # 5 slots: latest, prev, ..., next, first
+            slots = []
+            # Slot 1: latest (page 1) — skip if we're on page 1
             if page_num > 1:
-                visible.append(1)
+                slots.append(('latest', f'<a href="{page_href(1)}">{page_date(1)}</a>'))
+            else:
+                slots.append(('', ''))
+            # Slot 2: prev — skip if same as latest or doesn't exist
             if page_num > 2:
-                visible.append(page_num - 1)
+                slots.append(('prev', f'<a href="{page_href(page_num - 1)}">{page_date(page_num - 1)}</a>'))
+            else:
+                slots.append(('', ''))
+            # Slot 3: current position
+            slots.append(('', '<span class="current">...</span>'))
+            # Slot 4: next — skip if same as first or doesn't exist
             if page_num < total_pages - 1:
-                visible.append(page_num + 1)
+                slots.append(('next', f'<a href="{page_href(page_num + 1)}">{page_date(page_num + 1)}</a>'))
+            else:
+                slots.append(('', ''))
+            # Slot 5: first (oldest, last page) — skip if we're on it
             if page_num < total_pages:
-                visible.append(total_pages)
+                slots.append(('first', f'<a href="{page_href(total_pages)}">{page_date(total_pages)}</a>'))
+            else:
+                slots.append(('', ''))
 
-            before = [pn for pn in visible if pn < page_num]
-            after = [pn for pn in visible if pn > page_num]
-            items = [f'<a href="{page_href(pn)}">{page_date(pn)}</a>' for pn in before]
-            items.append('<span class="current">...</span>')
-            items += [f'<a href="{page_href(pn)}">{page_date(pn)}</a>' for pn in after]
+            slot_html = ''
+            for label, content in slots:
+                label_el = f'<span class="pn-label">{label}</span>' if label else ''
+                slot_html += f'<div class="pn-slot">{content}{label_el}</div>'
+            return f'    <nav class="{css_class}">{slot_html}</nav>\n'
 
-            nav_html = '    <nav class="page-nav">' + ' '.join(items) + '</nav>\n'
+        nav_bottom = make_page_nav('page-nav')
+        nav_top = make_page_nav('page-nav page-nav-top') if page_num > 1 else ''
 
         page_html = f'''<!DOCTYPE html>
 <html lang="en">
@@ -640,22 +896,17 @@ def make_index_html(posts, attachments):
       <a class="navbar-brand" href="{home_href}">Flying Summers Brothers</a>
       <input type="checkbox" id="nav-toggle" class="nav-toggle" />
       <label for="nav-toggle" class="nav-toggle-label"></label>
-      <ul class="nav-links">
-        <li><a href="{pages_prefix}pages/who.html">Who</a></li>
-        <li><a href="{pages_prefix}pages/what.html">What</a></li>
-        <li><a href="{pages_prefix}pages/where.html">Where</a></li>
-        <li><a href="{pages_prefix}pages/why.html">Why</a></li>
-        <li><a href="{pages_prefix}pages/how.html">How</a></li>
-      </ul>
+      {make_nav_links(prefix=prefix)}
     </div>
   </nav>
+{SEARCH_DIALOG}
   <header class="site-banner">
-    <img id="banner" src="{banner_prefix}covers/banners/masthead1.jpg" alt="Flying Summers Brothers" />
+    <img id="banner" src="{R2_BASE}/covers/banners/masthead1.jpg" alt="Flying Summers Brothers" />
   </header>
-  <script>document.getElementById('banner').src='{banner_prefix}covers/banners/masthead'+Math.ceil(Math.random()*10)+'.jpg';</script>
+  <script>document.getElementById('banner').src='{R2_BASE}/covers/banners/masthead'+Math.ceil(Math.random()*10)+'.jpg';</script>
   <main class="blog-index">
-{cards}
-{nav_html}  </main>
+{nav_top}{cards}
+{nav_bottom}  </main>
   <footer>
     <p>&copy; Colin &amp; Adam Summers</p>
   </footer>
@@ -712,6 +963,7 @@ def main():
     parser.add_argument('--download-images', action='store_true')
     args = parser.parse_args()
 
+    load_img_dims_cache()
     attachments = load_attachments()
     posts = parse_posts(XML_PATH, count=args.count)
     print(f"Processing {len(posts)} posts...")
@@ -752,6 +1004,34 @@ def main():
         with open(out_path, 'w') as f:
             f.write(page_html)
         print(f"Generated {rel_path}")
+
+    # Generate static pages
+    PAGES_DIR = BASE / 'pages'
+    PAGES_DIR.mkdir(exist_ok=True)
+    wp_pages = parse_pages(XML_PATH)
+    page_count = 0
+    for pg in wp_pages:
+        page_html = make_static_page_html(pg, attachments)
+        path = PAGES_DIR / f"{pg['slug']}.html"
+        with open(path, 'w') as f:
+            f.write(page_html)
+        page_count += 1
+    print(f"Generated {page_count} static pages in pages/")
+
+    save_img_dims_cache()
+    print(f"Image dimension cache: {len(_img_dims_cache)} entries")
+
+    # Generate sitemap.xml
+    site = 'https://flyingsummers.com'
+    urls = [f'  <url><loc>{site}/</loc></url>']
+    for p in posts:
+        urls.append(f'  <url><loc>{site}/posts/{p["slug"]}.html</loc><lastmod>{p["date"][:10]}</lastmod></url>')
+    for pg in wp_pages:
+        urls.append(f'  <url><loc>{site}/pages/{pg["slug"]}.html</loc></url>')
+    sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(urls) + '\n</urlset>\n'
+    with open(BASE / 'sitemap.xml', 'w') as f:
+        f.write(sitemap)
+    print(f"Generated sitemap.xml ({len(urls)} URLs)")
 
 
 if __name__ == '__main__':

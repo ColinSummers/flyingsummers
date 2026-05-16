@@ -58,8 +58,7 @@ def main():
     # Paths
     xml_export = Path(
         "/Users/colin/Sites/github_pages/flyingsummers/"
-        "wordpress-2026-05-15-14_20_39/"
-        "flyingsummers.wordpress.com.2026-05-15.000.xml"
+        "blog-archive-2026-05-15.xml"
     )
     dest_root = Path("/Users/colin/Sites/github_pages/flyingsummers/xml")
 

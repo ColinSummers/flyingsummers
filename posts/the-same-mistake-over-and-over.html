@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>The Same Mistake Over and Over | Flying Summers Brothers</title>
+  <title>FSB | The Same Mistake Over and Over</title>
+  <meta name="description" content="This is too soon after an accident to say for sure what caused it. But I can talk about accidents in general and probably answer a few questions. And, because of the technological advances we have made in the last few decades, we already (just hours after) know a lot more about the accident that..." />
   <meta name="author" content="Colin Summers" />
   <link rel="stylesheet" href="../style.css" />
 </head>
@@ -16,13 +17,38 @@
       <label for="nav-toggle" class="nav-toggle-label"></label>
       <ul class="nav-links">
         <li><a href="../pages/who.html">Who</a></li>
-        <li><a href="../pages/what.html">What</a></li>
-        <li><a href="../pages/where.html">Where</a></li>
+        <li><a href="../pages/where.html">Where</a>
+          <ul class="nav-dropdown">
+            <li><a href="../pages/crossing-the-country.html">Crossing the Country</a></li>
+            <li><a href="../pages/flights-colin.html">Flights</a></li>
+            <li><a href="../pages/states.html">States</a></li>
+            <li><a href="../pages/airports-visited-colin.html">Airports</a></li>
+          </ul>
+        </li>
         <li><a href="../pages/why.html">Why</a></li>
-        <li><a href="../pages/how.html">How</a></li>
+        <li><a href="../pages/how.html">How</a>
+          <ul class="nav-dropdown">
+            <li><a href="../pages/glossary.html">Glossary</a></li>
+            <li><a href="../pages/links.html">Links</a></li>
+            <li><a href="../pages/books.html">Books</a></li>
+          </ul>
+        </li>
+        <li><a href="../pages/a-plane-like-none-other.html">N972RD</a></li>
       </ul>
+      <label for="search-toggle" class="search-icon"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/><line x1="15.5" y1="15.5" x2="22" y2="22" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg></label>
     </div>
   </nav>
+  <input type="checkbox" id="search-toggle" class="search-toggle" />
+  <label for="search-toggle" class="search-overlay"></label>
+  <div class="search-dialog">
+    <label for="search-toggle" class="search-close">&times;</label>
+    <h3>Search Flying Summers Brothers</h3>
+    <form action="https://www.google.com/search" method="get">
+      <input type="hidden" name="sitesearch" value="flyingsummers.com" />
+      <input type="text" name="q" placeholder="Search..." />
+      <button type="submit">Go</button>
+    </form>
+  </div>
   <main>
     <article class="post card">
       <header class="post-header">

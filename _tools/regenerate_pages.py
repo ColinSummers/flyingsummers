@@ -15,7 +15,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from convert_batch import convert_content, load_attachments
 
 BASE = Path(__file__).resolve().parent.parent
-XML_PATH = BASE / 'wordpress-2026-05-15-14_20_39' / 'flyingsummers.wordpress.com.2026-05-15.000.xml'
+XML_PATH = BASE / 'blog-archive-2026-05-15.xml'
 PAGES_DIR = BASE / 'pages'
 
 TARGET_SLUGS = {'who', 'what', 'where', 'when', 'why', 'how'}

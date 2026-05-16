@@ -17,26 +17,52 @@
       <label for="nav-toggle" class="nav-toggle-label"></label>
       <ul class="nav-links">
         <li><a href="../pages/who.html">Who</a></li>
-        <li><a href="../pages/what.html">What</a></li>
-        <li><a href="../pages/where.html">Where</a></li>
+        <li><a href="../pages/where.html">Where</a>
+          <ul class="nav-dropdown">
+            <li><a href="../pages/crossing-the-country.html">Crossing the Country</a></li>
+            <li><a href="../pages/flights-colin.html">Flights</a></li>
+            <li><a href="../pages/states.html">States</a></li>
+            <li><a href="../pages/airports-visited-colin.html">Airports</a></li>
+          </ul>
+        </li>
         <li><a href="../pages/why.html">Why</a></li>
-        <li><a href="../pages/how.html">How</a></li>
+        <li><a href="../pages/how.html">How</a>
+          <ul class="nav-dropdown">
+            <li><a href="../pages/glossary.html">Glossary</a></li>
+            <li><a href="../pages/links.html">Links</a></li>
+            <li><a href="../pages/books.html">Books</a></li>
+          </ul>
+        </li>
+        <li><a href="../pages/a-plane-like-none-other.html">N972RD</a></li>
       </ul>
+      <label for="search-toggle" class="search-icon"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/><line x1="15.5" y1="15.5" x2="22" y2="22" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg></label>
     </div>
   </nav>
+  <input type="checkbox" id="search-toggle" class="search-toggle" />
+  <label for="search-toggle" class="search-overlay"></label>
+  <div class="search-dialog">
+    <label for="search-toggle" class="search-close">&times;</label>
+    <h3>Search Flying Summers Brothers</h3>
+    <form action="https://www.google.com/search" method="get">
+      <input type="hidden" name="sitesearch" value="flyingsummers.com" />
+      <input type="text" name="q" placeholder="Search..." />
+      <button type="submit">Go</button>
+    </form>
+  </div>
   <header class="site-banner">
-    <img id="banner" src="../covers/banners/masthead1.jpg" alt="Flying Summers Brothers" />
+    <img id="banner" src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/covers/banners/masthead1.jpg" alt="Flying Summers Brothers" />
   </header>
-  <script>document.getElementById('banner').src='../covers/banners/masthead'+Math.ceil(Math.random()*10)+'.jpg';</script>
+  <script>document.getElementById('banner').src='https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/covers/banners/masthead'+Math.ceil(Math.random()*10)+'.jpg';</script>
   <main class="blog-index">
+    <nav class="page-nav page-nav-top"><div class="pn-slot"><a href="../index.html">Jul 8, 2023</a><span class="pn-label">latest</span></div><div class="pn-slot"><a href="../page/3.html">Aug 14, 2018</a><span class="pn-label">prev</span></div><div class="pn-slot"><span class="current">...</span></div><div class="pn-slot"><a href="../page/5.html">Dec 20, 2016</a><span class="pn-label">next</span></div><div class="pn-slot"><a href="../page/8.html">Mar 9, 2016</a><span class="pn-label">first</span></div></nav>
     <article class="post-card card">
       <div class="card-header">
         <time datetime="2017-02-26">Feb 26, 2017</time>
         <h2><a href="../posts/ford-oops.html">The Small Mistake Heard ‘Round the World</a></h2>
       </div>
-      <div class="card-image"><a href="../posts/ford-oops.html"><img src="../images/2017/02/hyper.jpg" alt="" loading="lazy" /></a></div>
+      <div class="card-image"><a href="../posts/ford-oops.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2017/02/hyper.jpg" alt="" loading="lazy" /></a></div>
       <div class="card-body">
-        <p class="excerpt">&quot;White markings, it&#x27;s a runway, Chewie.&quot; A few people have asked me about Harrison Ford landing down at John Wayne airport. They said from the news it was hard to tell what had happened. Among pilot friends I have mostly said, “I sure am glad that none of my tiny mistakes are broadcast around the...</p>
+        <p class="excerpt">A few people have asked me about Harrison Ford landing down at John Wayne airport. They said from the news it was hard to tell what had happened. Among pilot friends I have mostly said, “I sure am glad that none of my tiny mistakes are broadcast around the globe. It would make me so nervous every...</p>
         <a href="../posts/ford-oops.html" class="read-more">Read more &rarr;</a>
       </div>
     </article>
@@ -45,9 +71,9 @@
         <time datetime="2017-02-09">Feb 9, 2017</time>
         <h2><a href="../posts/disappointing-flight.html">Disappointing Flight</a></h2>
       </div>
-      
+      <div class="card-image"><a href="../posts/disappointing-flight.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/videos/posters/ksmo-n972rd-ldg.jpg" alt="" loading="lazy" /></a></div>
       <div class="card-body">
-        <p class="excerpt">I actually checked in with the Santa Monica tower on my return this morning as, &quot;Disappointed Angel Flight 7866.&quot;</p>
+        <p class="excerpt">I actually checked in with the Santa Monica tower on my return this morning as, &quot;Disappointed Angel Flight 7866.&quot; I waited for the fog to clear at Santa Monica, kept in touch with the cancer patient awaiting his flight in Santa Barbara, and trusted the weather forecast that said that the fog layer...</p>
         <a href="../posts/disappointing-flight.html" class="read-more">Read more &rarr;</a>
       </div>
     </article>
@@ -56,7 +82,7 @@
         <time datetime="2017-02-04">Feb 4, 2017</time>
         <h2><a href="../posts/ff-xpdr.html">A Small Nudge from Technology</a></h2>
       </div>
-      <div class="card-image"><a href="../posts/ff-xpdr.html"><img src="../images/2017/02/usa-atc.jpg" alt="" loading="lazy" /></a></div>
+      <div class="card-image"><a href="../posts/ff-xpdr.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2017/02/usa-atc.jpg" alt="" loading="lazy" /></a></div>
       <div class="card-body">
         <p class="excerpt">When Adam and I started training, the radio work was very difficult for me. I am sure part of it is that my primary instructor was impatient with the progress (or lack) that I was making on that front, so I was double-tongue tied worried about pissing off the controller and pissing off my CFI....</p>
         <a href="../posts/ff-xpdr.html" class="read-more">Read more &rarr;</a>
@@ -67,9 +93,9 @@
         <time datetime="2017-02-03">Feb 3, 2017</time>
         <h2><a href="../posts/tiny-things.html">Tiny Things</a></h2>
       </div>
-      <div class="card-image"><a href="../posts/tiny-things.html"><img src="../images/2017/02/color-red.jpg" alt="" loading="lazy" /></a></div>
+      <div class="card-image"><a href="../posts/tiny-things.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2017/02/color-red.jpg" alt="" loading="lazy" /></a></div>
       <div class="card-body">
-        <p class="excerpt">Back to Red One of the suggestions of the ferry pilot was to collar the autopilot&#x27;s circuit breaker on the panel with a red ring. When something goes wrong, you want to be able to disable the autopilot as quickly as possible and yanking the circuit breaker would do that. Finding the correct circuit...</p>
+        <p class="excerpt">One of the suggestions of the ferry pilot was to collar the autopilot&#x27;s circuit breaker on the panel with a red ring. When something goes wrong, you want to be able to disable the autopilot as quickly as possible and yanking the circuit breaker would do that. Finding the correct circuit breaker...</p>
         <a href="../posts/tiny-things.html" class="read-more">Read more &rarr;</a>
       </div>
     </article>
@@ -78,7 +104,7 @@
         <time datetime="2017-01-23">Jan 23, 2017</time>
         <h2><a href="../posts/more-of-what-they-carried.html">More of What They Carried</a></h2>
       </div>
-      <div class="card-image"><a href="../posts/more-of-what-they-carried.html"><img src="../images/2017/01/waiting.jpg" alt="" loading="lazy" /></a></div>
+      <div class="card-image"><a href="../posts/more-of-what-they-carried.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2017/01/waiting.jpg" alt="" loading="lazy" /></a></div>
       <div class="card-body">
         <p class="excerpt">The first time I crossed the country I wrote up a detailed list of what we carried in the plane. And four years later when I was trying to gather all of my advice for How To Fly Across the country, I took another stab at it. This page is more specific to the new plane. When we took delivery the...</p>
         <a href="../posts/more-of-what-they-carried.html" class="read-more">Read more &rarr;</a>
@@ -89,7 +115,7 @@
         <time datetime="2017-01-16">Jan 16, 2017</time>
         <h2><a href="../posts/literary-inspiration.html">Literary Inspiration</a></h2>
       </div>
-      <div class="card-image"><a href="../posts/literary-inspiration.html"><img src="../images/2017/01/book.png" alt="" loading="lazy" /></a></div>
+      <div class="card-image"><a href="../posts/literary-inspiration.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2017/01/book.png" alt="" loading="lazy" /></a></div>
       <div class="card-body">
         <p class="excerpt">Way back in 2009 I took a friend up to the Bay Area and he shot a little film of it. And one of the latest passengers has written a book of poems about a flight up the west coast to Seattle in N972RD. Check it out on Amazon.</p>
         <a href="../posts/literary-inspiration.html" class="read-more">Read more &rarr;</a>
@@ -111,7 +137,7 @@
         <time datetime="2017-01-06">Jan 6, 2017</time>
         <h2><a href="../posts/the-real-excitement.html">The Real Excitement</a></h2>
       </div>
-      <div class="card-image"><a href="../posts/the-real-excitement.html"><img src="../images/2017/01/squiggle.png" alt="" loading="lazy" /></a></div>
+      <div class="card-image"><a href="../posts/the-real-excitement.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2017/01/squiggle.png" alt="" loading="lazy" /></a></div>
       <div class="card-body">
         <p class="excerpt">If you fly two thousand hours over eleven years you will see some equipment failures (and some pilot failures). This was the first time I had a failure and didn’t know it. Friends who follow me on Facebook are familiar with these two pictures: As I was flying Dexter from Santa Monica, California to...</p>
         <a href="../posts/the-real-excitement.html" class="read-more">Read more &rarr;</a>
@@ -122,9 +148,9 @@
         <time datetime="2017-01-06">Jan 6, 2017</time>
         <h2><a href="../posts/todays-mistake.html">Today&#x27;s Mistake</a></h2>
       </div>
-      <div class="card-image"><a href="../posts/todays-mistake.html"><img src="../images/2017/01/austin.jpg" alt="" loading="lazy" /></a></div>
+      <div class="card-image"><a href="../posts/todays-mistake.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2017/01/austin.jpg" alt="" loading="lazy" /></a></div>
       <div class="card-body">
-        <p class="excerpt">Austin Executive I would love to document a perfect flight. I know that I did a little round-robin of airport hopping a few years back and I was really happy that I had not made a single mistake on the radio. Since the radio is the source of my least-favorite mistake, I still work hard to match...</p>
+        <p class="excerpt">I would love to document a perfect flight. I know that I did a little round-robin of airport hopping a few years back and I was really happy that I had not made a single mistake on the radio. Since the radio is the source of my least-favorite mistake, I still work hard to match that. On small...</p>
         <a href="../posts/todays-mistake.html" class="read-more">Read more &rarr;</a>
       </div>
     </article>
@@ -133,14 +159,14 @@
         <time datetime="2016-12-22">Dec 22, 2016</time>
         <h2><a href="../posts/the-cake.html">The Cake</a></h2>
       </div>
-      <div class="card-image"><a href="../posts/the-cake.html"><img src="../images/2016/12/return-vfr.jpg" alt="" loading="lazy" /></a></div>
+      <div class="card-image"><a href="../posts/the-cake.html"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2016/12/return-vfr.jpg" alt="" loading="lazy" /></a></div>
       <div class="card-body">
-        <p class="excerpt">Always safer with two pilots This was my first real icing flight. Oh, all sorts of things spring to mind, like “Shaken, not stirred” and other bartending jokes. Since I’m not a drinker I’m not even aware of all the great possibilities. I’m going to stick strictly to the facts instead. In a decade...</p>
+        <p class="excerpt">This was my first real icing flight. Oh, all sorts of things spring to mind, like “Shaken, not stirred” and other bartending jokes. Since I’m not a drinker I’m not even aware of all the great possibilities. I’m going to stick strictly to the facts instead. In a decade of flying I have encountered...</p>
         <a href="../posts/the-cake.html" class="read-more">Read more &rarr;</a>
       </div>
     </article>
 
-    <nav class="page-nav"><a href="../index.html">Jul 8, 2023</a> <a href="../page/3.html">Aug 14, 2018</a> <span class="current">...</span></nav>
+    <nav class="page-nav"><div class="pn-slot"><a href="../index.html">Jul 8, 2023</a><span class="pn-label">latest</span></div><div class="pn-slot"><a href="../page/3.html">Aug 14, 2018</a><span class="pn-label">prev</span></div><div class="pn-slot"><span class="current">...</span></div><div class="pn-slot"><a href="../page/5.html">Dec 20, 2016</a><span class="pn-label">next</span></div><div class="pn-slot"><a href="../page/8.html">Mar 9, 2016</a><span class="pn-label">first</span></div></nav>
   </main>
   <footer>
     <p>&copy; Colin &amp; Adam Summers</p>

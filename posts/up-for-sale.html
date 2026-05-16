@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Up for Sale | Flying Summers Brothers</title>
+  <title>FSB | Up for Sale</title>
+  <meta name="description" content="Update: our plane sold on August 2, 2023. It will be the end of an era and I will write more about it in the fall, but we have put our current plane up for sale. There are long, complicated reasons, but the short version is that it is too difficult to get to the airport, which means less flying,..." />
   <meta name="author" content="Colin Summers" />
   <link rel="stylesheet" href="../style.css" />
 </head>
@@ -16,13 +17,38 @@
       <label for="nav-toggle" class="nav-toggle-label"></label>
       <ul class="nav-links">
         <li><a href="../pages/who.html">Who</a></li>
-        <li><a href="../pages/what.html">What</a></li>
-        <li><a href="../pages/where.html">Where</a></li>
+        <li><a href="../pages/where.html">Where</a>
+          <ul class="nav-dropdown">
+            <li><a href="../pages/crossing-the-country.html">Crossing the Country</a></li>
+            <li><a href="../pages/flights-colin.html">Flights</a></li>
+            <li><a href="../pages/states.html">States</a></li>
+            <li><a href="../pages/airports-visited-colin.html">Airports</a></li>
+          </ul>
+        </li>
         <li><a href="../pages/why.html">Why</a></li>
-        <li><a href="../pages/how.html">How</a></li>
+        <li><a href="../pages/how.html">How</a>
+          <ul class="nav-dropdown">
+            <li><a href="../pages/glossary.html">Glossary</a></li>
+            <li><a href="../pages/links.html">Links</a></li>
+            <li><a href="../pages/books.html">Books</a></li>
+          </ul>
+        </li>
+        <li><a href="../pages/a-plane-like-none-other.html">N972RD</a></li>
       </ul>
+      <label for="search-toggle" class="search-icon"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/><line x1="15.5" y1="15.5" x2="22" y2="22" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg></label>
     </div>
   </nav>
+  <input type="checkbox" id="search-toggle" class="search-toggle" />
+  <label for="search-toggle" class="search-overlay"></label>
+  <div class="search-dialog">
+    <label for="search-toggle" class="search-close">&times;</label>
+    <h3>Search Flying Summers Brothers</h3>
+    <form action="https://www.google.com/search" method="get">
+      <input type="hidden" name="sitesearch" value="flyingsummers.com" />
+      <input type="text" name="q" placeholder="Search..." />
+      <button type="submit">Go</button>
+    </form>
+  </div>
   <main>
     <article class="post card">
       <header class="post-header">
@@ -33,7 +59,7 @@
         </div>
       </header>
       <div class="post-content">
-        <figure><a href="../images/2023/07/kiad.jpeg"><a href="#lb-up-for-sale-0"><img src="../images/2023/07/kiad.jpeg" alt="" /></a></a><figcaption>KIAD Jul 2023</figcaption></figure>
+        <figure><a href="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2023/07/kiad.jpeg"><a href="#lb-up-for-sale-0"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2023/07/kiad.jpeg" alt="" width="4032" height="3024" /></a></a><figcaption>KIAD Jul 2023</figcaption></figure>
 <p>Update: our plane sold on August 2, 2023.</p>
 <p>It will be the end of an era and I will write more about it in the fall, but we have put our current <a href="https://flyingsummers.com/a-plane-like-none-other/">plane up for sale</a>. There are long, complicated reasons, but the short version is that it is too difficult to get to the airport, which means less flying, which makes me feel less safe.</p>
 <p>But we aren't letting it go until September 15th (unless there's a jaw-dropping offer), and that's when I will drop it in Fort Worth to have the engines replaced. We're hoping to do a bunch of flying this summer, and even into September. So far we've been out to the Hamptons and down to DC since getting the plane back from its extended service visit where they found the source of the gremlin-like FADEC errors.</p>
@@ -43,7 +69,7 @@
   
   
   <div class="lightbox-content">
-    <img src="../images/2023/07/kiad.jpeg" alt="" />
+    <img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2023/07/kiad.jpeg" alt="" />
     <div class="lightbox-caption">KIAD Jul 2023</div>
     <div class="lightbox-counter">1 / 1</div>
   </div>
