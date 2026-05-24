@@ -4,9 +4,9 @@
 Usage: python3 _tools/convert_batch.py [--count N] [--download-images]
 
 Reads the WordPress export XML and attachment map, generates:
-  - posts/*.html       Individual post pages
-  - index.html         Blog home with excerpts
-  - images/**          Downloaded post images (with --download-images)
+  - YYYY/MM/DD/slug/index.html   Individual post pages (WordPress-style URLs)
+  - index.html                   Blog home with excerpts
+  - images/**                    Downloaded post images (with --download-images)
 """
 import xml.etree.ElementTree as ET
 import json, re, os, sys, html, urllib.request, urllib.error, io
@@ -17,7 +17,6 @@ from PIL import Image
 BASE = Path(__file__).resolve().parent.parent
 XML_PATH = BASE / 'blog-archive-2026-05-15.xml'
 ATTACHMENTS_PATH = BASE / '_tools' / 'attachments.json'
-POSTS_DIR = BASE / 'posts'
 IMAGES_DIR = BASE / 'images'
 R2_BASE = 'https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev'
 IMG_DIMS_CACHE_PATH = BASE / '_tools' / 'image_dims.json'
@@ -227,6 +226,18 @@ SEARCH_DIALOG = '''  <input type="checkbox" id="search-toggle" class="search-tog
       <button type="submit">Go</button>
     </form>
   </div>'''
+
+
+def post_url(post):
+    """Return the root-relative URL path for a post, e.g. /2023/06/02/my-post/"""
+    d = post['date'][:10].split('-')
+    return f'/{d[0]}/{d[1]}/{d[2]}/{post["slug"]}/'
+
+
+def post_dir(post):
+    """Return the filesystem directory for a post's index.html."""
+    d = post['date'][:10].split('-')
+    return BASE / d[0] / d[1] / d[2] / post['slug']
 
 
 def wp_url_to_local(url):
@@ -670,7 +681,7 @@ def make_post_html(post, attachments, prev_post=None, next_post=None):
     cats_html = ''
     if post['categories']:
         cat_links = ', '.join(
-            f'<a href="../categories/{c.lower().replace(" ", "-")}.html">{html.escape(c)}</a>'
+            f'<a href="/categories/{c.lower().replace(" ", "-")}.html">{html.escape(c)}</a>'
             for c in post['categories'] if c != 'Uncategorized'
         )
         if cat_links:
@@ -710,9 +721,9 @@ def make_post_html(post, attachments, prev_post=None, next_post=None):
     nav_html = ''
     nav_parts = []
     if next_post:
-        nav_parts.append(f'<a href="{next_post["slug"]}.html" class="post-nav-prev">&larr; {html.escape(next_post["title"])}</a>')
+        nav_parts.append(f'<a href="{post_url(next_post)}" class="post-nav-prev">&larr; {html.escape(next_post["title"])}</a>')
     if prev_post:
-        nav_parts.append(f'<a href="{prev_post["slug"]}.html" class="post-nav-next">{html.escape(prev_post["title"])} &rarr;</a>')
+        nav_parts.append(f'<a href="{post_url(prev_post)}" class="post-nav-next">{html.escape(prev_post["title"])} &rarr;</a>')
     if nav_parts:
         nav_html = '<nav class="post-nav">' + ''.join(nav_parts) + '</nav>'
 
@@ -728,16 +739,16 @@ def make_post_html(post, attachments, prev_post=None, next_post=None):
   <title>FSB | {title}</title>
   <meta name="description" content="{excerpt}" />
   <meta name="author" content="{author_display}" />
-  <link rel="stylesheet" href="../style.css" />
+  <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
   <div class="sky-bg"></div>
   <nav class="navbar">
     <div class="navbar-inner">
-      <a class="navbar-brand" href="../">Flying Summers Brothers</a>
+      <a class="navbar-brand" href="/">Flying Summers Brothers</a>
       <input type="checkbox" id="nav-toggle" class="nav-toggle" />
       <label for="nav-toggle" class="nav-toggle-label"></label>
-      {make_nav_links(prefix='../')}
+      {make_nav_links(prefix='/')}
     </div>
   </nav>
 {SEARCH_DIALOG}
@@ -765,28 +776,29 @@ def make_post_html(post, attachments, prev_post=None, next_post=None):
 '''
 
 
-def make_post_card(post, attachments, prefix=''):
-    """Generate a single post card HTML. prefix adjusts relative paths ('' for root, '../' for subdirs)."""
+def make_post_card(post, attachments):
+    """Generate a single post card HTML with root-relative post URLs."""
     title = html.escape(post['title'])
     date_short = format_date_short(post['date'])
     excerpt = get_excerpt(post['content'])
     first_img = get_first_image(post['content'], attachments, slug=post['slug'])
+    url = post_url(post)
 
     no_image = not first_img
 
     img_html = ''
     if first_img:
-        img_html = f'<div class="card-image"><a href="{prefix}posts/{post["slug"]}.html"><img src="{R2_BASE}/{first_img}" alt="" loading="lazy" /></a></div>'
+        img_html = f'<div class="card-image"><a href="{url}"><img src="{R2_BASE}/{first_img}" alt="" loading="lazy" /></a></div>'
 
     card = f'''    <article class="post-card card">
       <div class="card-header">
         <time datetime="{post['date'][:10]}">{date_short}</time>
-        <h2><a href="{prefix}posts/{post['slug']}.html">{title}</a></h2>
+        <h2><a href="{url}">{title}</a></h2>
       </div>
       {img_html}
       <div class="card-body">
         <p class="excerpt">{html.escape(excerpt)}</p>
-        <a href="{prefix}posts/{post['slug']}.html" class="read-more">Read more &rarr;</a>
+        <a href="{url}" class="read-more">Read more &rarr;</a>
       </div>
     </article>
 '''
@@ -808,16 +820,13 @@ def make_index_html(posts, attachments):
         end = start + POSTS_PER_PAGE
         page_posts = posts[start:end]
 
-        # Determine path prefix for this page
         if page_num == 1:
-            prefix = ''
             rel_path = 'index.html'
             stylesheet = 'style.css'
             banner_prefix = ''
             home_href = './'
             pages_prefix = ''
         else:
-            prefix = '../'
             rel_path = f'page/{page_num}.html'
             stylesheet = '../style.css'
             banner_prefix = '../'
@@ -826,7 +835,7 @@ def make_index_html(posts, attachments):
 
         cards = ''
         for p in page_posts:
-            card, no_image = make_post_card(p, attachments, prefix=prefix)
+            card, no_image = make_post_card(p, attachments)
             cards += card
             if no_image:
                 no_image_posts.append(p['slug'])
@@ -983,16 +992,16 @@ def main():
                     fail += 1
         print(f"Images: {ok} downloaded, {fail} failed")
 
-    # Generate post pages
-    POSTS_DIR.mkdir(exist_ok=True)
+    # Generate post pages (YYYY/MM/DD/slug/index.html)
     for i, post in enumerate(posts):
         prev_post = posts[i - 1] if i > 0 else None
         next_post = posts[i + 1] if i < len(posts) - 1 else None
         post_html = make_post_html(post, attachments, prev_post, next_post)
-        path = POSTS_DIR / f"{post['slug']}.html"
-        with open(path, 'w') as f:
+        dest = post_dir(post)
+        dest.mkdir(parents=True, exist_ok=True)
+        with open(dest / 'index.html', 'w') as f:
             f.write(post_html)
-    print(f"Generated {len(posts)} post pages in posts/")
+    print(f"Generated {len(posts)} post pages")
 
     # Generate paginated index pages
     index_pages = make_index_html(posts, attachments)
@@ -1025,7 +1034,7 @@ def main():
     site = 'https://flyingsummers.com'
     urls = [f'  <url><loc>{site}/</loc></url>']
     for p in posts:
-        urls.append(f'  <url><loc>{site}/posts/{p["slug"]}.html</loc><lastmod>{p["date"][:10]}</lastmod></url>')
+        urls.append(f'  <url><loc>{site}{post_url(p)}</loc><lastmod>{p["date"][:10]}</lastmod></url>')
     for pg in wp_pages:
         urls.append(f'  <url><loc>{site}/pages/{pg["slug"]}.html</loc></url>')
     sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(urls) + '\n</urlset>\n'

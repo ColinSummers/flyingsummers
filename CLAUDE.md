@@ -16,7 +16,7 @@ To preview locally: `python3 -m http.server`
 
 - **style.css** — Single site-wide stylesheet (CSS variables, flexbox layout, responsive, CSS-only hamburger menu)
 - **index.html** — Blog home: paginated reverse-chronological post listing with excerpts
-- **posts/** — Individual post HTML files, named by slug (e.g., `composite-airplane-check-ride.html`)
+- **YYYY/MM/DD/slug/** — Individual post pages as `index.html`, matching WordPress date-based permalinks (e.g., `2023/06/02/a-long-way-to-go/index.html`)
 - **pages/** — Static pages (who.html, what.html, where.html, when.html, why.html, how.html, books.html, glossary.html, etc.)
 - **categories/** — Category index pages (flight.html, trip.html, training.html, reading.html, just-words.html)
 - **archive/** — Year-based archive pages (2005.html, 2006.html, ..., 2023.html)
