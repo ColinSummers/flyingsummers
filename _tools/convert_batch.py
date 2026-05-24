@@ -843,9 +843,10 @@ def make_index_html(posts, attachments):
         # Build pagination nav
         # Show: first, prev, current, next, last — with ... for gaps
         def page_href(pn):
-            if pn == 1:
-                return f'{prefix}index.html' if prefix else 'index.html'
-            return f'{prefix}page/{pn}.html' if prefix else f'page/{pn}.html'
+            if page_num == 1:
+                return 'index.html' if pn == 1 else f'page/{pn}.html'
+            else:
+                return '../index.html' if pn == 1 else f'{pn}.html'
 
         def page_date(pn):
             idx = (pn - 1) * POSTS_PER_PAGE
@@ -905,7 +906,7 @@ def make_index_html(posts, attachments):
       <a class="navbar-brand" href="{home_href}">Flying Summers Brothers</a>
       <input type="checkbox" id="nav-toggle" class="nav-toggle" />
       <label for="nav-toggle" class="nav-toggle-label"></label>
-      {make_nav_links(prefix=prefix)}
+      {make_nav_links(prefix=pages_prefix)}
     </div>
   </nav>
 {SEARCH_DIALOG}

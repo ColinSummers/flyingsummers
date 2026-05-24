@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FSB | Follow Along</title>
+  <meta name="description" content="This is about as cool as technology gets. For now, I guess. One of the people that I took flying with me was the father of a friend of mine. Tom flies a lot of interesting planes just sitting in the right seat. Antique warbirds and Civil Air Patrol planes. One of the things he said when I was about..." />
+  <meta name="author" content="Colin Summers" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="sky-bg"></div>
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a class="navbar-brand" href="/">Flying Summers Brothers</a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+      <label for="nav-toggle" class="nav-toggle-label"></label>
+      <ul class="nav-links">
+        <li><a href="/pages/who.html">Who</a></li>
+        <li><a href="/pages/where.html">Where</a>
+          <ul class="nav-dropdown">
+            <li><a href="/pages/crossing-the-country.html">Crossing the Country</a></li>
+            <li><a href="/pages/flights-colin.html">Flights</a></li>
+            <li><a href="/pages/states.html">States</a></li>
+            <li><a href="/pages/airports-visited-colin.html">Airports</a></li>
+          </ul>
+        </li>
+        <li><a href="/pages/why.html">Why</a></li>
+        <li><a href="/pages/how.html">How</a>
+          <ul class="nav-dropdown">
+            <li><a href="/pages/glossary.html">Glossary</a></li>
+            <li><a href="/pages/links.html">Links</a></li>
+            <li><a href="/pages/books.html">Books</a></li>
+          </ul>
+        </li>
+        <li><a href="/pages/a-plane-like-none-other.html">N972RD</a></li>
+      </ul>
+      <label for="search-toggle" class="search-icon"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/><line x1="15.5" y1="15.5" x2="22" y2="22" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg></label>
+    </div>
+  </nav>
+  <input type="checkbox" id="search-toggle" class="search-toggle" />
+  <label for="search-toggle" class="search-overlay"></label>
+  <div class="search-dialog">
+    <label for="search-toggle" class="search-close">&times;</label>
+    <h3>Search Flying Summers Brothers</h3>
+    <form action="https://www.google.com/search" method="get">
+      <input type="hidden" name="sitesearch" value="flyingsummers.com" />
+      <input type="text" name="q" placeholder="Search..." />
+      <button type="submit">Go</button>
+    </form>
+  </div>
+  <main>
+    <article class="post card">
+      <header class="post-header">
+        <h1>Follow Along</h1>
+        <div class="post-meta">
+          <time datetime="2010-05-03">May 3, 2010</time>
+          <span class="post-categories"><a href="/categories/just-words.html">Just Words</a></span>
+        </div>
+      </header>
+      <div class="post-content">
+        <p>This is about as cool as technology gets. For now, I guess.</p>
+
+<p>One of the people that I took flying with me was the father of a friend of mine. Tom flies a lot of interesting planes just sitting in the right seat. Antique warbirds and Civil Air Patrol planes. One of the things he said when I was about to taxi out onto the runway was, “Do you mind if I follow along?” That’s apparently a standard procedure: he just holds the controls lightly so he can really feel what I am doing as I take off, land, or do a barrel roll. (I rarely do barrel rolls.) Now everyone can follow along. It’s a tiny plane, so stay seated in front of your computer. I’ll explain.</p>
+
+<p>The plane has a lot of technology in it. The two big screens are just the most visible part of a system that is all grouped as “the G1000.” Garmin makes all the pieces. One of the great things about the plane having a computer network (several computers, connected via redundant Ethernet, a little flying LAN in the sky) is that the software can be upgraded without too much trouble. That’s how I gained a fuel pressure display. The sensor and information was always coming from the engine and one of the software updates made a new gauge appear on the screen under fuel flow. Now I know if the fuel pressure is a little low.</p>
+
+<p>The most recent software update had a whole slew of cool features. Some of the new features were even on a wish list I sent Garmin a couple years ago. Development for avionics must be excruciating because you face a certification process and a maze of lawyers over the liability issues. But Garmin piled a slew of new things into the last .22 release for the G1000.</p>
+
+<p>One of the additions was logging. Ten times a second the system will now write to an SD card inserted in the G1000. It will record a whole bunch of parameters. The position reported by the GPS, the altitude and airspeed, the manifold pressure, number of revolutions per minute that the engine is turning, the temperature of each individual cylinder and the exhaust gasses they are spitting out. More information than you might suspect is useful. Certainly more information than I can take <em>in</em> ten times a second.</p>
+
+<p>This logging is new to Garmin’s fancy system, but their simpler systems have had it for a while. And the Cirrus airplanes have had a logging system which wrote similar files. So a fellow out on the Internet wrote a web application where you could download your files from the SD card and take a look at the data graphically. Who doesn’t want to see their hottest cylinder graphed against their altitude? Exactly.</p>
+
+<p>Of course, it is cooler than that. You can go to this page:<br />
+<blockquote><a href="http://cirrusreports.com/flights/N971RD/" target="_self">http://cirrusreports.com/flights/N971RD/</a></blockquote><br />
+and see the flights which I have logged for our plane. (You can still go to <a href="http://www.flyingsummers.com/2006/05/trackme/" target="_self">FlightAware</a> and peruse flights tracked by ATC, but that’s not all of the flights and the data is not nearly as complete. I wrote about that <a href="http://www.flyingsummers.com/2006/05/trackme/" target="_self">before</a>.)</p>
+
+<figure><a href="#lb-follow-along-0"><img alt="Stored Flights" src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2010/05/stored.png" width="154" height="300" /></a><figcaption>Stored Flights</figcaption></figure>
+
+<p>But best of all, there is a link, just above the map and to the right, called Cockpit View. If you download and install Google Earth and then click that link, you will download a file which will animate the entire flight as if you are sitting in the plane with me.</p>
+
+<p>This will also serve as a rudimentary black box. If something were to go wrong on a flight there will be a detailed record of what happened. If I added a little voice recorder to the intercom, then there would be a very complete picture after any incident (provided those electronics survived, it’s not like they are made of that magic black box material).</p>
+
+<p>On a slightly more practical front, the engine parameters are all recorded, so I could show my mechanic if there was something I was worried about.</p>
+
+<p>Now I need to get some sort panoramic video camera so you can feel like you can look around while we are up there.</p>
+<div id="lb-follow-along-0" class="lightbox">
+  <a href="#" class="lightbox-title">Follow Along</a>
+  <a href="#" class="lightbox-close">&times;</a>
+  
+  
+  <div class="lightbox-content">
+    <img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2010/05/stored.png" alt="" />
+    <div class="lightbox-caption">Stored Flights</div>
+    <div class="lightbox-counter">1 / 1</div>
+  </div>
+</div>
+
+      </div>
+      
+<div class="comments-section">
+  <input type="checkbox" id="comments-toggle" class="comments-toggle" />
+  <label for="comments-toggle" class="comments-toggle-label">1 comment</label>
+  <div class="comments-dialog">
+    <label for="comments-toggle" class="comments-close">&times;</label>
+    <h3>1 comment</h3>
+    <div class="comment">
+<div class="comment-meta"><strong>jdkullmann</strong> &middot; May 9, 2010</div>
+<div class="comment-body"><p>Holy Crap. Following that on google earth was stupid cool. Wow. Seems so obvious to be able to setup once it's done (of course).</p></div>
+</div>
+
+  </div>
+  <label for="comments-toggle" class="comments-overlay"></label>
+</div>
+    </article>
+    <nav class="post-nav"><a href="/2010/04/30/efb/" class="post-nav-prev">&larr; Electronic Flight Bag</a><a href="/2010/05/18/waas/" class="post-nav-next">WAAS the Big Deal? &rarr;</a></nav>
+  </main>
+  <footer>
+    <p>&copy; Colin &amp; Adam Summers</p>
+  </footer>
+</body>
+</html>

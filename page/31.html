@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flying Summers Brothers</title>
+  <meta name="description" content="Adam and Colin take to the sky." />
+  <meta name="author" content="Colin Summers" />
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <div class="sky-bg"></div>
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a class="navbar-brand" href="../">Flying Summers Brothers</a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+      <label for="nav-toggle" class="nav-toggle-label"></label>
+      <ul class="nav-links">
+        <li><a href="../pages/who.html">Who</a></li>
+        <li><a href="../pages/where.html">Where</a>
+          <ul class="nav-dropdown">
+            <li><a href="../pages/crossing-the-country.html">Crossing the Country</a></li>
+            <li><a href="../pages/flights-colin.html">Flights</a></li>
+            <li><a href="../pages/states.html">States</a></li>
+            <li><a href="../pages/airports-visited-colin.html">Airports</a></li>
+          </ul>
+        </li>
+        <li><a href="../pages/why.html">Why</a></li>
+        <li><a href="../pages/how.html">How</a>
+          <ul class="nav-dropdown">
+            <li><a href="../pages/glossary.html">Glossary</a></li>
+            <li><a href="../pages/links.html">Links</a></li>
+            <li><a href="../pages/books.html">Books</a></li>
+          </ul>
+        </li>
+        <li><a href="../pages/a-plane-like-none-other.html">N972RD</a></li>
+      </ul>
+      <label for="search-toggle" class="search-icon"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/><line x1="15.5" y1="15.5" x2="22" y2="22" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg></label>
+    </div>
+  </nav>
+  <input type="checkbox" id="search-toggle" class="search-toggle" />
+  <label for="search-toggle" class="search-overlay"></label>
+  <div class="search-dialog">
+    <label for="search-toggle" class="search-close">&times;</label>
+    <h3>Search Flying Summers Brothers</h3>
+    <form action="https://www.google.com/search" method="get">
+      <input type="hidden" name="sitesearch" value="flyingsummers.com" />
+      <input type="text" name="q" placeholder="Search..." />
+      <button type="submit">Go</button>
+    </form>
+  </div>
+  <header class="site-banner">
+    <img id="banner" src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/covers/banners/masthead1.jpg" alt="Flying Summers Brothers" />
+  </header>
+  <script>document.getElementById('banner').src='https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/covers/banners/masthead'+Math.ceil(Math.random()*10)+'.jpg';</script>
+  <main class="blog-index">
+    <nav class="page-nav page-nav-top"><div class="pn-slot"><a href="../index.html">Jul 8, 2023</a><span class="pn-label">latest</span></div><div class="pn-slot"><a href="30.html">Oct 24, 2005</a><span class="pn-label">prev</span></div><div class="pn-slot"><span class="current">...</span></div><div class="pn-slot"></div><div class="pn-slot"></div></nav>
+    <article class="post-card card">
+      <div class="card-header">
+        <time datetime="2005-10-14">Oct 14, 2005</time>
+        <h2><a href="/2005/10/14/explanation/">By way of Explanation</a></h2>
+      </div>
+      <div class="card-image"><a href="/2005/10/14/explanation/"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2005/10/n777vp.jpg" alt="" loading="lazy" /></a></div>
+      <div class="card-body">
+        <p class="excerpt">Back near the end of July 2005 I wrote the following bit of explanation for some friends about my new interest: Walking down the sidewalk near the house, in the sun, with Rudy&#x27;s hand in my right and Dexter&#x27;s hand in my left, is beyond my meager powers of description. I am filled to bursting and I...</p>
+        <a href="/2005/10/14/explanation/" class="read-more">Read more &rarr;</a>
+      </div>
+    </article>
+    <article class="post-card card">
+      <div class="card-header">
+        <time datetime="2005-10-12">Oct 12, 2005</time>
+        <h2><a href="/2005/10/12/first/">The First Item</a></h2>
+      </div>
+      <div class="card-image"><a href="/2005/10/12/first/"><img src="https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2005/10/cockpit.jpg" alt="" loading="lazy" /></a></div>
+      <div class="card-body">
+        <p class="excerpt">This blog will be a strange place. We&#x27;ll use it as a flight log, but I plan on posting my musings about flying here, too. Right now it is just Adam and Colin. Maybe eventually passengers will have a comments area. &quot;You call THAT a smooth landing? I&#x27;m glad I&#x27;m not in the plane for the ones you call...</p>
+        <a href="/2005/10/12/first/" class="read-more">Read more &rarr;</a>
+      </div>
+    </article>
+
+    <nav class="page-nav"><div class="pn-slot"><a href="../index.html">Jul 8, 2023</a><span class="pn-label">latest</span></div><div class="pn-slot"><a href="30.html">Oct 24, 2005</a><span class="pn-label">prev</span></div><div class="pn-slot"><span class="current">...</span></div><div class="pn-slot"></div><div class="pn-slot"></div></nav>
+  </main>
+  <footer>
+    <p>&copy; Colin &amp; Adam Summers</p>
+  </footer>
+</body>
+</html>

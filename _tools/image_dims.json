@@ -1,4 +1,392 @@
 {
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/brothers.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/claude.jpg": [
+  3098,
+  1861
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/cyrus.jpg": [
+  2448,
+  3264
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/dexter-alex.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/family-avx-2.jpg": [
+  1600,
+  1200
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/family-avx.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_2148.jpg": [
+  4032,
+  3024
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_2149.jpg": [
+  4032,
+  3024
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_3931.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_3939.jpg": [
+  2872,
+  2085
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_4020.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_4021.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_4037.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_4039.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_4612.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_6619.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_6712.jpg": [
+  2003,
+  2002
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/img_6726.jpg": [
+  3094,
+  2320
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/jake-dexter.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/long-beach.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/off-trail.jpg": [
+  2448,
+  3264
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/overcast.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/pana-airport.jpg": [
+  10800,
+  2430
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/pana-bob-michelle.jpg": [
+  10800,
+  2364
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/pana-island.jpg": [
+  10800,
+  2462
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/pana-west.jpg": [
+  10800,
+  2366
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/pog-alex-2011.jpg": [
+  2592,
+  1936
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/sasha-cyrus.jpg": [
+  2448,
+  3264
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/shaw.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/southbound.jpg": [
+  2592,
+  1936
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/07/teddy-laura.jpg": [
+  3462,
+  2552
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/2ksmo.jpg": [
+  960,
+  1280
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/abq-evening.jpg": [
+  960,
+  1280
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/banana.jpg": [
+  960,
+  1280
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/big-storms.jpg": [
+  960,
+  1280
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/canyons.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/crossing-home.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/dead-tree-wwk.jpg": [
+  2592,
+  1936
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/dexter-squirrel.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/dexter-vt.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/dinner.jpg": [
+  1936,
+  2592
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/dodge-city.jpg": [
+  960,
+  1280
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/drive-home.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/flagstaff.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/kansas-mark-twain-lake.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/kansas-state.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/kapa-bound.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/kcid-next.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/kear.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/kflg2kabq.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/kfmn-chinooks.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/kleb.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/ksez.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/la-basin1.jpg": [
+  960,
+  1280
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/lake-nap.jpg": [
+  1936,
+  2592
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/landed.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/lawrence-ks.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/needles.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/nothing.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/o2.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/plateau.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/post-denver.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/quarry.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/rockies.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/start.jpg": [
+  1280,
+  960
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/torch-sunset.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/wah-wash-kesh.jpg": [
+  2592,
+  1936
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/weather-mv.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/08/winslow.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-abq-1.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-abq-2.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-abq-3.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-abq-4.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-lbl-1.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-lbl-2.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-lbl-3.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-lbl-4.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-lbl-5.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-sez-1.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-sez-2.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-sez-3.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day1-sez-4.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day2-1.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day2-kc.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day2-sculpture.png": [
+  550,
+  412
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day3-chess.png": [
+  766,
+  591
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day3-painting.png": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day4-clouds.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day4-clouds2.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day4-nh.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day4-nh2.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2013/09/day4-steaks.jpg": [
+  1200,
+  1600
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2015/03/img_4629.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2015/05/halfmoon.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2015/05/hills.jpg": [
+  3264,
+  2448
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2015/05/kpao-kdvo.jpg": [
+  956,
+  1026
+ ],
+ "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2015/05/sf-bay.jpg": [
+  3264,
+  2448
+ ],
  "https://pub-2e58c6df17c64bd492e25a414243b1b7.r2.dev/images/2015/08/img_5235.jpg": [
   1280,
   960
